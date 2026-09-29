@@ -13449,6 +13449,2851 @@
    "image_mentale": "",
    "cree_par": "seed",
    "rev": 1
+  },
+  {
+   "id": "n-dev-contrainte",
+   "type": "notion",
+   "question": "Le devoir est-il une contrainte ?",
+   "reponse": "Non : il se distingue de la nécessité (on doit manger pour vivre, qu'on le veuille ou non). L'obligation implique la volonté et la liberté de choix (je pourrais ne pas dire la vérité). Mais toute obligation n'est pas un devoir moral.",
+   "notions": [
+    "le devoir",
+    "la liberté"
+   ],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « devoir (notion du bac) », p. 126",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-dev-vrai-devoir",
+   "type": "notion",
+   "question": "À quoi reconnaît-on le véritable devoir selon Kant ?",
+   "reponse": "Il est distinct de tout mobile sensible et indépendant de tout contexte : impératif catégorique, opposé aux impératifs hypothétiques (règles d'habileté, conseils de prudence). Il est exigence désintéressée, motivée par le respect de la loi et de son universalité.",
+   "notions": [
+    "le devoir"
+   ],
+   "auteurs": [
+    "Kant"
+   ],
+   "oeuvre": "Fondements de la métaphysique des mœurs",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « devoir (notion du bac) », p. 126",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-dev-citations",
+   "type": "notion",
+   "question": "Que retenir des citations de Spinoza et Rousseau sur le devoir ?",
+   "reponse": "Spinoza : le devoir de l'homme libre est de vivre selon la raison, sa sagesse est méditation de la vie, non de la mort. Rousseau : « soyez humains » est le premier (et le seul) devoir : se conformer à un idéal d'humanité.",
+   "notions": [
+    "le devoir"
+   ],
+   "auteurs": [
+    "Spinoza",
+    "Rousseau"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « devoir (notion du bac) », p. 127",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-dev-nietzsche-arendt",
+   "type": "notion",
+   "question": "Comment Nietzsche et Arendt éclairent-ils le devoir d'obéissance ?",
+   "reponse": "Nietzsche : appeler « Dieu » celui dont on dit qu'il ordonne la soumission transforme la faiblesse en mérite et l'incapacité d'agir en vertu. Arendt : Eichmann déclare qu'il faisait son devoir, en obéissant aux ordres et à la loi, non sans mauvaise foi (il se réclame de Kant).",
+   "notions": [
+    "le devoir",
+    "la justice"
+   ],
+   "auteurs": [
+    "Nietzsche",
+    "Arendt",
+    "Kant"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « devoir (notion du bac) », p. 127",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-dev-conflits",
+   "type": "notion",
+   "question": "Quelle limite rencontre la morale kantienne du devoir ?",
+   "reponse": "Les conflits de devoirs : en bioéthique par exemple, on ne peut résoudre les choix a priori par des principes incontestables ; une approche utilitariste l'emporte parfois. Tous les êtres humains sont fins en soi, mais un choix forcé peut faire prioritaire tel malade.",
+   "notions": [
+    "le devoir",
+    "la science"
+   ],
+   "auteurs": [
+    "Kant"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « devoir (notion du bac) », p. 127-128",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-dev-responsabilites",
+   "type": "notion",
+   "question": "Pourquoi les progrès techniques multiplient-ils les conflits de devoirs ?",
+   "reponse": "Ils nous mettent chaque jour en face de nouvelles responsabilités et de nouveaux devoirs plus souvent incompatibles que conciliables (Jonas).",
+   "notions": [
+    "le devoir",
+    "la technique"
+   ],
+   "auteurs": [
+    "Jonas"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « devoir (notion du bac) », p. 128",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-etat-definition",
+   "type": "notion",
+   "question": "Qu'est-ce que l'État, et que suppose cette notion ?",
+   "reponse": "L'ensemble des institutions (politiques, juridiques, militaires, administratives, économiques) qui organisent une société sur un territoire. Elle suppose la permanence du pouvoir (il n'est plus incorporé dans un chef) et la chose publique (res publica).",
+   "notions": [
+    "l'État"
+   ],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « État (notion du bac) », p. 166",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-etat-legitimite",
+   "type": "notion",
+   "question": "Comment l'État moderne se prive-t-il de la légitimation religieuse ?",
+   "reponse": "En affirmant son indépendance à l'égard de l'Église (Bodin, La République, 1576), il perd la légitimation traditionnelle. Machiavel, premier penseur d'un État désacralisé, fait dépendre le pouvoir de l'habileté du Prince ; les contractualistes lui donnent un fondement : le pacte social.",
+   "notions": [
+    "l'État",
+    "la religion"
+   ],
+   "auteurs": [
+    "Machiavel",
+    "Hobbes",
+    "Locke",
+    "Rousseau"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « État (notion du bac) », p. 166-168",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-etat-citations",
+   "type": "notion",
+   "question": "Que retenir des citations d'Aristote, Spinoza et Montesquieu sur l'État ?",
+   "reponse": "Aristote : l'homme est naturellement un animal politique. Spinoza : la fin de l'État est la liberté (délivrer de la crainte). Montesquieu : pour qu'on ne puisse abuser du pouvoir, il faut que le pouvoir arrête le pouvoir.",
+   "notions": [
+    "l'État",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Aristote",
+    "Spinoza",
+    "Montesquieu"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « État (notion du bac) », p. 167",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-etat-weber-marx-alain",
+   "type": "notion",
+   "question": "Que retenir des citations de Weber, Marx et Alain sur l'État ?",
+   "reponse": "Weber : monopole de la violence physique légitime, instrument nécessaire de l'ordre. Marx : les luttes dans l'État sont des formes illusoires des luttes de classes ; il représente les intérêts de la classe puissante. Alain : le Léviathan est un enfant ou un sauvage.",
+   "notions": [
+    "l'État",
+    "la justice"
+   ],
+   "auteurs": [
+    "Weber",
+    "Marx",
+    "Alain"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « État (notion du bac) », p. 167",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-etat-contrat",
+   "type": "notion",
+   "question": "Que partagent les théoriciens du contrat social ?",
+   "reponse": "Les hommes sont naturellement libres et égaux : le pouvoir repose sur leur consentement. Ils renoncent à leur droit naturel d'agir de leur propre chef, contre paix civile, sûreté et liberté autorisée par la loi. Précurseurs de l'État de droit.",
+   "notions": [
+    "l'État",
+    "la liberté",
+    "la justice"
+   ],
+   "auteurs": [
+    "Hobbes",
+    "Locke",
+    "Rousseau"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « État (notion du bac) », p. 168",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-etat-locke-hobbes-rousseau",
+   "type": "notion",
+   "question": "Locke, Hobbes et Rousseau : quelle différence de conception de l'État ?",
+   "reponse": "Locke : État libéral limité, sauvegarde liberté et propriété, sans intervenir en religion ni en économie. Hobbes : absolutisme (pas despotisme), pour assurer la sécurité. Rousseau : synthèse, la volonté générale exprimée par la loi rend l'obéissance compatible avec la liberté.",
+   "notions": [
+    "l'État",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Locke",
+    "Hobbes",
+    "Rousseau"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « État (notion du bac) », p. 168",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-etat-raison-violence",
+   "type": "notion",
+   "question": "Hegel voit-il l'État comme raison ? Quelles inquiétudes en découlent ?",
+   "reponse": "Hegel : « réalité de l'Idée morale », la raison en acte. Mais n'est-ce pas un culte de l'État, dont le totalitarisme fut la manifestation ? Bureaucratie et technostructures rendent l'État étranger au citoyen : « le plus froid des monstres froids » (Nietzsche).",
+   "notions": [
+    "l'État",
+    "la raison"
+   ],
+   "auteurs": [
+    "Hegel",
+    "Nietzsche"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « État (notion du bac) », p. 168",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-etat-anarchisme-marxisme",
+   "type": "notion",
+   "question": "Anarchisme et marxisme : deux critiques de l'État ?",
+   "reponse": "Anarchisme (Bakounine, Proudhon) : l'État est le mal politique absolu, à supprimer. Marxisme : l'État est au service de la classe dominante ; à détruire par la révolution, avec provisoirement la dictature du prolétariat. L'expérience a plutôt produit un État totalitaire hypertrophié.",
+   "notions": [
+    "l'État",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Marx"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « État (notion du bac) », p. 168-169",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-etat-cosmopolite",
+   "type": "notion",
+   "question": "Vers quel État l'évolution actuelle conduit-elle selon le dictionnaire ?",
+   "reponse": "L'État de droit garantit mieux la liberté que les tentatives d'abolition ; l'artificialité de certains États n'entraîne pas leur disparition mais leur internationalisation (communauté internationale). Perspective kantienne : fédération d'États libres et citoyens du monde.",
+   "notions": [
+    "l'État",
+    "la justice"
+   ],
+   "auteurs": [
+    "Kant"
+   ],
+   "oeuvre": "Vers la paix perpétuelle",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « État (notion du bac) », p. 169",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-incs-deux-sens",
+   "type": "notion",
+   "question": "Quels sont les deux sens du mot « inconscient » ?",
+   "reponse": "Négatif : ce qui n'est pas conscient (non-conscient, surtout adjectif ; le substantif est inconscience). Positif : réalité psychique avec son mode de fonctionnement propre, découverte freudienne (surtout substantif). Il n'est un concept qu'avec Freud.",
+   "notions": [
+    "l'inconscient"
+   ],
+   "auteurs": [
+    "Freud"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « inconscient (notion du bac) », p. 246-247",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-incs-precurseurs",
+   "type": "notion",
+   "question": "Quels sont les précurseurs de l'inconscient avant Freud ?",
+   "reponse": "Descartes identifie conscience et pensée (pas d'inconscient). Leibniz : petites perceptions. Bergson : l'oubli chasse hors de la conscience ce qui est inutile à l'action. Toujours un inconscient négatif ; seul Nietzsche soutient une pensée inconsciente et impersonnelle (« quelque chose pense »).",
+   "notions": [
+    "l'inconscient",
+    "la conscience"
+   ],
+   "auteurs": [
+    "Descartes",
+    "Leibniz",
+    "Bergson",
+    "Nietzsche"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « inconscient (notion du bac) », p. 247-248",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-incs-citations-classiques",
+   "type": "notion",
+   "question": "Que retenir des citations de Montaigne et Leibniz sur l'inconscient ?",
+   "reponse": "Montaigne : plus je me connais, plus mon étrangeté m'étonne, une part effrayante du psychisme. Leibniz : les petites perceptions font que le présent est chargé du passé et gros de l'avenir ; arrière-plan permanent de la personnalité.",
+   "notions": [
+    "l'inconscient",
+    "le temps"
+   ],
+   "auteurs": [
+    "Montaigne",
+    "Leibniz"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « inconscient (notion du bac) », p. 247",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-incs-premiere-topique",
+   "type": "notion",
+   "question": "Quelle est la première topique freudienne (vers 1900) ?",
+   "reponse": "Trois instances : inconscient (Ics), préconscient (Pcs), conscient (Cs). Le préconscient est du conscient latent ; l'inconscient, défini positivement et dynamiquement, est séparé du système Pcs-Cs par la censure et résulte d'un refoulement.",
+   "notions": [
+    "l'inconscient",
+    "la conscience"
+   ],
+   "auteurs": [
+    "Freud"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « inconscient (notion du bac) », p. 248",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-incs-deuxieme-topique",
+   "type": "notion",
+   "question": "Quelle est la deuxième topique (à partir de 1920) ?",
+   "reponse": "Ça (pulsions inconscientes, principe de plaisir), moi (principe de réalité, médiateur, autonomie relative) et surmoi (intériorisation inconsciente des interdits sociaux et parentaux). Elle complète la première sans l'annuler.",
+   "notions": [
+    "l'inconscient"
+   ],
+   "auteurs": [
+    "Freud"
+   ],
+   "oeuvre": "Le Moi et le Ça",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « inconscient (notion du bac) », p. 248",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-incs-freud-citations",
+   "type": "notion",
+   "question": "Que retenir des deux citations de Freud du dictionnaire ?",
+   "reponse": "L'hypothèse de l'inconscient est nécessaire et légitime : elle seule ordonne les actes psychiques. L'interprétation des rêves, représentation de désirs refoulés, est la voie royale de la connaissance de l'inconscient.",
+   "notions": [
+    "l'inconscient"
+   ],
+   "auteurs": [
+    "Freud"
+   ],
+   "oeuvre": "L'Interprétation du rêve",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « inconscient (notion du bac) », p. 247",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-incs-liberte",
+   "type": "notion",
+   "question": "L'inconscient supprime-t-il la liberté ?",
+   "reponse": "Alain réduit l'inconscient à la partie animale et instinctive ; Sartre le ramène à la mauvaise foi (la censure doit connaître ce qu'elle refoule). Mais l'inconscient est le résultat de l'histoire du sujet, qui peut se le réapproprier par le travail analytique : « Là où était du ça, doit advenir du moi ».",
+   "notions": [
+    "l'inconscient",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Alain",
+    "Sartre",
+    "Freud"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « inconscient (notion du bac) », p. 247-249",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-just-vertu-globale",
+   "type": "notion",
+   "question": "La justice est-elle une vertu ou une organisation harmonieuse ?",
+   "reponse": "Les deux selon Platon : principe qui maintient chaque instance à sa place et l'harmonie de l'ensemble, dans la cité (magistrats, guerriers, artisans) comme dans l'âme (raison, thumos, epithumia). Vertu globale : à chaque partie sa place, selon son essence.",
+   "notions": [
+    "la justice"
+   ],
+   "auteurs": [
+    "Platon"
+   ],
+   "oeuvre": "République",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « justice (notion du bac) », p. 270",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-just-biblique",
+   "type": "notion",
+   "question": "Comment la tradition biblique (Augustin) élargit-elle la justice ?",
+   "reponse": "Aux rapports entre l'homme et Dieu : plus que le respect du bon droit, elle va au-delà du dû (Matthieu 20) et réside dans la pureté intérieure sanctifiée par la grâce. Ricœur étudie la dialectique entre la logique de surabondance (amour) et d'équivalence (justice).",
+   "notions": [
+    "la justice",
+    "la religion"
+   ],
+   "auteurs": [
+    "Augustin",
+    "Ricœur"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « justice (notion du bac) », p. 270-272",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-just-citations",
+   "type": "notion",
+   "question": "Que retenir des citations de Socrate, Hobbes et Pascal sur la justice ?",
+   "reponse": "Socrate : mieux vaut subir l'injustice que la commettre. Hobbes : sans pouvoir commun, pas de loi, donc pas d'injustice ; la loi instaure le juste. Pascal : ne pouvant faire que le juste soit fort, on a fait que le fort soit juste.",
+   "notions": [
+    "la justice",
+    "l'État"
+   ],
+   "auteurs": [
+    "Platon",
+    "Hobbes",
+    "Pascal"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « justice (notion du bac) », p. 271",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-just-rousseau-alain",
+   "type": "notion",
+   "question": "Que retenir des citations de Rousseau et d'Alain sur la justice ?",
+   "reponse": "Rousseau : le citoyen consent à toutes les lois, même à celles qui le punissent, la voix du plus grand nombre obligeant tous (contrat social). Alain : est juste d'accepter d'avance l'arbitrage, non l'arbitrage juste.",
+   "notions": [
+    "la justice",
+    "l'État"
+   ],
+   "auteurs": [
+    "Rousseau",
+    "Alain"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « justice (notion du bac) », p. 271",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-just-aristote",
+   "type": "notion",
+   "question": "Quelles formes de justice Aristote distingue-t-il ?",
+   "reponse": "Justice générale ou légale (utilité commune de la cité) et particulière (bien des particuliers) : commutative (transactions, égalité), distributive (proportion aux mérites), corrective (punit les infractions). Objet : un juste milieu fondé sur l'égalité.",
+   "notions": [
+    "la justice",
+    "le devoir"
+   ],
+   "auteurs": [
+    "Aristote"
+   ],
+   "oeuvre": "Éthique à Nicomaque",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « justice (notion du bac) », p. 272",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-just-equite",
+   "type": "notion",
+   "question": "Quel double principe repose sous la justice, et comment Rawls le reprend-il ?",
+   "reponse": "Égalité (la loi est la même pour tous) et équité (à chacun son dû). Rawls, fidèle à Aristote, donne la prééminence à la justice sur l'efficacité ; deux principes : libertés égales pour tous, inégalités acceptables si avantageuses pour chacun et attachées à des positions ouvertes.",
+   "notions": [
+    "la justice",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Rawls",
+    "Aristote"
+   ],
+   "oeuvre": "Théorie de la justice",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « justice (notion du bac) », p. 272",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-lang-sens",
+   "type": "notion",
+   "question": "Langage, langue, parole : quelles distinctions ?",
+   "reponse": "Le langage est la faculté de constituer un système de signes (au sens large, tout système d'expression ; au sens strict, institution universelle propre à l'homme). La langue est l'instrument d'une communauté. La parole est l'acte individuel qui exerce la fonction linguistique.",
+   "notions": [
+    "le langage"
+   ],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « langage (notion du bac) », p. 285",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-lang-propre-homme",
+   "type": "notion",
+   "question": "Le langage est-il le propre de l'homme ?",
+   "reponse": "Descartes : les bêtes ne parlent pas faute de pensée, non faute d'organes. Aujourd'hui on insiste sur le caractère historique et social du langage et sur des activités prélinguistiques de l'enfant ; Benveniste distingue communication animale et langage humain.",
+   "notions": [
+    "le langage",
+    "la raison"
+   ],
+   "auteurs": [
+    "Descartes"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « langage (notion du bac) », p. 285",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-lang-double-articulation",
+   "type": "notion",
+   "question": "Qu'est-ce que la double articulation du langage ?",
+   "reponse": "Première articulation : unités de sens et de sons (monèmes). Seconde : quelques dizaines de phonèmes en nombre fini. Avec une quarantaine de sons, on forme un nombre quasi illimité d'énoncés en épargnant la mémoire.",
+   "notions": [
+    "le langage",
+    "la science"
+   ],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « langage (notion du bac) », p. 285-287",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-lang-citations",
+   "type": "notion",
+   "question": "Que retenir des citations de Descartes, Rousseau, Freud et Bergson sur le langage ?",
+   "reponse": "Descartes : tout homme invente des signes, les bêtes n'ont pas de pensée. Rousseau : le plus énergique est le signe qui a tout dit avant qu'on parle. Freud : la parole est à l'origine un charme magique. Bergson : les mots sont des étiquettes qui font écran aux choses singulières.",
+   "notions": [
+    "le langage"
+   ],
+   "auteurs": [
+    "Descartes",
+    "Rousseau",
+    "Freud",
+    "Bergson"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « langage (notion du bac) », p. 286",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-lang-saussure-wittgenstein",
+   "type": "notion",
+   "question": "Que retenir de Saussure et Wittgenstein (citations) sur le langage ?",
+   "reponse": "Saussure : la langue est comme une feuille de papier, la pensée le recto et le son le verso : impossible de séparer les idées des mots. Wittgenstein (Tractatus) : ce dont on ne peut parler, il faut le taire ; bien des problèmes sont sans sens.",
+   "notions": [
+    "le langage",
+    "la vérité"
+   ],
+   "auteurs": [
+    "Wittgenstein"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « langage (notion du bac) », p. 286",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-lang-systeme",
+   "type": "notion",
+   "question": "Pourquoi Saussure compare-t-il la langue à un jeu d'échecs ?",
+   "reponse": "Comme un système d'éléments interdépendants qui se soutiennent mutuellement et ne se comprennent pas isolément (circularité de la signification dans un dictionnaire).",
+   "notions": [
+    "le langage"
+   ],
+   "auteurs": [],
+   "oeuvre": "Cours de linguistique générale",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « langage (notion du bac) », p. 287",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-lang-pragmatique",
+   "type": "notion",
+   "question": "Quelle dimension pragmatique du langage Wittgenstein et Austin font-ils apparaître ?",
+   "reponse": "Wittgenstein : les jeux de langage, pratiques collectives aux règles propres ; le langage n'est pas privé. Austin : les énoncés performatifs sont des actes (je lègue ma fortune) qui produisent des effets, avec des conditions d'accomplissement.",
+   "notions": [
+    "le langage",
+    "la vérité"
+   ],
+   "auteurs": [
+    "Wittgenstein"
+   ],
+   "oeuvre": "Quand dire, c’est faire",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « langage (notion du bac) », p. 287",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-lang-pouvoir-mots",
+   "type": "notion",
+   "question": "Quel pouvoir des mots Platon redoute-t-il ?",
+   "reponse": "Dans le Gorgias, il met en garde contre la rhétorique pratiquée par politiciens opportunistes et sophistes. Aujourd'hui, la communication réactualise ce risque de détournement des mots à des fins personnelles ou violentes, qui menace le dialogue et la pensée.",
+   "notions": [
+    "le langage",
+    "la justice"
+   ],
+   "auteurs": [
+    "Platon"
+   ],
+   "oeuvre": "Gorgias",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « langage (notion du bac) », p. 287",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-lib-contrainte",
+   "type": "notion",
+   "question": "Quel est le sens usuel et originel de la liberté ?",
+   "reponse": "Ne pas être empêché de faire ce que l'on veut, absence de contrainte étrangère. Pour les Anciens, condition de qui n'est ni esclave ni prisonnier : d'abord un statut social et politique. Arendt : sans vie publique garantie, la liberté n'a pas de « réalité mondaine ».",
+   "notions": [
+    "la liberté",
+    "l'État"
+   ],
+   "auteurs": [
+    "Arendt"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « liberté (notion du bac) », p. 296",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-lib-stoiciens",
+   "type": "notion",
+   "question": "Comment les stoïciens conçoivent-ils la liberté ?",
+   "reponse": "Comme indépendance intérieure : le sage se détache de ce qui n'est pas en son pouvoir, maîtrise ses passions et comprend la nature. Cela suppose que la liberté ne soit que l'autre nom de la raison, d'où (Spinoza) son identification à la nécessité.",
+   "notions": [
+    "la liberté",
+    "la raison"
+   ],
+   "auteurs": [
+    "Spinoza"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « liberté (notion du bac) », p. 296",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-lib-descartes-sartre",
+   "type": "notion",
+   "question": "Comment Descartes et Sartre conçoivent-ils la liberté ?",
+   "reponse": "Descartes : l'indifférence est le plus bas degré ; la vraie liberté est adhésion de la volonté éclairée par la connaissance du bien. Sartre : libre arbitre originel et créateur, absolue responsabilité.",
+   "notions": [
+    "la liberté"
+   ],
+   "auteurs": [
+    "Descartes",
+    "Sartre"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « liberté (notion du bac) », p. 296",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-lib-loi",
+   "type": "notion",
+   "question": "Pourquoi n'y a-t-il pas de liberté sans loi (Rousseau, Kant, Montesquieu) ?",
+   "reponse": "Si chacun fait ce qui lui plaît, on fait ce qui déplaît à d'autres. La loi limite mais conditionne la liberté : autonomie, obéir à la loi qu'on se prescrit (volonté générale, loi morale). Montesquieu : pouvoir faire ce que l'on doit vouloir.",
+   "notions": [
+    "la liberté",
+    "l'État"
+   ],
+   "auteurs": [
+    "Rousseau",
+    "Kant",
+    "Montesquieu"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « liberté (notion du bac) », p. 296",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-lib-citations",
+   "type": "notion",
+   "question": "Que retenir des citations sur la liberté (Épictète, Spinoza, Sartre) ?",
+   "reponse": "Épictète : aucun tyran ne peut m'ôter ma pensée ni ma liberté. Spinoza : la liberté du libre arbitre est illusion, ignorance des causes. Sartre : condamné à être libre, l'explication déterministe cherche vainement à fuir la liberté.",
+   "notions": [
+    "la liberté"
+   ],
+   "auteurs": [
+    "Épictète",
+    "Spinoza",
+    "Sartre"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « liberté (notion du bac) », p. 297",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-lib-rousseau-kant-montesquieu",
+   "type": "notion",
+   "question": "Que retenir des citations de Montesquieu, Rousseau et Kant sur la liberté ?",
+   "reponse": "Montesquieu : le droit de faire tout ce que les lois permettent. Rousseau : renoncer à sa liberté, c'est renoncer à sa qualité d'homme ; un pacte de servitude est nul. Kant : la loi morale est l'autonomie de la raison pure pratique, c'est-à-dire la liberté.",
+   "notions": [
+    "la liberté",
+    "le devoir"
+   ],
+   "auteurs": [
+    "Montesquieu",
+    "Rousseau",
+    "Kant"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « liberté (notion du bac) », p. 297",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-lib-negative-positive",
+   "type": "notion",
+   "question": "Quelle différence entre liberté négative et liberté positive (Constant, Berlin) ?",
+   "reponse": "Anciens : participation active à la vie publique ; Modernes : indépendance individuelle, protection des intérêts privés (Constant). Berlin : liberté négative (absence d'entrave) contre positive (prendre part aux décisions). Aron : la seule liberté fondamentale est « ne pas être empêché de ».",
+   "notions": [
+    "la liberté",
+    "l'État"
+   ],
+   "auteurs": [
+    "Aron"
+   ],
+   "oeuvre": "Deux concepts de liberté",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « liberté (notion du bac) », p. 298",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-nat-sens",
+   "type": "notion",
+   "question": "Quels sens du mot nature faut-il distinguer ?",
+   "reponse": "Ce qui existe indépendamment de l'homme et du monde humanisé ; le principe de développement autonome d'un être vivant ; la nature humaine (commune à tous) ou la nature d'une personne (tempérament, dispositions innées, opposées à l'acquis). Natura vient de nascor, « naître ».",
+   "notions": [
+    "la nature"
+   ],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « nature (notion du bac) », p. 349",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-nat-aristote",
+   "type": "notion",
+   "question": "Comment Aristote définit-il la nature par analogie avec le travail ?",
+   "reponse": "La nature (phusis) est un principe de mouvement et de repos ; les êtres naturels portent en eux-mêmes ce principe, comme l'artisan est cause des objets fabriqués, dont le principe est extérieur. Autonomie locomotrice, croissance et déclin en relèvent.",
+   "notions": [
+    "la nature",
+    "le travail"
+   ],
+   "auteurs": [
+    "Aristote"
+   ],
+   "oeuvre": "Physique",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « nature (notion du bac) », p. 349",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-nat-descartes",
+   "type": "notion",
+   "question": "Quelle conception de la nature découle du mécanisme de Descartes ?",
+   "reponse": "La technique est le modèle de la nature : animaux-machines, physiologie de tuyaux et de ressorts, Dieu artisan parfait. Connaître les lois, c'est dominer la nature : « maîtres et possesseurs de la nature ». Seul l'homme poursuit des fins.",
+   "notions": [
+    "la nature",
+    "la technique",
+    "la science"
+   ],
+   "auteurs": [
+    "Descartes"
+   ],
+   "oeuvre": "Discours de la méthode",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « nature (notion du bac) », p. 349",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-nat-rousseau",
+   "type": "notion",
+   "question": "Pourquoi Rousseau fait-il de la nature une notion critique ?",
+   "reponse": "La domination de la nature n'augmente pas notre bonheur ni notre liberté ; l'homme l'a transformée jusqu'à la rendre méconnaissable. La nature est une origine perdue que la raison reconstitue et qui sert de modèle pour dénoncer les errements des individus et de la société.",
+   "notions": [
+    "la nature",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Rousseau"
+   ],
+   "oeuvre": "Discours sur l'origine de l'inégalité",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « nature (notion du bac) », p. 349",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-nat-citations",
+   "type": "notion",
+   "question": "Que retenir des citations sur la nature (Aristote, Pascal, Hume) ?",
+   "reponse": "Aristote : l'être naturel possède en lui le principe de son mouvement, contrairement au produit de l'art. Pascal : l'homme est un milieu entre rien et tout. Hume : si l'on juge naturel ce qui est habituel, la vertu héroïque est aussi peu naturelle que la barbarie.",
+   "notions": [
+    "la nature"
+   ],
+   "auteurs": [
+    "Aristote",
+    "Pascal",
+    "Hume"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « nature (notion du bac) », p. 350",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-nat-rousseau-kant-jonas",
+   "type": "notion",
+   "question": "Que retenir des citations de Rousseau, Kant et Jonas sur la nature ?",
+   "reponse": "Rousseau : la pitié, mouvement de la nature, fonde les vertus sociales. Kant : la nature n'est qu'un ensemble de phénomènes, ordonnés par nous. Jonas : la nature menacée lance un appel muet à sa préservation, nouvel objet de la responsabilité.",
+   "notions": [
+    "la nature",
+    "le devoir"
+   ],
+   "auteurs": [
+    "Rousseau",
+    "Kant",
+    "Jonas"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « nature (notion du bac) », p. 350",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-nat-ecologie",
+   "type": "notion",
+   "question": "Qu'apporte l'écologie à la réflexion sur la nature ?",
+   "reponse": "La connaissance de la nature libère (Lucrèce : contre les chimères surnaturelles) mais rappelle aussi les limites du pouvoir de l'homme ; elle impose une réforme de l'éthique (Jonas).",
+   "notions": [
+    "la nature",
+    "la science",
+    "la technique"
+   ],
+   "auteurs": [
+    "Lucrèce",
+    "Jonas"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « nature (notion du bac) », p. 351",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-rais-sens",
+   "type": "notion",
+   "question": "Que signifie « raison » ?",
+   "reponse": "Bon sens, faculté de connaître, de juger (distinguer le vrai et le faux, Descartes) et de déterminer sa conduite, mais aussi motif ou cause. Ratio : « calcul ». Distincte des sens et de la révélation ; pour tous les philosophes, elle est le propre de l'homme (langage, pensée, connaissance, moralité).",
+   "notions": [
+    "la raison"
+   ],
+   "auteurs": [
+    "Descartes"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « raison (notion du bac) », p. 418",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-rais-concepts",
+   "type": "notion",
+   "question": "Quelle est la fonction de la raison comme faculté de combiner des jugements ?",
+   "reponse": "Former concepts et jugements, organiser les connaissances en systèmes et donner un sens à l'Univers en y introduisant de l'ordre. Elle s'oppose à la sensibilité et à la foi, qui répond à la question du sens dans l'ordre de la croyance.",
+   "notions": [
+    "la raison",
+    "la vérité"
+   ],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « raison (notion du bac) », p. 418",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-rais-principe-raison",
+   "type": "notion",
+   "question": "Qu'énonce le principe de raison suffisante de Leibniz ?",
+   "reponse": "Rien n'arrive sans qu'il y ait une cause, ou du moins une raison déterminante qui puisse rendre raison a priori pourquoi cela existe et pourquoi ainsi plutôt qu'autrement : sommet de la tendance de la raison à « rendre raison » du monde.",
+   "notions": [
+    "la raison"
+   ],
+   "auteurs": [
+    "Leibniz"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « raison (notion du bac) », p. 418",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-rais-pure",
+   "type": "notion",
+   "question": "Que veut dire Kant en parlant de raison pure, à la fois théorique et pratique ?",
+   "reponse": "Pure car a priori : elle fournit les principes de la connaissance et ceux qui règlent l'action. Il n'y a pas deux raisons mais deux usages d'une faculté unique (connaissance, morale). Elle seule, non l'entendement, peut postuler liberté, immortalité et Dieu.",
+   "notions": [
+    "la raison",
+    "le devoir"
+   ],
+   "auteurs": [
+    "Kant"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « raison (notion du bac) », p. 418",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-rais-hegel",
+   "type": "notion",
+   "question": "Que veut dire Hegel par « la raison gouverne le monde » ?",
+   "reponse": "Tout ce qui arrive a un sens, celui du progrès de la raison ; un Esprit supérieur guide le cours des choses. Les passions sont une « ruse de la raison » : elles servent à réaliser des fins rationnelles (progrès de la liberté, État mondial rationnel).",
+   "notions": [
+    "la raison",
+    "le temps",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Hegel"
+   ],
+   "oeuvre": "La Raison dans l'histoire",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « raison (notion du bac) », p. 418-420",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-rais-citations",
+   "type": "notion",
+   "question": "Que retenir des citations de Thomas d'Aquin, Descartes, Pascal sur la raison ?",
+   "reponse": "Thomas : l'homme est libre parce qu'il est doué de raison. Descartes : le bon sens est également réparti, il faut une méthode. Pascal : la dernière démarche de la raison est de reconnaître qu'une infinité de choses la dépasse.",
+   "notions": [
+    "la raison",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Thomas d’Aquin",
+    "Descartes",
+    "Pascal"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « raison (notion du bac) », p. 419",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-rais-spinoza-kant-nietzsche",
+   "type": "notion",
+   "question": "Que retenir des citations de Spinoza, Kant et Nietzsche sur la raison ?",
+   "reponse": "Spinoza : les hommes s'accordent nécessairement en tant qu'ils vivent sous la conduite de la raison. Kant : la raison se pose des questions qu'elle ne peut éviter ni résoudre. Nietzsche : la raison elle-même n'est pas toujours rationnelle.",
+   "notions": [
+    "la raison"
+   ],
+   "auteurs": [
+    "Spinoza",
+    "Kant",
+    "Nietzsche"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « raison (notion du bac) », p. 419",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-reli-etymologie",
+   "type": "notion",
+   "question": "Quelles sont les deux étymologies de « religion » et que révèlent-elles ?",
+   "reponse": "Relegere, « relire » (Cicéron : comprendre le sens des rites) ; religare, « relier » (Augustin : ce qui unit à Dieu). Double aspect : piété (religion dynamique, Bergson) et pratique rituelle institutionnalisée (religion statique). Un aspect subjectif (foi) et objectif (cérémonies, Église).",
+   "notions": [
+    "la religion"
+   ],
+   "auteurs": [
+    "Cicéron",
+    "Augustin",
+    "Bergson"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « religion (notion du bac) », p. 426",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-reli-sacre-profane",
+   "type": "notion",
+   "question": "Quelle unité trouve-t-on derrière la diversité des religions (Durkheim) ?",
+   "reponse": "L'opposition entre le sacré et le profane : le profane est la réalité ordinaire, le sacré concentre toute la signification du réel, ambivalent. C'est la « forme élémentaire de la vie religieuse ». Un monde entièrement profane serait irréligieux ; les sociétés laïcisées gardent des résidus de religiosité.",
+   "notions": [
+    "la religion"
+   ],
+   "auteurs": [
+    "Durkheim"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « religion (notion du bac) », p. 426",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-reli-foi",
+   "type": "notion",
+   "question": "Qu'est-ce que la foi et quels rapports a-t-elle avec la raison ?",
+   "reponse": "Confiance (fides) : le fidèle s'en remet à Dieu, puissance infinie, devant des vérités mystérieuses au-delà de la raison (« vérités du cœur » de Pascal). Les rapports oscillent entre hostilité et collaboration (Anselme, Thomas : philosophie au service de la théologie). Le Dieu de la religion n'est pas celui des philosophes (Pascal).",
+   "notions": [
+    "la religion",
+    "la raison"
+   ],
+   "auteurs": [
+    "Pascal",
+    "Anselme",
+    "Thomas d’Aquin",
+    "Kierkegaard"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « religion (notion du bac) », p. 427-428",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-reli-citations",
+   "type": "notion",
+   "question": "Que retenir des citations sur la religion (Augustin, Descartes, Spinoza) ?",
+   "reponse": "Augustin : la faim de l'âme ne peut être comblée que par Dieu. Descartes : la foi est un acte de la volonté, non de l'intelligence. Spinoza : croire que Dieu a tout fait pour l'homme détruit sa perfection, car agir en vue d'une fin suppose un manque.",
+   "notions": [
+    "la religion"
+   ],
+   "auteurs": [
+    "Augustin",
+    "Descartes",
+    "Spinoza"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « religion (notion du bac) », p. 427",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-reli-kant-kierkegaard-marx",
+   "type": "notion",
+   "question": "Que retenir des citations de Kant, Kierkegaard et Marx sur la religion ?",
+   "reponse": "Kant : deux religions, celle du culte qui quémande des faveurs et la religion morale de la bonne conduite. Kierkegaard : la foi donne à l'angoisse une valeur éducative absolue. Marx : le communisme commence avec l'athéisme (réappropriation de l'essence humaine).",
+   "notions": [
+    "la religion",
+    "le devoir"
+   ],
+   "auteurs": [
+    "Kant",
+    "Kierkegaard",
+    "Marx"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « religion (notion du bac) », p. 427",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-reli-lumieres",
+   "type": "notion",
+   "question": "Comment le rationalisme classique et les Lumières traitent-ils la religion ?",
+   "reponse": "Descartes et Spinoza ne récusent pas la foi mais affirment l'autonomie de la raison (la foi concerne le salut, la vérité relève de la raison). Les Lumières développent athéisme, matérialisme, hostilité à la révélation et aux dogmes tenus pour superstitions (religion naturelle).",
+   "notions": [
+    "la religion",
+    "la raison"
+   ],
+   "auteurs": [
+    "Descartes",
+    "Spinoza"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « religion (notion du bac) », p. 428",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-reli-alienation",
+   "type": "notion",
+   "question": "Que disent Marx, Feuerbach, Nietzsche et Freud de la religion ?",
+   "reponse": "Marx : opium du peuple, illusion à signification anthropologique (aliénation, frustrations sociales). Feuerbach : Dieu est la projection des aspirations humaines. Nietzsche : pulsions morbides et culpabilité du péché. Freud : « névrose obsessionnelle de l'humanité ».",
+   "notions": [
+    "la religion"
+   ],
+   "auteurs": [
+    "Marx",
+    "Feuerbach",
+    "Nietzsche",
+    "Freud"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « religion (notion du bac) », p. 428",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-reli-reduction",
+   "type": "notion",
+   "question": "Quelle limite commune aux interprétations réductrices de la religion ?",
+   "reponse": "Toutes font de la religion le symptôme d'autre chose (oppression sociale, domination du négatif, souvenir traumatique) et exclusives les unes des autres ; elles négligent la diversité du phénomène et sous-estiment la valeur spirituelle de l'expérience religieuse.",
+   "notions": [
+    "la religion"
+   ],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « religion (notion du bac) », p. 428",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-scie-sens",
+   "type": "notion",
+   "question": "Comment les Grecs et les Modernes conçoivent-ils la science ?",
+   "reponse": "Grecs : épistêmê, connaissance éminente, universelle et théorique (la philosophie est la science suprême). Modernes : connaissance scientifique positive, expérimentale, avec des critères de vérification garantissant l'objectivité.",
+   "notions": [
+    "la science"
+   ],
+   "auteurs": [
+    "Aristote"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « science (notion du bac) », p. 451",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-scie-demarcation",
+   "type": "notion",
+   "question": "Quels sont les problèmes de la philosophie des sciences ?",
+   "reponse": "Démarcation (Popper : contrôle par les faits ; ainsi la philosophie n'est pas une science), unité de la science (unité de méthode, multiplicité des objets), classification (Comte). L'unité de méthode ne concerne que les sciences expérimentales.",
+   "notions": [
+    "la science",
+    "la vérité"
+   ],
+   "auteurs": [
+    "Popper",
+    "Comte"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « science (notion du bac) », p. 451",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-scie-trois-types",
+   "type": "notion",
+   "question": "Quels trois types de sciences distingue-t-on ?",
+   "reponse": "Expérimentales (objets donnés dans l'expérience, contrôle expérimental) ; formelles (mathématiques et logique, déduction à partir d'axiomes, sans vérification expérimentale) ; humaines (statut controversé : positivisme ou, avec Dilthey, sciences de l'esprit fondées sur l'interprétation).",
+   "notions": [
+    "la science",
+    "la raison"
+   ],
+   "auteurs": [
+    "Dilthey",
+    "Comte"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « science (notion du bac) », p. 452-453",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-scie-citations",
+   "type": "notion",
+   "question": "Que retenir des citations d'Aristote, Locke, Kant sur la science ?",
+   "reponse": "Aristote : la science passe d'un étonnement à un autre (ouverture d'esprit). Locke : l'expérience est le fondement de toutes nos connaissances. Kant : l'expérience dit ce qui est, non que cela ne puisse être autrement ; la nécessité des lois doit être démontrée.",
+   "notions": [
+    "la science",
+    "la vérité"
+   ],
+   "auteurs": [
+    "Aristote",
+    "Locke",
+    "Kant"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « science (notion du bac) », p. 452",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-scie-heidegger-bachelard-popper",
+   "type": "notion",
+   "question": "Que retenir des citations de Heidegger, Bachelard et Popper sur la science ?",
+   "reponse": "Heidegger : « la science ne pense pas » : la réflexion philosophique n'est pas de son ressort. Bachelard : on ne fonde rien sur l'opinion, il faut d'abord la détruire. Popper : une théorie irréfutable n'est pas scientifique ; aucune n'est définitive.",
+   "notions": [
+    "la science",
+    "la vérité"
+   ],
+   "auteurs": [
+    "Heidegger",
+    "Bachelard",
+    "Popper"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « science (notion du bac) », p. 452",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-tech-definition",
+   "type": "notion",
+   "question": "Qu'est-ce que la technique et en quoi diffère-t-elle de l'art ?",
+   "reponse": "Tekhnê : savoir-faire permettant d'obtenir volontairement un résultat déterminé (issu de l'expérience, de règles codifiées ou d'un savoir scientifique). À la différence de l'art, à finalité esthétique désintéressée, la technique vise l'utilité et l'efficacité.",
+   "notions": [
+    "la technique",
+    "l'art"
+   ],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « technique (notion du bac) », p. 487",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-tech-humanite",
+   "type": "notion",
+   "question": "Pourquoi la technique est-elle un critère d'humanité ?",
+   "reponse": "La fabrication d'outils suppose de se représenter l'action, la forme et les matériaux : comme le langage, la technique est indissociable de la pensée (Leroi-Gourhan). L'outil, prolongement du corps, médiatise notre rapport à la nature et contribue à nous rendre « maîtres et possesseurs de la nature » (Descartes).",
+   "notions": [
+    "la technique",
+    "la nature"
+   ],
+   "auteurs": [
+    "Descartes",
+    "Aristote"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « technique (notion du bac) », p. 487",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-tech-poiesis",
+   "type": "notion",
+   "question": "Comment les Anciens et les Modernes ont-ils pensé la technique ?",
+   "reponse": "Les Anciens la dévalorisent (poiêsis) au profit de la praxis (action morale, politique) et de la theôria (contemplation). Aux XVIIIe-XIXe siècles, on l'a peu pensée pour elle-même, au nom de la neutralité des outils, tout en déplorant l'impuissance devant les machines (Arendt).",
+   "notions": [
+    "la technique",
+    "le travail"
+   ],
+   "auteurs": [
+    "Arendt"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « technique (notion du bac) », p. 487",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-tech-ambivalence",
+   "type": "notion",
+   "question": "La technique est-elle neutre ?",
+   "reponse": "Non (Marx) : maîtrisée par une minorité, elle peut servir de domination sur la majorité (aliénation des travailleurs). Simondon en propose une pensée positive : l'homme est coordinateur et inventeur des machines, l'objet technique est médiateur entre l'humanité et le monde.",
+   "notions": [
+    "la technique",
+    "le travail"
+   ],
+   "auteurs": [
+    "Marx",
+    "Simondon"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « technique (notion du bac) », p. 487",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-tech-citations",
+   "type": "notion",
+   "question": "Que retenir des citations d'Aristote, Descartes, Hegel sur la technique ?",
+   "reponse": "Aristote : ce n'est pas parce qu'il a des mains que l'homme est le plus intelligent, mais parce qu'il est le plus intelligent qu'il a des mains. Descartes : les métiers permettraient de devenir maîtres de la nature. Hegel : l'outil, production de l'Esprit, est plus haut qu'une chose de la nature.",
+   "notions": [
+    "la technique"
+   ],
+   "auteurs": [
+    "Aristote",
+    "Descartes",
+    "Hegel"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « technique (notion du bac) », p. 488",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-tech-bergson-heidegger-jonas",
+   "type": "notion",
+   "question": "Que retenir des citations de Bergson, Heidegger et Jonas sur la technique ?",
+   "reponse": "Bergson : l'intelligence est la faculté de fabriquer des objets artificiels, des outils à faire des outils. Heidegger : la technique déracine l'homme et impose une vision utilitaire de la nature. Jonas : la promesse de la technique s'est inversée en menace.",
+   "notions": [
+    "la technique",
+    "la nature"
+   ],
+   "auteurs": [
+    "Bergson",
+    "Heidegger",
+    "Jonas"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « technique (notion du bac) », p. 488",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-tech-vigilance",
+   "type": "notion",
+   "question": "Quelle attitude la réflexion contemporaine adopte-t-elle face à la technique ?",
+   "reponse": "L'inquiétude devant son caractère « impérieux et conquérant » (Heidegger) et, avec Jonas, l'idée d'une éthique de la responsabilité et d'une heuristique de la peur. La maîtrise de l'avenir passe moins par des machines plus complexes que par une réflexion vigilante sur la technique (Ellul).",
+   "notions": [
+    "la technique",
+    "le devoir"
+   ],
+   "auteurs": [
+    "Heidegger",
+    "Jonas"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « technique (notion du bac) », p. 489",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-temp-cycle-ligne",
+   "type": "notion",
+   "question": "Temps cyclique et temps linéaire : quels enjeux ?",
+   "reponse": "Mythe et religion nient l'irréversibilité en représentant le temps comme cycle (roue des générations, mythe d'Er de Platon) ou éternité. Le cycle ferme l'avenir comme champ de la liberté ; reconnaître la spécificité du temps, c'est accepter l'irréversibilité, qui ouvre le présent à la liberté.",
+   "notions": [
+    "le temps",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Platon"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « temps (notion du bac) », p. 490",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-temp-subjectif-objectif",
+   "type": "notion",
+   "question": "Temps vécu et temps de la science : quelle opposition ?",
+   "reponse": "Le temps de la science est mesurable, quantifiable, homogène, objectif mais existe pour personne ; le temps vécu (« sentiment intérieur de la durée », Bergson) est qualitatif, hétérogène, subjectif. Le chapelier d'Alice : « le temps est une personne ».",
+   "notions": [
+    "le temps",
+    "la science"
+   ],
+   "auteurs": [
+    "Bergson"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « temps (notion du bac) », p. 490-492",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-temp-citations-1",
+   "type": "notion",
+   "question": "Que retenir des citations d'Augustin, Kant, Hegel sur le temps ?",
+   "reponse": "Augustin : je sais ce qu'est le temps tant qu'on ne me le demande pas. Kant : il est la forme réelle de l'intuition intérieure, soumise à la succession. Hegel : le temps est l'être qui, en étant, n'est pas ; passage de l'être au néant, devenir.",
+   "notions": [
+    "le temps"
+   ],
+   "auteurs": [
+    "Augustin",
+    "Kant",
+    "Hegel"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « temps (notion du bac) », p. 491",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-temp-citations-2",
+   "type": "notion",
+   "question": "Que retenir des citations de Nietzsche, Bergson, Levinas sur le temps ?",
+   "reponse": "Nietzsche : ne pouvoir détruire le temps est la détresse du vouloir (ressentiment). Bergson : la durée est le progrès du passé qui ronge l'avenir. Levinas : l'avenir, c'est l'autre ; le temps ouvre au face-à-face avec autrui.",
+   "notions": [
+    "le temps"
+   ],
+   "auteurs": [
+    "Nietzsche",
+    "Bergson",
+    "Levinas"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « temps (notion du bac) », p. 491",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-temp-histoire-mesure",
+   "type": "notion",
+   "question": "Le temps mesuré a-t-il une histoire ?",
+   "reponse": "Oui : dans l'Antiquité, l'heure varie selon les saisons ; au Moyen Âge, le temps appartient à Dieu et suit la vie religieuse ; à la fin du XIVe siècle, les instruments de mesure se diffusent pour régler le travail (Le Goff). Le temps réglé est le résultat de l'évolution des rapports de l'homme au monde.",
+   "notions": [
+    "le temps",
+    "le travail"
+   ],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « temps (notion du bac) », p. 492",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-temp-temporalite",
+   "type": "notion",
+   "question": "Que devient le temps chez Kant puis dans les philosophies de l'existence ?",
+   "reponse": "Kant : non une propriété des choses mais une forme a priori de la sensibilité. Heidegger (Dasein), Sartre (réalité humaine) pensent l'existence sur fond de temporalité. Le temps n'est ni ce que mesure la science ni le seul ressenti : un système de relations entre temporalités multiples et hétérogènes.",
+   "notions": [
+    "le temps",
+    "la conscience"
+   ],
+   "auteurs": [
+    "Kant",
+    "Heidegger",
+    "Sartre"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « temps (notion du bac) », p. 492",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-trav-definition",
+   "type": "notion",
+   "question": "Quel est le point commun de tous les travaux ?",
+   "reponse": "Non la rémunération, mais le but : transformer la nature dans un sens utile à l'homme, pour satisfaire ses besoins. Cela le distingue du jeu et des loisirs, activités désintéressées. Chez les Grecs, il est le fait des esclaves et des producteurs, non de l'homme d'action, du politique ou du philosophe.",
+   "notions": [
+    "le travail",
+    "la nature"
+   ],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « travail (notion du bac) », p. 503",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-trav-arendt",
+   "type": "notion",
+   "question": "Pourquoi Arendt voit-elle dans le travail l'activité la plus proche de l'animalité ?",
+   "reponse": "Reprenant theôria, praxis, poiêsis, elle note que sa finalité (satisfaire les besoins) est biologique et que ses produits sont destinés à être consommés : répétition monotone du cycle production-consommation.",
+   "notions": [
+    "le travail",
+    "la nature"
+   ],
+   "auteurs": [
+    "Arendt"
+   ],
+   "oeuvre": "Condition de l'homme moderne",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « travail (notion du bac) », p. 503",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-trav-malediction",
+   "type": "notion",
+   "question": "Le travail est-il une malédiction ?",
+   "reponse": "Il est peine : la Genèse (« à la sueur de ton front »), nostalgie du paradis ou de l'état de nature (Rousseau), étymologie de tripalium (instrument de contrainte). Il résulte d'une lutte entre l'homme et un environnement primitivement hostile.",
+   "notions": [
+    "le travail",
+    "la religion"
+   ],
+   "auteurs": [
+    "Rousseau"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « travail (notion du bac) », p. 503",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-trav-division",
+   "type": "notion",
+   "question": "Quel problème pose la division technique du travail ?",
+   "reponse": "Théorisée par Smith, la parcellarisation des tâches ôte toute signification à leur exécution (Charlot dans Les Temps modernes) : le travail rationalisé (taylorisme, fordisme) devient répétitif et « bête ». Distincte de la division sociale des métiers, utile.",
+   "notions": [
+    "le travail",
+    "la technique"
+   ],
+   "auteurs": [
+    "Smith"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « travail (notion du bac) », p. 503-505",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-trav-citations-1",
+   "type": "notion",
+   "question": "Que retenir des citations de Rousseau, Kant et Marx sur le travail ?",
+   "reponse": "Rousseau : on travaille pour parvenir au repos, la paresse nous rend laborieux. Kant : par le travail, l'homme s'élève de la rudesse à l'habileté et au bonheur. Marx : le règne de la liberté commence là où cesse le travail déterminé par la nécessité.",
+   "notions": [
+    "le travail",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Rousseau",
+    "Kant",
+    "Marx"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « travail (notion du bac) », p. 504",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-trav-citations-2",
+   "type": "notion",
+   "question": "Que retenir des citations de Nietzsche, Freud et Arendt sur le travail ?",
+   "reponse": "Nietzsche : le besoin contraint au travail, qui crée à son tour le besoin de travailler toujours plus. Freud : la majorité ne travaille que par nécessité, naturelle aversion source de problèmes sociaux. Arendt : travail et consommation forment un seul mouvement qui recommence sans cesse.",
+   "notions": [
+    "le travail"
+   ],
+   "auteurs": [
+    "Nietzsche",
+    "Freud",
+    "Arendt"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « travail (notion du bac) », p. 504",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-trav-alienation",
+   "type": "notion",
+   "question": "Que dénonce la critique marxiste de l'aliénation du travail ?",
+   "reponse": "Non seulement l'exploitation économique (surtravail) mais une situation où l'homme ne se reconnaît pas dans son travail. Elle suppose que le travail doive réaliser l'homme, donc une référence à une essence de l'humanité.",
+   "notions": [
+    "le travail",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Marx"
+   ],
+   "oeuvre": "Le Capital",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « travail (notion du bac) », p. 505",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-trav-valeur",
+   "type": "notion",
+   "question": "Pourquoi le travail peut-il être considéré comme spécifiquement humain (Marx, Hegel) ?",
+   "reponse": "Résultat d'un projet conscient et volontaire (Marx) ; il impose la médiation du temps et de l'outil (Hegel), maîtrise la nature et permet l'objectivation de soi : dans la nature transformée, l'homme se reconnaît et s'affirme.",
+   "notions": [
+    "le travail",
+    "le temps",
+    "la technique"
+   ],
+   "auteurs": [
+    "Marx",
+    "Hegel"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « travail (notion du bac) », p. 505",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-trav-weil-emploi",
+   "type": "notion",
+   "question": "Quelle idée du travail Simone Weil défend-elle, et quels problèmes contemporains le dictionnaire soulève-t-il ?",
+   "reponse": "Le travail ne sépare pas pensée et action, intellectuel et manuel : mesure de notre liberté, formateur (Kant). Problèmes : chômage, confusion entre travail et emploi, nécessité de lier travail et formation pour un travail « total », intelligent et actif.",
+   "notions": [
+    "le travail",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Weil",
+    "Kant"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « travail (notion du bac) », p. 505",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-veri-reel",
+   "type": "notion",
+   "question": "Le vrai est-il le réel ?",
+   "reponse": "Non : la réalité est indépendante de l'homme, alors que la vérité est du discours ou de la représentation. Elle n'est ni un fait ni un donné : elle doit être recherchée, d'où les questions de ses conditions d'accès et des critères du jugement vrai. C'est aussi une valeur.",
+   "notions": [
+    "la vérité"
+   ],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « vérité (notion du bac) », p. 514",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-veri-platon-scepticisme",
+   "type": "notion",
+   "question": "Quelle est la triple idée de Platon sur la recherche de la vérité, et la réponse sceptique ?",
+   "reponse": "1. Cette recherche a un sens. 2. On se l'approprie, on ne la répète pas (maïeutique). 3. Elle est permanente et universelle, non relative comme l'opinion. Le scepticisme (Pyrrhon) lui substitue le doute et la suspension du jugement, valeur de modestie (Montaigne).",
+   "notions": [
+    "la vérité",
+    "la raison"
+   ],
+   "auteurs": [
+    "Platon",
+    "Montaigne"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « vérité (notion du bac) », p. 514-515",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-veri-correspondance",
+   "type": "notion",
+   "question": "Qu'est-ce que la vérité-correspondance, et de quoi est-elle propriété ?",
+   "reponse": "Adéquation entre l'esprit et la réalité (Thomas d'Aquin) : « il neige » est vrai si et seulement s'il neige. La vérité est une propriété du langage, des propositions, non des choses (l'or faux existe, mais « ceci est de l'or » est faux).",
+   "notions": [
+    "la vérité",
+    "le langage"
+   ],
+   "auteurs": [
+    "Thomas d’Aquin"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « vérité (notion du bac) », p. 515",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-veri-coherence",
+   "type": "notion",
+   "question": "Pourquoi la vérité-cohérence est-elle insuffisante ?",
+   "reponse": "L'accord de la pensée avec elle-même est nécessaire, non suffisant : des pensées cohérentes peuvent contredire le réel. Kant : l'expérience est la « pierre de touche » ; la logique est un canon (critère négatif), non un organon.",
+   "notions": [
+    "la vérité",
+    "la science"
+   ],
+   "auteurs": [
+    "Kant"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « vérité (notion du bac) », p. 515",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-veri-pragmatisme",
+   "type": "notion",
+   "question": "Que reproche-t-on au pragmatisme (James) sur la vérité ?",
+   "reponse": "Il fait du succès la règle du vrai : nos idées augmentent notre puissance d'agir, mais la règle de la vérité est l'art de la preuve. Il n'y a pas de vérité sans vérification. L'idée de correspondance suppose aussi des faits disponibles indépendamment du langage, ce qui n'est pas sûr.",
+   "notions": [
+    "la vérité",
+    "la science"
+   ],
+   "auteurs": [
+    "James"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « vérité (notion du bac) », p. 515",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-veri-evidence",
+   "type": "notion",
+   "question": "L'évidence est-elle le critère de la vérité ?",
+   "reponse": "Descartes et Spinoza : la vérité est index sui, elle se montre par sa clarté ; on connaît les premiers principes par évidence, le reste par déduction (modèle géométrique d'Euclide). Objections : Leibniz (critère trop subjectif, évidences trompeuses) et les sciences expérimentales (l'observation doit être le critère).",
+   "notions": [
+    "la vérité",
+    "la raison",
+    "la science"
+   ],
+   "auteurs": [
+    "Descartes",
+    "Spinoza",
+    "Leibniz"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « vérité (notion du bac) », p. 515-517",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-veri-citations",
+   "type": "notion",
+   "question": "Que retenir des citations de Descartes, Pascal, James, Alain, Russell sur la vérité ?",
+   "reponse": "Descartes : douter une fois en sa vie de toutes choses. Pascal : on connaît la vérité par la raison et par le cœur. James : le vrai est ce qui est avantageux pour la pensée. Alain : toute vérité est fausse dès qu'on s'en contente. Russell : la science vise une vérité « technique ».",
+   "notions": [
+    "la vérité"
+   ],
+   "auteurs": [
+    "Descartes",
+    "Pascal",
+    "James",
+    "Alain",
+    "Russell"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « vérité (notion du bac) », p. 516",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-veri-valeur",
+   "type": "notion",
+   "question": "Pourquoi Nietzsche et Heidegger interrogent-ils la vérité comme valeur ?",
+   "reponse": "Nietzsche : la volonté de vérité est une position morale à retracer, historiquement datée, parfois morbide, qui préfère la vérité à la vie. Heidegger : la vérité originelle est dévoilement, non « certitude de la représentation » ; la poésie est plus vraie que la science.",
+   "notions": [
+    "la vérité",
+    "la science",
+    "l'art"
+   ],
+   "auteurs": [
+    "Nietzsche",
+    "Heidegger"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « vérité (notion du bac) », p. 517",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
   }
  ]
 }

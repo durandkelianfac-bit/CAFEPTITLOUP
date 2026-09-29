@@ -4,7 +4,7 @@ Généré par `npm run seed:build` (ne pas modifier à la main : éditer `tools/
 
 ## Bilan honnête
 
-- **475 cartes**, dont **0 « vérifiée(s)** et **475 « à vérifier »**.
+- **575 cartes**, dont **0 « vérifiée(s)** et **575 « à vérifier »**.
 - **Aucune source n'a pu être consultée** pendant la rédaction : l'environnement de travail bloquait l'accès à fr.wikisource.org, eduscol.education.gouv.fr, devenirenseignant.gouv.fr, gallica.bnf.fr et Wikipédia (réponse 403 du proxy réseau). Toutes les cartes ont donc été rédigées de mémoire par l'assistant, sans URL ni date de consultation, et **toutes restent « à vérifier »**. C'est la conséquence directe des règles 2 et 3 du cahier des charges.
 - Aucune citation longue n'est reproduite ; les citations (≤ 20 mots) sont soit dans une langue originale du domaine public, soit des formules canoniques courtes ; le reste est paraphrasé.
 - Aucun contenu généré par IA n'est présenté comme source : les références (Stephanus, Bekker, Akademie, Adam-Tannery, paragraphes) sont des références **standard à confirmer dans l'édition**, pas des pages consultées.
@@ -30,7 +30,7 @@ Ouvrir la source indiquée, comparer avec la réponse, corriger si besoin, compl
 
 ## Détail par carte
 
-### Notions (43)
+### Notions (143)
 
 **`not-art`** — L'art : quelles questions poser ?  
 Statut : *à vérifier* · Auteurs : Kant, Hegel, Aristote
@@ -236,6 +236,406 @@ Statut : *à vérifier* · Auteurs : Husserl
 **`n-cons-sens`** — Que devient la conscience après Husserl selon le dictionnaire ?  
 Statut : *à vérifier* · Auteurs : Husserl, Ricœur
 - L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « conscience (notion du bac) », p. 97 — *secondaire* (consultée le 2026-09-29)
+
+**`n-dev-contrainte`** — Le devoir est-il une contrainte ?  
+Statut : *à vérifier*
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « devoir (notion du bac) », p. 126 — *secondaire* (consultée le 2026-09-29)
+
+**`n-dev-vrai-devoir`** — À quoi reconnaît-on le véritable devoir selon Kant ?  
+Statut : *à vérifier* · Auteurs : Kant
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « devoir (notion du bac) », p. 126 — *secondaire* (consultée le 2026-09-29)
+
+**`n-dev-citations`** — Que retenir des citations de Spinoza et Rousseau sur le devoir ?  
+Statut : *à vérifier* · Auteurs : Spinoza, Rousseau
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « devoir (notion du bac) », p. 127 — *secondaire* (consultée le 2026-09-29)
+
+**`n-dev-nietzsche-arendt`** — Comment Nietzsche et Arendt éclairent-ils le devoir d'obéissance ?  
+Statut : *à vérifier* · Auteurs : Nietzsche, Arendt, Kant
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « devoir (notion du bac) », p. 127 — *secondaire* (consultée le 2026-09-29)
+
+**`n-dev-conflits`** — Quelle limite rencontre la morale kantienne du devoir ?  
+Statut : *à vérifier* · Auteurs : Kant
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « devoir (notion du bac) », p. 127-128 — *secondaire* (consultée le 2026-09-29)
+
+**`n-dev-responsabilites`** — Pourquoi les progrès techniques multiplient-ils les conflits de devoirs ?  
+Statut : *à vérifier* · Auteurs : Jonas
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « devoir (notion du bac) », p. 128 — *secondaire* (consultée le 2026-09-29)
+
+**`n-etat-definition`** — Qu'est-ce que l'État, et que suppose cette notion ?  
+Statut : *à vérifier*
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « État (notion du bac) », p. 166 — *secondaire* (consultée le 2026-09-29)
+
+**`n-etat-legitimite`** — Comment l'État moderne se prive-t-il de la légitimation religieuse ?  
+Statut : *à vérifier* · Auteurs : Machiavel, Hobbes, Locke, Rousseau
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « État (notion du bac) », p. 166-168 — *secondaire* (consultée le 2026-09-29)
+
+**`n-etat-citations`** — Que retenir des citations d'Aristote, Spinoza et Montesquieu sur l'État ?  
+Statut : *à vérifier* · Auteurs : Aristote, Spinoza, Montesquieu
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « État (notion du bac) », p. 167 — *secondaire* (consultée le 2026-09-29)
+
+**`n-etat-weber-marx-alain`** — Que retenir des citations de Weber, Marx et Alain sur l'État ?  
+Statut : *à vérifier* · Auteurs : Weber, Marx, Alain
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « État (notion du bac) », p. 167 — *secondaire* (consultée le 2026-09-29)
+
+**`n-etat-contrat`** — Que partagent les théoriciens du contrat social ?  
+Statut : *à vérifier* · Auteurs : Hobbes, Locke, Rousseau
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « État (notion du bac) », p. 168 — *secondaire* (consultée le 2026-09-29)
+
+**`n-etat-locke-hobbes-rousseau`** — Locke, Hobbes et Rousseau : quelle différence de conception de l'État ?  
+Statut : *à vérifier* · Auteurs : Locke, Hobbes, Rousseau
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « État (notion du bac) », p. 168 — *secondaire* (consultée le 2026-09-29)
+
+**`n-etat-raison-violence`** — Hegel voit-il l'État comme raison ? Quelles inquiétudes en découlent ?  
+Statut : *à vérifier* · Auteurs : Hegel, Nietzsche
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « État (notion du bac) », p. 168 — *secondaire* (consultée le 2026-09-29)
+
+**`n-etat-anarchisme-marxisme`** — Anarchisme et marxisme : deux critiques de l'État ?  
+Statut : *à vérifier* · Auteurs : Marx
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « État (notion du bac) », p. 168-169 — *secondaire* (consultée le 2026-09-29)
+
+**`n-etat-cosmopolite`** — Vers quel État l'évolution actuelle conduit-elle selon le dictionnaire ?  
+Statut : *à vérifier* · Auteurs : Kant
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « État (notion du bac) », p. 169 — *secondaire* (consultée le 2026-09-29)
+
+**`n-incs-deux-sens`** — Quels sont les deux sens du mot « inconscient » ?  
+Statut : *à vérifier* · Auteurs : Freud
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « inconscient (notion du bac) », p. 246-247 — *secondaire* (consultée le 2026-09-29)
+
+**`n-incs-precurseurs`** — Quels sont les précurseurs de l'inconscient avant Freud ?  
+Statut : *à vérifier* · Auteurs : Descartes, Leibniz, Bergson, Nietzsche
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « inconscient (notion du bac) », p. 247-248 — *secondaire* (consultée le 2026-09-29)
+
+**`n-incs-citations-classiques`** — Que retenir des citations de Montaigne et Leibniz sur l'inconscient ?  
+Statut : *à vérifier* · Auteurs : Montaigne, Leibniz
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « inconscient (notion du bac) », p. 247 — *secondaire* (consultée le 2026-09-29)
+
+**`n-incs-premiere-topique`** — Quelle est la première topique freudienne (vers 1900) ?  
+Statut : *à vérifier* · Auteurs : Freud
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « inconscient (notion du bac) », p. 248 — *secondaire* (consultée le 2026-09-29)
+
+**`n-incs-deuxieme-topique`** — Quelle est la deuxième topique (à partir de 1920) ?  
+Statut : *à vérifier* · Auteurs : Freud
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « inconscient (notion du bac) », p. 248 — *secondaire* (consultée le 2026-09-29)
+
+**`n-incs-freud-citations`** — Que retenir des deux citations de Freud du dictionnaire ?  
+Statut : *à vérifier* · Auteurs : Freud
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « inconscient (notion du bac) », p. 247 — *secondaire* (consultée le 2026-09-29)
+
+**`n-incs-liberte`** — L'inconscient supprime-t-il la liberté ?  
+Statut : *à vérifier* · Auteurs : Alain, Sartre, Freud
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « inconscient (notion du bac) », p. 247-249 — *secondaire* (consultée le 2026-09-29)
+
+**`n-just-vertu-globale`** — La justice est-elle une vertu ou une organisation harmonieuse ?  
+Statut : *à vérifier* · Auteurs : Platon
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « justice (notion du bac) », p. 270 — *secondaire* (consultée le 2026-09-29)
+
+**`n-just-biblique`** — Comment la tradition biblique (Augustin) élargit-elle la justice ?  
+Statut : *à vérifier* · Auteurs : Augustin, Ricœur
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « justice (notion du bac) », p. 270-272 — *secondaire* (consultée le 2026-09-29)
+
+**`n-just-citations`** — Que retenir des citations de Socrate, Hobbes et Pascal sur la justice ?  
+Statut : *à vérifier* · Auteurs : Platon, Hobbes, Pascal
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « justice (notion du bac) », p. 271 — *secondaire* (consultée le 2026-09-29)
+
+**`n-just-rousseau-alain`** — Que retenir des citations de Rousseau et d'Alain sur la justice ?  
+Statut : *à vérifier* · Auteurs : Rousseau, Alain
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « justice (notion du bac) », p. 271 — *secondaire* (consultée le 2026-09-29)
+
+**`n-just-aristote`** — Quelles formes de justice Aristote distingue-t-il ?  
+Statut : *à vérifier* · Auteurs : Aristote
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « justice (notion du bac) », p. 272 — *secondaire* (consultée le 2026-09-29)
+
+**`n-just-equite`** — Quel double principe repose sous la justice, et comment Rawls le reprend-il ?  
+Statut : *à vérifier* · Auteurs : Rawls, Aristote
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « justice (notion du bac) », p. 272 — *secondaire* (consultée le 2026-09-29)
+
+**`n-lang-sens`** — Langage, langue, parole : quelles distinctions ?  
+Statut : *à vérifier*
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « langage (notion du bac) », p. 285 — *secondaire* (consultée le 2026-09-29)
+
+**`n-lang-propre-homme`** — Le langage est-il le propre de l'homme ?  
+Statut : *à vérifier* · Auteurs : Descartes
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « langage (notion du bac) », p. 285 — *secondaire* (consultée le 2026-09-29)
+
+**`n-lang-double-articulation`** — Qu'est-ce que la double articulation du langage ?  
+Statut : *à vérifier*
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « langage (notion du bac) », p. 285-287 — *secondaire* (consultée le 2026-09-29)
+
+**`n-lang-citations`** — Que retenir des citations de Descartes, Rousseau, Freud et Bergson sur le langage ?  
+Statut : *à vérifier* · Auteurs : Descartes, Rousseau, Freud, Bergson
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « langage (notion du bac) », p. 286 — *secondaire* (consultée le 2026-09-29)
+
+**`n-lang-saussure-wittgenstein`** — Que retenir de Saussure et Wittgenstein (citations) sur le langage ?  
+Statut : *à vérifier* · Auteurs : Wittgenstein
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « langage (notion du bac) », p. 286 — *secondaire* (consultée le 2026-09-29)
+
+**`n-lang-systeme`** — Pourquoi Saussure compare-t-il la langue à un jeu d'échecs ?  
+Statut : *à vérifier*
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « langage (notion du bac) », p. 287 — *secondaire* (consultée le 2026-09-29)
+
+**`n-lang-pragmatique`** — Quelle dimension pragmatique du langage Wittgenstein et Austin font-ils apparaître ?  
+Statut : *à vérifier* · Auteurs : Wittgenstein
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « langage (notion du bac) », p. 287 — *secondaire* (consultée le 2026-09-29)
+
+**`n-lang-pouvoir-mots`** — Quel pouvoir des mots Platon redoute-t-il ?  
+Statut : *à vérifier* · Auteurs : Platon
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « langage (notion du bac) », p. 287 — *secondaire* (consultée le 2026-09-29)
+
+**`n-lib-contrainte`** — Quel est le sens usuel et originel de la liberté ?  
+Statut : *à vérifier* · Auteurs : Arendt
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « liberté (notion du bac) », p. 296 — *secondaire* (consultée le 2026-09-29)
+
+**`n-lib-stoiciens`** — Comment les stoïciens conçoivent-ils la liberté ?  
+Statut : *à vérifier* · Auteurs : Spinoza
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « liberté (notion du bac) », p. 296 — *secondaire* (consultée le 2026-09-29)
+
+**`n-lib-descartes-sartre`** — Comment Descartes et Sartre conçoivent-ils la liberté ?  
+Statut : *à vérifier* · Auteurs : Descartes, Sartre
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « liberté (notion du bac) », p. 296 — *secondaire* (consultée le 2026-09-29)
+
+**`n-lib-loi`** — Pourquoi n'y a-t-il pas de liberté sans loi (Rousseau, Kant, Montesquieu) ?  
+Statut : *à vérifier* · Auteurs : Rousseau, Kant, Montesquieu
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « liberté (notion du bac) », p. 296 — *secondaire* (consultée le 2026-09-29)
+
+**`n-lib-citations`** — Que retenir des citations sur la liberté (Épictète, Spinoza, Sartre) ?  
+Statut : *à vérifier* · Auteurs : Épictète, Spinoza, Sartre
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « liberté (notion du bac) », p. 297 — *secondaire* (consultée le 2026-09-29)
+
+**`n-lib-rousseau-kant-montesquieu`** — Que retenir des citations de Montesquieu, Rousseau et Kant sur la liberté ?  
+Statut : *à vérifier* · Auteurs : Montesquieu, Rousseau, Kant
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « liberté (notion du bac) », p. 297 — *secondaire* (consultée le 2026-09-29)
+
+**`n-lib-negative-positive`** — Quelle différence entre liberté négative et liberté positive (Constant, Berlin) ?  
+Statut : *à vérifier* · Auteurs : Aron
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « liberté (notion du bac) », p. 298 — *secondaire* (consultée le 2026-09-29)
+
+**`n-nat-sens`** — Quels sens du mot nature faut-il distinguer ?  
+Statut : *à vérifier*
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « nature (notion du bac) », p. 349 — *secondaire* (consultée le 2026-09-29)
+
+**`n-nat-aristote`** — Comment Aristote définit-il la nature par analogie avec le travail ?  
+Statut : *à vérifier* · Auteurs : Aristote
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « nature (notion du bac) », p. 349 — *secondaire* (consultée le 2026-09-29)
+
+**`n-nat-descartes`** — Quelle conception de la nature découle du mécanisme de Descartes ?  
+Statut : *à vérifier* · Auteurs : Descartes
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « nature (notion du bac) », p. 349 — *secondaire* (consultée le 2026-09-29)
+
+**`n-nat-rousseau`** — Pourquoi Rousseau fait-il de la nature une notion critique ?  
+Statut : *à vérifier* · Auteurs : Rousseau
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « nature (notion du bac) », p. 349 — *secondaire* (consultée le 2026-09-29)
+
+**`n-nat-citations`** — Que retenir des citations sur la nature (Aristote, Pascal, Hume) ?  
+Statut : *à vérifier* · Auteurs : Aristote, Pascal, Hume
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « nature (notion du bac) », p. 350 — *secondaire* (consultée le 2026-09-29)
+
+**`n-nat-rousseau-kant-jonas`** — Que retenir des citations de Rousseau, Kant et Jonas sur la nature ?  
+Statut : *à vérifier* · Auteurs : Rousseau, Kant, Jonas
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « nature (notion du bac) », p. 350 — *secondaire* (consultée le 2026-09-29)
+
+**`n-nat-ecologie`** — Qu'apporte l'écologie à la réflexion sur la nature ?  
+Statut : *à vérifier* · Auteurs : Lucrèce, Jonas
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « nature (notion du bac) », p. 351 — *secondaire* (consultée le 2026-09-29)
+
+**`n-rais-sens`** — Que signifie « raison » ?  
+Statut : *à vérifier* · Auteurs : Descartes
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « raison (notion du bac) », p. 418 — *secondaire* (consultée le 2026-09-29)
+
+**`n-rais-concepts`** — Quelle est la fonction de la raison comme faculté de combiner des jugements ?  
+Statut : *à vérifier*
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « raison (notion du bac) », p. 418 — *secondaire* (consultée le 2026-09-29)
+
+**`n-rais-principe-raison`** — Qu'énonce le principe de raison suffisante de Leibniz ?  
+Statut : *à vérifier* · Auteurs : Leibniz
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « raison (notion du bac) », p. 418 — *secondaire* (consultée le 2026-09-29)
+
+**`n-rais-pure`** — Que veut dire Kant en parlant de raison pure, à la fois théorique et pratique ?  
+Statut : *à vérifier* · Auteurs : Kant
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « raison (notion du bac) », p. 418 — *secondaire* (consultée le 2026-09-29)
+
+**`n-rais-hegel`** — Que veut dire Hegel par « la raison gouverne le monde » ?  
+Statut : *à vérifier* · Auteurs : Hegel
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « raison (notion du bac) », p. 418-420 — *secondaire* (consultée le 2026-09-29)
+
+**`n-rais-citations`** — Que retenir des citations de Thomas d'Aquin, Descartes, Pascal sur la raison ?  
+Statut : *à vérifier* · Auteurs : Thomas d’Aquin, Descartes, Pascal
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « raison (notion du bac) », p. 419 — *secondaire* (consultée le 2026-09-29)
+
+**`n-rais-spinoza-kant-nietzsche`** — Que retenir des citations de Spinoza, Kant et Nietzsche sur la raison ?  
+Statut : *à vérifier* · Auteurs : Spinoza, Kant, Nietzsche
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « raison (notion du bac) », p. 419 — *secondaire* (consultée le 2026-09-29)
+
+**`n-reli-etymologie`** — Quelles sont les deux étymologies de « religion » et que révèlent-elles ?  
+Statut : *à vérifier* · Auteurs : Cicéron, Augustin, Bergson
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « religion (notion du bac) », p. 426 — *secondaire* (consultée le 2026-09-29)
+
+**`n-reli-sacre-profane`** — Quelle unité trouve-t-on derrière la diversité des religions (Durkheim) ?  
+Statut : *à vérifier* · Auteurs : Durkheim
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « religion (notion du bac) », p. 426 — *secondaire* (consultée le 2026-09-29)
+
+**`n-reli-foi`** — Qu'est-ce que la foi et quels rapports a-t-elle avec la raison ?  
+Statut : *à vérifier* · Auteurs : Pascal, Anselme, Thomas d’Aquin, Kierkegaard
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « religion (notion du bac) », p. 427-428 — *secondaire* (consultée le 2026-09-29)
+
+**`n-reli-citations`** — Que retenir des citations sur la religion (Augustin, Descartes, Spinoza) ?  
+Statut : *à vérifier* · Auteurs : Augustin, Descartes, Spinoza
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « religion (notion du bac) », p. 427 — *secondaire* (consultée le 2026-09-29)
+
+**`n-reli-kant-kierkegaard-marx`** — Que retenir des citations de Kant, Kierkegaard et Marx sur la religion ?  
+Statut : *à vérifier* · Auteurs : Kant, Kierkegaard, Marx
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « religion (notion du bac) », p. 427 — *secondaire* (consultée le 2026-09-29)
+
+**`n-reli-lumieres`** — Comment le rationalisme classique et les Lumières traitent-ils la religion ?  
+Statut : *à vérifier* · Auteurs : Descartes, Spinoza
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « religion (notion du bac) », p. 428 — *secondaire* (consultée le 2026-09-29)
+
+**`n-reli-alienation`** — Que disent Marx, Feuerbach, Nietzsche et Freud de la religion ?  
+Statut : *à vérifier* · Auteurs : Marx, Feuerbach, Nietzsche, Freud
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « religion (notion du bac) », p. 428 — *secondaire* (consultée le 2026-09-29)
+
+**`n-reli-reduction`** — Quelle limite commune aux interprétations réductrices de la religion ?  
+Statut : *à vérifier*
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « religion (notion du bac) », p. 428 — *secondaire* (consultée le 2026-09-29)
+
+**`n-scie-sens`** — Comment les Grecs et les Modernes conçoivent-ils la science ?  
+Statut : *à vérifier* · Auteurs : Aristote
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « science (notion du bac) », p. 451 — *secondaire* (consultée le 2026-09-29)
+
+**`n-scie-demarcation`** — Quels sont les problèmes de la philosophie des sciences ?  
+Statut : *à vérifier* · Auteurs : Popper, Comte
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « science (notion du bac) », p. 451 — *secondaire* (consultée le 2026-09-29)
+
+**`n-scie-trois-types`** — Quels trois types de sciences distingue-t-on ?  
+Statut : *à vérifier* · Auteurs : Dilthey, Comte
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « science (notion du bac) », p. 452-453 — *secondaire* (consultée le 2026-09-29)
+
+**`n-scie-citations`** — Que retenir des citations d'Aristote, Locke, Kant sur la science ?  
+Statut : *à vérifier* · Auteurs : Aristote, Locke, Kant
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « science (notion du bac) », p. 452 — *secondaire* (consultée le 2026-09-29)
+
+**`n-scie-heidegger-bachelard-popper`** — Que retenir des citations de Heidegger, Bachelard et Popper sur la science ?  
+Statut : *à vérifier* · Auteurs : Heidegger, Bachelard, Popper
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « science (notion du bac) », p. 452 — *secondaire* (consultée le 2026-09-29)
+
+**`n-tech-definition`** — Qu'est-ce que la technique et en quoi diffère-t-elle de l'art ?  
+Statut : *à vérifier*
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « technique (notion du bac) », p. 487 — *secondaire* (consultée le 2026-09-29)
+
+**`n-tech-humanite`** — Pourquoi la technique est-elle un critère d'humanité ?  
+Statut : *à vérifier* · Auteurs : Descartes, Aristote
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « technique (notion du bac) », p. 487 — *secondaire* (consultée le 2026-09-29)
+
+**`n-tech-poiesis`** — Comment les Anciens et les Modernes ont-ils pensé la technique ?  
+Statut : *à vérifier* · Auteurs : Arendt
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « technique (notion du bac) », p. 487 — *secondaire* (consultée le 2026-09-29)
+
+**`n-tech-ambivalence`** — La technique est-elle neutre ?  
+Statut : *à vérifier* · Auteurs : Marx, Simondon
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « technique (notion du bac) », p. 487 — *secondaire* (consultée le 2026-09-29)
+
+**`n-tech-citations`** — Que retenir des citations d'Aristote, Descartes, Hegel sur la technique ?  
+Statut : *à vérifier* · Auteurs : Aristote, Descartes, Hegel
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « technique (notion du bac) », p. 488 — *secondaire* (consultée le 2026-09-29)
+
+**`n-tech-bergson-heidegger-jonas`** — Que retenir des citations de Bergson, Heidegger et Jonas sur la technique ?  
+Statut : *à vérifier* · Auteurs : Bergson, Heidegger, Jonas
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « technique (notion du bac) », p. 488 — *secondaire* (consultée le 2026-09-29)
+
+**`n-tech-vigilance`** — Quelle attitude la réflexion contemporaine adopte-t-elle face à la technique ?  
+Statut : *à vérifier* · Auteurs : Heidegger, Jonas
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « technique (notion du bac) », p. 489 — *secondaire* (consultée le 2026-09-29)
+
+**`n-temp-cycle-ligne`** — Temps cyclique et temps linéaire : quels enjeux ?  
+Statut : *à vérifier* · Auteurs : Platon
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « temps (notion du bac) », p. 490 — *secondaire* (consultée le 2026-09-29)
+
+**`n-temp-subjectif-objectif`** — Temps vécu et temps de la science : quelle opposition ?  
+Statut : *à vérifier* · Auteurs : Bergson
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « temps (notion du bac) », p. 490-492 — *secondaire* (consultée le 2026-09-29)
+
+**`n-temp-citations-1`** — Que retenir des citations d'Augustin, Kant, Hegel sur le temps ?  
+Statut : *à vérifier* · Auteurs : Augustin, Kant, Hegel
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « temps (notion du bac) », p. 491 — *secondaire* (consultée le 2026-09-29)
+
+**`n-temp-citations-2`** — Que retenir des citations de Nietzsche, Bergson, Levinas sur le temps ?  
+Statut : *à vérifier* · Auteurs : Nietzsche, Bergson, Levinas
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « temps (notion du bac) », p. 491 — *secondaire* (consultée le 2026-09-29)
+
+**`n-temp-histoire-mesure`** — Le temps mesuré a-t-il une histoire ?  
+Statut : *à vérifier*
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « temps (notion du bac) », p. 492 — *secondaire* (consultée le 2026-09-29)
+
+**`n-temp-temporalite`** — Que devient le temps chez Kant puis dans les philosophies de l'existence ?  
+Statut : *à vérifier* · Auteurs : Kant, Heidegger, Sartre
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « temps (notion du bac) », p. 492 — *secondaire* (consultée le 2026-09-29)
+
+**`n-trav-definition`** — Quel est le point commun de tous les travaux ?  
+Statut : *à vérifier*
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « travail (notion du bac) », p. 503 — *secondaire* (consultée le 2026-09-29)
+
+**`n-trav-arendt`** — Pourquoi Arendt voit-elle dans le travail l'activité la plus proche de l'animalité ?  
+Statut : *à vérifier* · Auteurs : Arendt
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « travail (notion du bac) », p. 503 — *secondaire* (consultée le 2026-09-29)
+
+**`n-trav-malediction`** — Le travail est-il une malédiction ?  
+Statut : *à vérifier* · Auteurs : Rousseau
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « travail (notion du bac) », p. 503 — *secondaire* (consultée le 2026-09-29)
+
+**`n-trav-division`** — Quel problème pose la division technique du travail ?  
+Statut : *à vérifier* · Auteurs : Smith
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « travail (notion du bac) », p. 503-505 — *secondaire* (consultée le 2026-09-29)
+
+**`n-trav-citations-1`** — Que retenir des citations de Rousseau, Kant et Marx sur le travail ?  
+Statut : *à vérifier* · Auteurs : Rousseau, Kant, Marx
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « travail (notion du bac) », p. 504 — *secondaire* (consultée le 2026-09-29)
+
+**`n-trav-citations-2`** — Que retenir des citations de Nietzsche, Freud et Arendt sur le travail ?  
+Statut : *à vérifier* · Auteurs : Nietzsche, Freud, Arendt
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « travail (notion du bac) », p. 504 — *secondaire* (consultée le 2026-09-29)
+
+**`n-trav-alienation`** — Que dénonce la critique marxiste de l'aliénation du travail ?  
+Statut : *à vérifier* · Auteurs : Marx
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « travail (notion du bac) », p. 505 — *secondaire* (consultée le 2026-09-29)
+
+**`n-trav-valeur`** — Pourquoi le travail peut-il être considéré comme spécifiquement humain (Marx, Hegel) ?  
+Statut : *à vérifier* · Auteurs : Marx, Hegel
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « travail (notion du bac) », p. 505 — *secondaire* (consultée le 2026-09-29)
+
+**`n-trav-weil-emploi`** — Quelle idée du travail Simone Weil défend-elle, et quels problèmes contemporains le dictionnaire soulève-t-il ?  
+Statut : *à vérifier* · Auteurs : Weil, Kant
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « travail (notion du bac) », p. 505 — *secondaire* (consultée le 2026-09-29)
+
+**`n-veri-reel`** — Le vrai est-il le réel ?  
+Statut : *à vérifier*
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « vérité (notion du bac) », p. 514 — *secondaire* (consultée le 2026-09-29)
+
+**`n-veri-platon-scepticisme`** — Quelle est la triple idée de Platon sur la recherche de la vérité, et la réponse sceptique ?  
+Statut : *à vérifier* · Auteurs : Platon, Montaigne
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « vérité (notion du bac) », p. 514-515 — *secondaire* (consultée le 2026-09-29)
+
+**`n-veri-correspondance`** — Qu'est-ce que la vérité-correspondance, et de quoi est-elle propriété ?  
+Statut : *à vérifier* · Auteurs : Thomas d’Aquin
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « vérité (notion du bac) », p. 515 — *secondaire* (consultée le 2026-09-29)
+
+**`n-veri-coherence`** — Pourquoi la vérité-cohérence est-elle insuffisante ?  
+Statut : *à vérifier* · Auteurs : Kant
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « vérité (notion du bac) », p. 515 — *secondaire* (consultée le 2026-09-29)
+
+**`n-veri-pragmatisme`** — Que reproche-t-on au pragmatisme (James) sur la vérité ?  
+Statut : *à vérifier* · Auteurs : James
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « vérité (notion du bac) », p. 515 — *secondaire* (consultée le 2026-09-29)
+
+**`n-veri-evidence`** — L'évidence est-elle le critère de la vérité ?  
+Statut : *à vérifier* · Auteurs : Descartes, Spinoza, Leibniz
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « vérité (notion du bac) », p. 515-517 — *secondaire* (consultée le 2026-09-29)
+
+**`n-veri-citations`** — Que retenir des citations de Descartes, Pascal, James, Alain, Russell sur la vérité ?  
+Statut : *à vérifier* · Auteurs : Descartes, Pascal, James, Alain, Russell
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « vérité (notion du bac) », p. 516 — *secondaire* (consultée le 2026-09-29)
+
+**`n-veri-valeur`** — Pourquoi Nietzsche et Heidegger interrogent-ils la vérité comme valeur ?  
+Statut : *à vérifier* · Auteurs : Nietzsche, Heidegger
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « vérité (notion du bac) », p. 517 — *secondaire* (consultée le 2026-09-29)
 
 ### Repères (15)
 
