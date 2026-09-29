@@ -1,0 +1,5004 @@
+{
+ "version": 1,
+ "genere_le": "2026-09-29",
+ "cartes": [
+  {
+   "id": "plat-caverne",
+   "type": "auteur_oeuvre",
+   "question": "République VII : que signifie la sortie de la caverne ?",
+   "reponse": "L'ascension de l'âme du sensible (ombres, opinion) vers l'intelligible, jusqu'à l'Idée du Bien (le soleil). Le philosophe doit ensuite redescendre éclairer les prisonniers.",
+   "notions": [
+    "la vérité",
+    "la raison"
+   ],
+   "auteurs": [
+    "Platon"
+   ],
+   "oeuvre": "République",
+   "sources": [
+    {
+     "reference": "Platon, République, VII, 514a-517c ; 519c-521b",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "plat-soleil",
+   "type": "auteur_oeuvre",
+   "question": "République VI : quelle analogie relie le soleil et l'Idée du Bien ?",
+   "reponse": "Le soleil rend visibles les choses sensibles et permet leur croissance ; le Bien donne aux Idées leur intelligibilité et leur être, tout en étant « au-delà de l'essence » (509b).",
+   "notions": [
+    "la vérité"
+   ],
+   "auteurs": [
+    "Platon"
+   ],
+   "oeuvre": "République",
+   "sources": [
+    {
+     "reference": "Platon, République, VI, 507b-509c",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "plat-ligne",
+   "type": "auteur_oeuvre",
+   "question": "Comment la ligne divisée hiérarchise-t-elle les degrés de connaissance ?",
+   "reponse": "Deux domaines : le sensible (imagination, croyance) et l'intelligible (pensée discursive, intellection). Chaque segment est à son voisin dans un même rapport de clarté et de vérité.",
+   "notions": [
+    "la vérité",
+    "la raison"
+   ],
+   "auteurs": [
+    "Platon"
+   ],
+   "oeuvre": "République",
+   "sources": [
+    {
+     "reference": "Platon, République, VI, 509d-511e",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "plat-justice",
+   "type": "auteur_oeuvre",
+   "question": "Comment la République définit-elle la justice dans la cité et dans l'âme ?",
+   "reponse": "Dans la cité : chacun accomplit la tâche qui lui revient. Dans l'âme : la raison commande, aidée du cœur (thumos), aux appétits. La justice est une harmonie.",
+   "notions": [
+    "la justice"
+   ],
+   "auteurs": [
+    "Platon"
+   ],
+   "oeuvre": "République",
+   "sources": [
+    {
+     "reference": "Platon, République, IV, 433a-b ; 441c-444a",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "plat-gyges",
+   "type": "auteur_oeuvre",
+   "question": "République II : que veut montrer le mythe de l'anneau de Gygès ?",
+   "reponse": "Glaucon suppose qu'à l'abri de tout châtiment, même le juste agirait injustement : la justice ne serait qu'une contrainte. Socrate devra prouver qu'elle est un bien en soi.",
+   "notions": [
+    "la justice",
+    "le devoir"
+   ],
+   "auteurs": [
+    "Platon"
+   ],
+   "oeuvre": "République",
+   "sources": [
+    {
+     "reference": "Platon, République, II, 359a-360d",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "plat-menon",
+   "type": "auteur_oeuvre",
+   "question": "Que montre l'interrogation de l'esclave dans le Ménon ?",
+   "reponse": "Que connaître, c'est se ressouvenir : guidé par de simples questions, l'esclave trouve la construction du carré double. L'âme immortelle a déjà contemplé les vérités.",
+   "notions": [
+    "la vérité"
+   ],
+   "auteurs": [
+    "Platon"
+   ],
+   "oeuvre": "Ménon",
+   "sources": [
+    {
+     "reference": "Platon, Ménon, 81a-86c (esclave : 82b-85b)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "plat-gorgias",
+   "type": "auteur_oeuvre",
+   "question": "Pourquoi Socrate compare-t-il la rhétorique à la cuisine dans le Gorgias ?",
+   "reponse": "Ce sont des routines de flatterie qui visent le plaisir sans connaître le bien. La cuisine imite la médecine, la rhétorique imite la justice, sans savoir véritable.",
+   "notions": [
+    "le langage",
+    "la justice"
+   ],
+   "auteurs": [
+    "Platon"
+   ],
+   "oeuvre": "Gorgias",
+   "sources": [
+    {
+     "reference": "Platon, Gorgias, 462b-465e",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "plat-phedre-ecriture",
+   "type": "auteur_oeuvre",
+   "question": "Que reproche Socrate à l'écriture dans le Phèdre ?",
+   "reponse": "Elle donne l'apparence du savoir et affaiblit la mémoire ; elle ne peut ni répondre aux questions ni se défendre. Le vrai discours s'inscrit dans l'âme (mythe de Theuth).",
+   "notions": [
+    "le langage",
+    "la vérité"
+   ],
+   "auteurs": [
+    "Platon"
+   ],
+   "oeuvre": "Phèdre",
+   "sources": [
+    {
+     "reference": "Platon, Phèdre, 274c-277a",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "plat-banquet",
+   "type": "auteur_oeuvre",
+   "question": "Quelle est la progression de l'amour dans le discours de Diotime (Banquet) ?",
+   "reponse": "Du beau corps particulier à tous les beaux corps, puis aux belles âmes, aux lois, aux sciences, jusqu'au Beau en soi, éternel et unique.",
+   "notions": [
+    "le bonheur",
+    "la vérité"
+   ],
+   "auteurs": [
+    "Platon"
+   ],
+   "oeuvre": "Banquet",
+   "sources": [
+    {
+     "reference": "Platon, Banquet, 209e-212a",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "plat-apologie",
+   "type": "auteur_oeuvre",
+   "question": "En quoi consiste la « sagesse » de Socrate dans l'Apologie ?",
+   "reponse": "Une sagesse simplement humaine : savoir qu'il ne sait pas ce qu'il ne sait pas. Elle naît de l'énigme de l'oracle de Delphes et fonde sa mission d'examen d'autrui.",
+   "notions": [
+    "la vérité"
+   ],
+   "auteurs": [
+    "Platon"
+   ],
+   "oeuvre": "Apologie de Socrate",
+   "sources": [
+    {
+     "reference": "Platon, Apologie de Socrate, 20d-23b",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "plat-protagoras",
+   "type": "auteur_oeuvre",
+   "question": "Dans le mythe de Prométhée (Protagoras), que manque-t-il encore aux hommes pourvus de la technique ?",
+   "reponse": "L'art politique : sans lui ils s'entre-détruisent. Zeus envoie par Hermès la pudeur (aidôs) et la justice (dikè), à partager entre tous.",
+   "notions": [
+    "la technique",
+    "l'État"
+   ],
+   "auteurs": [
+    "Platon"
+   ],
+   "oeuvre": "Protagoras",
+   "sources": [
+    {
+     "reference": "Platon, Protagoras, 320c-322d",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "aris-bonheur",
+   "type": "auteur_oeuvre",
+   "question": "Comment Aristote définit-il le bonheur (eudaimonia) dans l'Éthique à Nicomaque ?",
+   "reponse": "Le bien suprême, fin recherchée pour elle-même : une activité de l'âme conforme à la vertu la plus parfaite, dans une vie accomplie.",
+   "notions": [
+    "le bonheur"
+   ],
+   "auteurs": [
+    "Aristote"
+   ],
+   "oeuvre": "Éthique à Nicomaque",
+   "sources": [
+    {
+     "reference": "Aristote, Éthique à Nicomaque, I, 1-2 (1094a) ; I, 6 (1098a16-18)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "aris-vertu",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce que la vertu morale selon Aristote ?",
+   "reponse": "Une disposition acquise (hexis) à choisir le juste milieu relatif à nous, déterminé par la raison comme le déterminerait l'homme sensé (phronimos).",
+   "notions": [
+    "le devoir",
+    "le bonheur"
+   ],
+   "auteurs": [
+    "Aristote"
+   ],
+   "oeuvre": "Éthique à Nicomaque",
+   "sources": [
+    {
+     "reference": "Aristote, Éthique à Nicomaque, II, 6 (1106b36-1107a2)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "aris-animal-politique",
+   "type": "auteur_oeuvre",
+   "question": "Pourquoi l'homme est-il un « animal politique » (Politiques, I, 2) ?",
+   "reponse": "La cité est naturelle. Seul l'homme a le logos, qui manifeste le juste et l'injuste ; hors de la cité, on est une bête ou un dieu.",
+   "notions": [
+    "l'État",
+    "le langage",
+    "la nature"
+   ],
+   "auteurs": [
+    "Aristote"
+   ],
+   "oeuvre": "Politiques",
+   "sources": [
+    {
+     "reference": "Aristote, Politiques, I, 2 (1253a1-18)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "aris-quatre-causes",
+   "type": "auteur_oeuvre",
+   "question": "Quelles sont les quatre causes d'Aristote ?",
+   "reponse": "Matérielle (de quoi), formelle (essence), efficiente (d'où vient le mouvement), finale (en vue de quoi). Exemple de la statue : bronze, forme, sculpteur, but.",
+   "notions": [
+    "la nature",
+    "la technique"
+   ],
+   "auteurs": [
+    "Aristote"
+   ],
+   "oeuvre": "Physique",
+   "sources": [
+    {
+     "reference": "Aristote, Physique, II, 3 (194b16-195a3) ; Métaphysique, Δ, 2 (1013a24-b3)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "aris-acte-puissance",
+   "type": "auteur_oeuvre",
+   "question": "Que distingue Aristote par « en puissance » et « en acte » ?",
+   "reponse": "La puissance est la capacité d'être ou de devenir autre ; l'acte est sa réalisation. La statue est en puissance dans le bloc, en acte une fois sculptée.",
+   "notions": [
+    "la nature"
+   ],
+   "auteurs": [
+    "Aristote"
+   ],
+   "oeuvre": "Métaphysique",
+   "sources": [
+    {
+     "reference": "Aristote, Métaphysique, Θ, 6 (1048a25-b9)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "aris-poetique",
+   "type": "auteur_oeuvre",
+   "question": "Pourquoi la poésie est-elle « plus philosophique » que l'histoire (Poétique, 9) ?",
+   "reponse": "L'histoire dit ce qui a eu lieu ; la poésie dit ce qui pourrait avoir lieu selon le vraisemblable et le nécessaire. Elle vise donc l'universel.",
+   "notions": [
+    "l'art",
+    "la vérité"
+   ],
+   "auteurs": [
+    "Aristote"
+   ],
+   "oeuvre": "Poétique",
+   "sources": [
+    {
+     "reference": "Aristote, Poétique, 9 (1451a36-b11)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "aris-metaphysique-a",
+   "type": "auteur_oeuvre",
+   "question": "Comment s'ouvre la Métaphysique d'Aristote ?",
+   "reponse": "Par la thèse que tous les hommes désirent naturellement savoir ; signe : le plaisir des sensations, surtout de la vue, aimée pour elle-même.",
+   "notions": [
+    "la raison",
+    "la vérité"
+   ],
+   "auteurs": [
+    "Aristote"
+   ],
+   "oeuvre": "Métaphysique",
+   "sources": [
+    {
+     "reference": "Aristote, Métaphysique, A, 1 (980a21-27)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "aris-temps",
+   "type": "auteur_oeuvre",
+   "question": "Comment Aristote définit-il le temps (Physique IV) ?",
+   "reponse": "Le nombre du mouvement selon l'avant et l'après : le temps n'existe pas sans un changement que l'âme peut dénombrer.",
+   "notions": [
+    "le temps"
+   ],
+   "auteurs": [
+    "Aristote"
+   ],
+   "oeuvre": "Physique",
+   "sources": [
+    {
+     "reference": "Aristote, Physique, IV, 11 (219b1-2)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "aris-contemplation",
+   "type": "auteur_oeuvre",
+   "question": "Pourquoi la vie contemplative est-elle la plus heureuse (Éthique à Nicomaque, X) ?",
+   "reponse": "Elle est l'activité de la partie la plus haute de nous (l'intellect), la plus continue, la plus autosuffisante, et aimée pour elle-même.",
+   "notions": [
+    "le bonheur"
+   ],
+   "auteurs": [
+    "Aristote"
+   ],
+   "oeuvre": "Éthique à Nicomaque",
+   "sources": [
+    {
+     "reference": "Aristote, Éthique à Nicomaque, X, 7 (1177a12-b1)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "desc-bon-sens",
+   "type": "auteur_oeuvre",
+   "question": "Comment s'ouvre le Discours de la méthode ?",
+   "reponse": "Le bon sens est la chose du monde la mieux partagée ; nos opinions divergent parce que nous conduisons mal notre raison. D'où la nécessité d'une méthode.",
+   "notions": [
+    "la raison"
+   ],
+   "auteurs": [
+    "Descartes"
+   ],
+   "oeuvre": "Discours de la méthode",
+   "sources": [
+    {
+     "reference": "Descartes, Discours de la méthode, I (AT VI, 1-2)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "desc-regles",
+   "type": "auteur_oeuvre",
+   "question": "Quelles sont les quatre règles de la méthode (Discours, II) ?",
+   "reponse": "Évidence (ne recevoir que le clair et distinct), analyse (diviser), ordre (du simple au complexe), dénombrement (revues générales).",
+   "notions": [
+    "la raison",
+    "la science"
+   ],
+   "auteurs": [
+    "Descartes"
+   ],
+   "oeuvre": "Discours de la méthode",
+   "sources": [
+    {
+     "reference": "Descartes, Discours de la méthode, II (AT VI, 18-19)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "desc-morale-provision",
+   "type": "auteur_oeuvre",
+   "question": "Quelles sont les maximes de la morale par provision (Discours, III) ?",
+   "reponse": "Obéir aux lois et coutumes ; être ferme et résolu dans ses actions ; se vaincre plutôt que la fortune (changer ses désirs plutôt que l'ordre du monde) ; cultiver sa raison.",
+   "notions": [
+    "le devoir",
+    "le bonheur"
+   ],
+   "auteurs": [
+    "Descartes"
+   ],
+   "oeuvre": "Discours de la méthode",
+   "sources": [
+    {
+     "reference": "Descartes, Discours de la méthode, III (AT VI, 22-28)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "desc-doute",
+   "type": "auteur_oeuvre",
+   "question": "Quelles sont les étapes du doute dans la Méditation première ?",
+   "reponse": "Erreurs des sens, puis rêve, puis hypothèse du Dieu trompeur ou du malin génie. Le doute est hyperbolique et méthodique : il vise un fondement certain.",
+   "notions": [
+    "la vérité",
+    "la raison"
+   ],
+   "auteurs": [
+    "Descartes"
+   ],
+   "oeuvre": "Méditations métaphysiques",
+   "sources": [
+    {
+     "reference": "Descartes, Méditations métaphysiques, I (AT IX-1, 13-18)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "desc-cogito",
+   "type": "auteur_oeuvre",
+   "question": "Pourquoi le cogito résiste-t-il au doute (Méditation seconde) ?",
+   "reponse": "Même trompé par un malin génie, il faut que je sois pour être trompé : « je suis, j'existe » est vrai chaque fois que je le pense.",
+   "notions": [
+    "la conscience",
+    "la vérité"
+   ],
+   "auteurs": [
+    "Descartes"
+   ],
+   "oeuvre": "Méditations métaphysiques",
+   "sources": [
+    {
+     "reference": "Descartes, Méditations métaphysiques, II (AT IX-1, 19)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "desc-cit-cogito",
+   "type": "citation",
+   "question": "Qui écrit « Je pense, donc je suis », et où ?",
+   "reponse": "Descartes, Discours de la méthode, IV (AT VI, 32). La forme latine « ego cogito, ergo sum » figure dans les Principes de la philosophie, I, art. 7.",
+   "notions": [
+    "la conscience"
+   ],
+   "auteurs": [
+    "Descartes"
+   ],
+   "oeuvre": "Discours de la méthode",
+   "sources": [
+    {
+     "reference": "Descartes, Discours de la méthode, IV (AT VI, 32) ; Principes de la philosophie, I, art. 7",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "desc-cire",
+   "type": "auteur_oeuvre",
+   "question": "Que démontre l'exemple du morceau de cire (Méditation seconde) ?",
+   "reponse": "Que je connais la cire par l'inspection de l'esprit seul, non par les sens ni l'imagination, puisque toutes ses qualités sensibles changent quand elle fond.",
+   "notions": [
+    "la raison"
+   ],
+   "auteurs": [
+    "Descartes"
+   ],
+   "oeuvre": "Méditations métaphysiques",
+   "sources": [
+    {
+     "reference": "Descartes, Méditations métaphysiques, II (AT IX-1, 23-25)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "desc-infini",
+   "type": "auteur_oeuvre",
+   "question": "Comment Descartes prouve-t-il l'existence de Dieu par l'idée d'infini (Méditation troisième) ?",
+   "reponse": "J'ai en moi l'idée d'un être infini et parfait ; étant fini, je ne peux en être la cause. Seul un être infini peut l'avoir mise en moi.",
+   "notions": [
+    "la religion",
+    "la raison"
+   ],
+   "auteurs": [
+    "Descartes"
+   ],
+   "oeuvre": "Méditations métaphysiques",
+   "sources": [
+    {
+     "reference": "Descartes, Méditations métaphysiques, III (AT IX-1, 30-41)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "desc-veracite",
+   "type": "auteur_oeuvre",
+   "question": "Quel rôle joue la véracité divine, et quelle objection lui oppose-t-on ?",
+   "reponse": "Dieu, parfait, n'est pas trompeur : ce que je conçois clairement et distinctement est vrai. Objection classique : le « cercle » (prouver Dieu par l'évidence, l'évidence par Dieu).",
+   "notions": [
+    "la vérité",
+    "la religion"
+   ],
+   "auteurs": [
+    "Descartes"
+   ],
+   "oeuvre": "Méditations métaphysiques",
+   "sources": [
+    {
+     "reference": "Descartes, Méditations métaphysiques, IV-V ; Secondes réponses",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    },
+    {
+     "reference": "Descartes, Quatrièmes objections (Arnauld)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "desc-liberte",
+   "type": "auteur_oeuvre",
+   "question": "Comment Descartes distingue-t-il liberté et indifférence ?",
+   "reponse": "L'indifférence est le plus bas degré de la liberté. Plus ma volonté est portée par l'évidence du vrai et du bien, plus je suis libre.",
+   "notions": [
+    "la liberté"
+   ],
+   "auteurs": [
+    "Descartes"
+   ],
+   "oeuvre": "Méditations métaphysiques",
+   "sources": [
+    {
+     "reference": "Descartes, Méditations métaphysiques, IV ; Lettre à Mesland, 9 février 1645",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "desc-union",
+   "type": "auteur_oeuvre",
+   "question": "Comment Descartes pense-t-il l'union de l'âme et du corps ?",
+   "reponse": "Deux substances distinctes, mais unies : je ne suis pas dans mon corps comme un pilote en son navire. L'union est une notion primitive, connue par la vie et les conversations.",
+   "notions": [
+    "la conscience",
+    "la nature"
+   ],
+   "auteurs": [
+    "Descartes"
+   ],
+   "oeuvre": "Méditations métaphysiques",
+   "sources": [
+    {
+     "reference": "Descartes, Méditations métaphysiques, VI ; Lettre à Élisabeth, 21 mai 1643",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "desc-generosite",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce que la générosité chez Descartes (Passions de l'âme) ?",
+   "reponse": "Savoir que seul le libre arbitre nous appartient vraiment, et avoir la ferme résolution d'en bien user. Elle est la clef des autres vertus et remède aux passions.",
+   "notions": [
+    "la liberté",
+    "le devoir"
+   ],
+   "auteurs": [
+    "Descartes"
+   ],
+   "oeuvre": "Les Passions de l'âme",
+   "sources": [
+    {
+     "reference": "Descartes, Les Passions de l'âme, art. 153-161",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "kant-lumieres",
+   "type": "auteur_oeuvre",
+   "question": "Comment Kant définit-il les Lumières ?",
+   "reponse": "La sortie de l'homme de sa minorité, dont il est lui-même responsable : l'incapacité de se servir de son entendement sans la conduite d'autrui. Devise : sapere aude.",
+   "notions": [
+    "la raison",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Kant"
+   ],
+   "oeuvre": "Qu'est-ce que les Lumières ?",
+   "sources": [
+    {
+     "reference": "Kant, Beantwortung der Frage : Was ist Aufklärung ? (1784), AK VIII, 35",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "kant-cit-sapere",
+   "type": "citation",
+   "question": "Quelle est la devise des Lumières selon Kant ?",
+   "reponse": "« Sapere aude ! » (ose te servir de ton propre entendement), reprise d'Horace : Kant, Qu'est-ce que les Lumières ?, AK VIII, 35.",
+   "notions": [
+    "la raison"
+   ],
+   "auteurs": [
+    "Kant"
+   ],
+   "oeuvre": "Qu'est-ce que les Lumières ?",
+   "sources": [
+    {
+     "reference": "Kant, Was ist Aufklärung ?, AK VIII, 35",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "kant-copernic",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce que la « révolution copernicienne » de Kant ?",
+   "reponse": "Ce n'est plus la connaissance qui se règle sur les objets, mais les objets (comme phénomènes) qui se règlent sur les conditions a priori de notre connaissance.",
+   "notions": [
+    "la science",
+    "la raison"
+   ],
+   "auteurs": [
+    "Kant"
+   ],
+   "oeuvre": "Critique de la raison pure",
+   "sources": [
+    {
+     "reference": "Kant, Critique de la raison pure, préface de la 2e éd. (B XVI)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "kant-intuition-concept",
+   "type": "auteur_oeuvre",
+   "question": "Que signifie : sans concepts, les intuitions sont aveugles ; sans intuitions, les concepts sont vides ?",
+   "reponse": "Connaître exige deux sources : la sensibilité, qui donne des intuitions, et l'entendement, qui pense par concepts. L'une sans l'autre ne fournit aucune connaissance.",
+   "notions": [
+    "la raison",
+    "la science"
+   ],
+   "auteurs": [
+    "Kant"
+   ],
+   "oeuvre": "Critique de la raison pure",
+   "sources": [
+    {
+     "reference": "Kant, Critique de la raison pure, Logique transcendantale, introduction (A 51 / B 75)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "kant-phenomene",
+   "type": "auteur_oeuvre",
+   "question": "Quelle distinction Kant établit-il entre phénomène et chose en soi ?",
+   "reponse": "Nous ne connaissons les choses que telles qu'elles nous apparaissent dans l'espace et le temps (formes a priori de la sensibilité), non telles qu'elles sont en soi.",
+   "notions": [
+    "la vérité",
+    "la science"
+   ],
+   "auteurs": [
+    "Kant"
+   ],
+   "oeuvre": "Critique de la raison pure",
+   "sources": [
+    {
+     "reference": "Kant, Critique de la raison pure, Esthétique transcendantale",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "kant-bonne-volonte",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce qui est bon sans restriction selon Kant ?",
+   "reponse": "Seule une bonne volonté. Elle est bonne par son vouloir, non par ses effets ni par son aptitude à atteindre un but.",
+   "notions": [
+    "le devoir"
+   ],
+   "auteurs": [
+    "Kant"
+   ],
+   "oeuvre": "Fondements de la métaphysique des mœurs",
+   "sources": [
+    {
+     "reference": "Kant, Fondements de la métaphysique des mœurs, section I, AK IV, 393",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "kant-devoir",
+   "type": "auteur_oeuvre",
+   "question": "Quelle différence entre agir conformément au devoir et agir par devoir ?",
+   "reponse": "Le commerçant qui ne surfait pas ses prix par intérêt agit conformément au devoir, non par devoir. Seul le respect de la loi morale donne valeur morale à l'acte.",
+   "notions": [
+    "le devoir"
+   ],
+   "auteurs": [
+    "Kant"
+   ],
+   "oeuvre": "Fondements de la métaphysique des mœurs",
+   "sources": [
+    {
+     "reference": "Kant, Fondements de la métaphysique des mœurs, section I, AK IV, 397-398",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "kant-imperatif",
+   "type": "auteur_oeuvre",
+   "question": "Quelles sont les principales formules de l'impératif catégorique ?",
+   "reponse": "Loi universelle (agis selon la maxime que tu peux vouloir loi universelle), loi de la nature, humanité comme fin en soi, autonomie (volonté législatrice).",
+   "notions": [
+    "le devoir",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Kant"
+   ],
+   "oeuvre": "Fondements de la métaphysique des mœurs",
+   "sources": [
+    {
+     "reference": "Kant, Fondements de la métaphysique des mœurs, section II, AK IV, 421 ; 429 ; 431",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "kant-humanite",
+   "type": "auteur_oeuvre",
+   "question": "Que prescrit la formule de l'humanité ?",
+   "reponse": "Traiter l'humanité, en sa personne comme en celle d'autrui, toujours en même temps comme une fin, jamais simplement comme un moyen.",
+   "notions": [
+    "le devoir",
+    "la justice"
+   ],
+   "auteurs": [
+    "Kant"
+   ],
+   "oeuvre": "Fondements de la métaphysique des mœurs",
+   "sources": [
+    {
+     "reference": "Kant, Fondements de la métaphysique des mœurs, section II, AK IV, 429",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "kant-anthropologie",
+   "type": "auteur_oeuvre",
+   "question": "Que cherche l'Anthropologie du point de vue pragmatique ?",
+   "reponse": "Non ce que la nature fait de l'homme, mais ce que l'homme, être libre, fait ou peut et doit faire de lui-même.",
+   "notions": [
+    "la nature",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Kant"
+   ],
+   "oeuvre": "Anthropologie d'un point de vue pragmatique",
+   "sources": [
+    {
+     "reference": "Kant, Anthropologie d'un point de vue pragmatique (1798), préface, AK VII, 119",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "kant-gout",
+   "type": "auteur_oeuvre",
+   "question": "Quelles sont les caractéristiques du jugement de goût (Critique de la faculté de juger) ?",
+   "reponse": "Plaisir désintéressé ; universalité sans concept ; finalité sans fin ; nécessité d'une adhésion exemplaire. Il n'est ni connaissance ni simple agrément.",
+   "notions": [
+    "l'art"
+   ],
+   "auteurs": [
+    "Kant"
+   ],
+   "oeuvre": "Critique de la faculté de juger",
+   "sources": [
+    {
+     "reference": "Kant, Critique de la faculté de juger, Analytique du beau, §§1-22",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "kant-insociable",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce que l'« insociable sociabilité » ?",
+   "reponse": "Le penchant des hommes à entrer en société, joint à une résistance constante qui menace de la dissoudre. Cet antagonisme développe leurs dispositions.",
+   "notions": [
+    "l'État",
+    "la nature"
+   ],
+   "auteurs": [
+    "Kant"
+   ],
+   "oeuvre": "Idée d'une histoire universelle d'un point de vue cosmopolitique",
+   "sources": [
+    {
+     "reference": "Kant, Idée d'une histoire universelle d'un point de vue cosmopolitique (1784), 4e proposition, AK VIII, 20",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "kant-paix",
+   "type": "auteur_oeuvre",
+   "question": "Quels sont les trois articles définitifs du Projet de paix perpétuelle ?",
+   "reponse": "Constitution républicaine dans chaque État ; droit des gens fondé sur une fédération d'États libres ; droit cosmopolitique limité à l'hospitalité universelle.",
+   "notions": [
+    "l'État",
+    "la justice"
+   ],
+   "auteurs": [
+    "Kant"
+   ],
+   "oeuvre": "Projet de paix perpétuelle",
+   "sources": [
+    {
+     "reference": "Kant, Zum ewigen Frieden (1795), 2e section, AK VIII, 349-360",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "rous-cit-libre",
+   "type": "citation",
+   "question": "De qui est « L'homme est né libre, et partout il est dans les fers » ?",
+   "reponse": "Rousseau, Du contrat social, I, 1. La suite : comment ce changement s'est-il fait ? Il l'ignore ; ce qui peut le rendre légitime, il croit pouvoir le résoudre.",
+   "notions": [
+    "la liberté",
+    "l'État"
+   ],
+   "auteurs": [
+    "Rousseau"
+   ],
+   "oeuvre": "Du contrat social",
+   "sources": [
+    {
+     "reference": "Rousseau, Du contrat social, I, 1",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "rous-probleme",
+   "type": "auteur_oeuvre",
+   "question": "Quel est le problème fondamental auquel répond le contrat social ?",
+   "reponse": "Trouver une forme d'association qui protège chacun avec toute la force commune, et par laquelle chacun, s'unissant à tous, n'obéisse pourtant qu'à lui-même.",
+   "notions": [
+    "la liberté",
+    "l'État",
+    "la justice"
+   ],
+   "auteurs": [
+    "Rousseau"
+   ],
+   "oeuvre": "Du contrat social",
+   "sources": [
+    {
+     "reference": "Rousseau, Du contrat social, I, 6",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "rous-volonte-generale",
+   "type": "auteur_oeuvre",
+   "question": "Volonté générale et volonté de tous : quelle différence ?",
+   "reponse": "La volonté générale ne regarde que l'intérêt commun ; la volonté de tous est la somme des volontés particulières, ou intérêt privé.",
+   "notions": [
+    "l'État",
+    "la justice"
+   ],
+   "auteurs": [
+    "Rousseau"
+   ],
+   "oeuvre": "Du contrat social",
+   "sources": [
+    {
+     "reference": "Rousseau, Du contrat social, II, 3",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "rous-representation",
+   "type": "auteur_oeuvre",
+   "question": "Pourquoi Rousseau rejette-t-il la représentation politique ?",
+   "reponse": "La souveraineté, exercice de la volonté générale, est inaliénable et ne peut être représentée. Les députés ne sont que des commissaires ; le peuple anglais n'est libre que pendant l'élection.",
+   "notions": [
+    "l'État",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Rousseau"
+   ],
+   "oeuvre": "Du contrat social",
+   "sources": [
+    {
+     "reference": "Rousseau, Du contrat social, II, 1 ; III, 15",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "rous-amour-propre",
+   "type": "auteur_oeuvre",
+   "question": "Amour de soi et amour-propre : que distingue Rousseau ?",
+   "reponse": "L'amour de soi est le sentiment naturel de conservation. L'amour-propre est relatif : né en société, il pousse à se comparer aux autres et à vouloir leur préférence.",
+   "notions": [
+    "la nature",
+    "le bonheur"
+   ],
+   "auteurs": [
+    "Rousseau"
+   ],
+   "oeuvre": "Discours sur l'origine et les fondements de l'inégalité",
+   "sources": [
+    {
+     "reference": "Rousseau, Discours sur l'inégalité, note XV (2e partie)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "rous-perfectibilite",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce que la perfectibilité chez Rousseau ?",
+   "reponse": "La faculté de se perfectionner, propre à l'homme et qui le distingue de l'animal. Elle est la source de ses progrès comme de ses malheurs.",
+   "notions": [
+    "la nature",
+    "le temps"
+   ],
+   "auteurs": [
+    "Rousseau"
+   ],
+   "oeuvre": "Discours sur l'origine et les fondements de l'inégalité",
+   "sources": [
+    {
+     "reference": "Rousseau, Discours sur l'inégalité, 1re partie",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "rous-propriete",
+   "type": "auteur_oeuvre",
+   "question": "Comment débute la seconde partie du Discours sur l'inégalité ?",
+   "reponse": "Par le premier qui, ayant enclos un terrain, dit « ceci est à moi » et trouva des gens assez simples pour le croire : le vrai fondateur de la société civile.",
+   "notions": [
+    "la justice",
+    "l'État"
+   ],
+   "auteurs": [
+    "Rousseau"
+   ],
+   "oeuvre": "Discours sur l'origine et les fondements de l'inégalité",
+   "sources": [
+    {
+     "reference": "Rousseau, Discours sur l'inégalité, 2e partie, début",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "rous-education-negative",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce que l'éducation négative (Émile, II) ?",
+   "reponse": "Ne pas enseigner la vertu ni la vérité, mais garantir le cœur du vice et l'esprit de l'erreur, et laisser l'enfant apprendre par l'expérience des choses.",
+   "notions": [
+    "la nature"
+   ],
+   "auteurs": [
+    "Rousseau"
+   ],
+   "oeuvre": "Émile ou De l’éducation",
+   "sources": [
+    {
+     "reference": "Rousseau, Émile ou De l'éducation, II",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "rous-conscience",
+   "type": "auteur_oeuvre",
+   "question": "Comment Rousseau caractérise-t-il la conscience morale (Profession de foi du vicaire savoyard) ?",
+   "reponse": "Comme un instinct divin, guide sûr du bien et du mal, distinct de la raison qui peut nous égarer : elle fait de l'homme un être moral.",
+   "notions": [
+    "la conscience",
+    "le devoir"
+   ],
+   "auteurs": [
+    "Rousseau"
+   ],
+   "oeuvre": "Émile ou De l’éducation",
+   "sources": [
+    {
+     "reference": "Rousseau, Émile, IV, Profession de foi du vicaire savoyard",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "rous-religion-civile",
+   "type": "auteur_oeuvre",
+   "question": "Quels sont les dogmes de la religion civile (Contrat social, IV, 8) ?",
+   "reponse": "Existence d'une divinité, vie à venir, bonheur des justes et châtiment des méchants, sainteté du contrat et des lois. Seule l'intolérance est proscrite.",
+   "notions": [
+    "la religion",
+    "l'État"
+   ],
+   "auteurs": [
+    "Rousseau"
+   ],
+   "oeuvre": "Du contrat social",
+   "sources": [
+    {
+     "reference": "Rousseau, Du contrat social, IV, 8",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "heg-histoire-liberte",
+   "type": "auteur_oeuvre",
+   "question": "Comment Hegel définit-il le sens de l'histoire universelle (Introduction à la philosophie de l'histoire) ?",
+   "reponse": "Comme le progrès dans la conscience de la liberté : l'Orient savait qu'un seul est libre, le monde gréco-romain que quelques-uns le sont, le monde germanique que tous le sont.",
+   "notions": [
+    "la liberté",
+    "le temps",
+    "l'État"
+   ],
+   "auteurs": [
+    "Hegel"
+   ],
+   "oeuvre": "Leçons sur la philosophie de l'histoire (Introduction)",
+   "sources": [
+    {
+     "reference": "Hegel, Vorlesungen über die Philosophie der Geschichte, Einleitung (trad. fr. à préciser)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "heg-ruse",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce que la « ruse de la raison » ?",
+   "reponse": "La raison laisse les passions des individus agir pour elle : les grands hommes réalisent à leur insu l'Idée, et paient souvent ce rôle de leur bonheur.",
+   "notions": [
+    "la raison",
+    "le temps"
+   ],
+   "auteurs": [
+    "Hegel"
+   ],
+   "oeuvre": "Leçons sur la philosophie de l'histoire (Introduction)",
+   "sources": [
+    {
+     "reference": "Hegel, Philosophie de l'histoire, Introduction, section sur les passions et les grands hommes",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "heg-rationnel-reel",
+   "type": "auteur_oeuvre",
+   "question": "Que signifie la formule hégélienne sur le rationnel et l'effectif (préface des Principes de la philosophie du droit) ?",
+   "reponse": "Non que tout ce qui existe soit bon, mais que la raison se réalise dans l'effectif. Philosopher, c'est saisir son temps dans la pensée.",
+   "notions": [
+    "la raison",
+    "le temps",
+    "la vérité"
+   ],
+   "auteurs": [
+    "Hegel"
+   ],
+   "oeuvre": "Principes de la philosophie du droit",
+   "sources": [
+    {
+     "reference": "Hegel, Principes de la philosophie du droit, préface",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "heg-maitre-esclave",
+   "type": "auteur_oeuvre",
+   "question": "Quel est le retournement de la dialectique du maître et de l'esclave ?",
+   "reponse": "Le maître dépend de l'esclave, dont la reconnaissance est celle d'un non-libre. L'esclave, par la crainte et le travail qui forme la chose, accède à la conscience de soi.",
+   "notions": [
+    "le travail",
+    "la conscience",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Hegel"
+   ],
+   "oeuvre": "Phénoménologie de l'esprit",
+   "sources": [
+    {
+     "reference": "Hegel, Phénoménologie de l'esprit, IV, A (« Indépendance et dépendance de la conscience de soi »)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "heg-reconnaissance",
+   "type": "auteur_oeuvre",
+   "question": "Pourquoi la conscience de soi a-t-elle besoin d'autrui, selon Hegel ?",
+   "reponse": "Elle n'est ce qu'elle est que reconnue par une autre conscience de soi. D'où la lutte pour la reconnaissance, où chacun cherche à être reconnu comme libre.",
+   "notions": [
+    "la conscience",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Hegel"
+   ],
+   "oeuvre": "Phénoménologie de l'esprit",
+   "sources": [
+    {
+     "reference": "Hegel, Phénoménologie de l'esprit, IV, A",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "heg-droit-plan",
+   "type": "auteur_oeuvre",
+   "question": "Quels sont les trois moments des Principes de la philosophie du droit ?",
+   "reponse": "Le droit abstrait (propriété, contrat), la moralité subjective, la vie éthique (famille, société civile, État).",
+   "notions": [
+    "la justice",
+    "l'État",
+    "le devoir"
+   ],
+   "auteurs": [
+    "Hegel"
+   ],
+   "oeuvre": "Principes de la philosophie du droit",
+   "sources": [
+    {
+     "reference": "Hegel, Principes de la philosophie du droit, plan général (§§33, 105, 141)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "heg-etat",
+   "type": "auteur_oeuvre",
+   "question": "Pourquoi l'État est-il, pour Hegel, plus que la société civile ?",
+   "reponse": "La société civile est le système des besoins, où domine l'intérêt particulier. L'État est la réalité de l'Idée éthique, où liberté individuelle et liberté substantielle se concilient.",
+   "notions": [
+    "l'État",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Hegel"
+   ],
+   "oeuvre": "Principes de la philosophie du droit",
+   "sources": [
+    {
+     "reference": "Hegel, Principes de la philosophie du droit, §§182-188 ; §§257-258",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "heg-art",
+   "type": "auteur_oeuvre",
+   "question": "Quelle place Hegel accorde-t-il à l'art dans l'esprit absolu ?",
+   "reponse": "L'art est la première forme de l'esprit absolu : présentation sensible de l'Idée. Il est dépassé par la religion puis la philosophie (thèse dite de la « fin de l'art »).",
+   "notions": [
+    "l'art",
+    "la religion"
+   ],
+   "auteurs": [
+    "Hegel"
+   ],
+   "oeuvre": "Esthétique",
+   "sources": [
+    {
+     "reference": "Hegel, Esthétique, Introduction ; Encyclopédie des sciences philosophiques, §§553-577",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "niet-morale-esclaves",
+   "type": "auteur_oeuvre",
+   "question": "Qu'appelle Nietzsche la morale des esclaves ?",
+   "reponse": "Une morale née du ressentiment des faibles : ils nomment « mauvais » le puissant et « bon » leur impuissance. Renversement des valeurs aristocratiques.",
+   "notions": [
+    "le devoir",
+    "la justice"
+   ],
+   "auteurs": [
+    "Nietzsche"
+   ],
+   "oeuvre": "Généalogie de la morale",
+   "sources": [
+    {
+     "reference": "Nietzsche, Zur Genealogie der Moral, I, §§7, 10-11 (trad. fr. à préciser)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "niet-dieu-mort",
+   "type": "auteur_oeuvre",
+   "question": "Que signifie « Dieu est mort » ?",
+   "reponse": "Un constat culturel, non une thèse athée de plus : la croyance en Dieu n'est plus crédible et ruine les valeurs qui reposaient sur elle. Risque : le nihilisme.",
+   "notions": [
+    "la religion",
+    "la vérité"
+   ],
+   "auteurs": [
+    "Nietzsche"
+   ],
+   "oeuvre": "Le Gai Savoir",
+   "sources": [
+    {
+     "reference": "Nietzsche, Die fröhliche Wissenschaft, §125 ; §343",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "niet-eternel-retour",
+   "type": "auteur_oeuvre",
+   "question": "Quelle épreuve pose la pensée de l'éternel retour (Gai Savoir, §341) ?",
+   "reponse": "Pourrais-je vouloir revivre infiniment la même vie ? C'est le critère de l'affirmation de la vie (amor fati), non une doctrine cosmologique à démontrer.",
+   "notions": [
+    "le temps",
+    "le bonheur"
+   ],
+   "auteurs": [
+    "Nietzsche"
+   ],
+   "oeuvre": "Le Gai Savoir",
+   "sources": [
+    {
+     "reference": "Nietzsche, Die fröhliche Wissenschaft, §341",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "niet-metamorphoses",
+   "type": "auteur_oeuvre",
+   "question": "Quelles sont les trois métamorphoses de l'esprit dans Zarathoustra ?",
+   "reponse": "Le chameau (qui porte les fardeaux), le lion (qui dit non et conquiert sa liberté), l'enfant (innocence, oubli, commencement, jeu créateur).",
+   "notions": [
+    "la liberté"
+   ],
+   "auteurs": [
+    "Nietzsche"
+   ],
+   "oeuvre": "Ainsi parlait Zarathoustra",
+   "sources": [
+    {
+     "reference": "Nietzsche, Also sprach Zarathustra, I, « Des trois métamorphoses »",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "niet-surhomme",
+   "type": "auteur_oeuvre",
+   "question": "Que désigne le surhomme dans le Prologue de Zarathoustra ?",
+   "reponse": "Le sens de la terre : ce que l'homme doit surmonter, comme le singe est pour l'homme une honte. Il s'oppose au « dernier homme », conservateur et satisfait.",
+   "notions": [
+    "la nature"
+   ],
+   "auteurs": [
+    "Nietzsche"
+   ],
+   "oeuvre": "Ainsi parlait Zarathoustra",
+   "sources": [
+    {
+     "reference": "Nietzsche, Also sprach Zarathustra, Prologue, §§3-5",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "niet-verite-metaphores",
+   "type": "auteur_oeuvre",
+   "question": "Que devient la vérité dans « Sur la vérité et le mensonge au sens extra-moral » ?",
+   "reponse": "Une multitude mobile de métaphores et d'anthropomorphismes : des illusions dont on a oublié qu'elles le sont, usées comme des pièces devenues simple métal.",
+   "notions": [
+    "la vérité",
+    "le langage"
+   ],
+   "auteurs": [
+    "Nietzsche"
+   ],
+   "oeuvre": "Sur la vérité et le mensonge au sens extra-moral",
+   "sources": [
+    {
+     "reference": "Nietzsche, Über Wahrheit und Lüge im aussermoralischen Sinne (1873), §1",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "niet-perspectivisme",
+   "type": "auteur_oeuvre",
+   "question": "Qu'affirme le perspectivisme de Nietzsche (Généalogie, III, §12) ?",
+   "reponse": "Il n'y a qu'un voir en perspective, un « connaître » en perspective : plus nous laissons d'yeux parler, plus notre « objectivité » est complète.",
+   "notions": [
+    "la vérité",
+    "la science"
+   ],
+   "auteurs": [
+    "Nietzsche"
+   ],
+   "oeuvre": "Généalogie de la morale",
+   "sources": [
+    {
+     "reference": "Nietzsche, Zur Genealogie der Moral, III, §12",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "niet-devenir-soi",
+   "type": "auteur_oeuvre",
+   "question": "Que veut dire « devenir ce que l'on est » chez Nietzsche ?",
+   "reponse": "Non révéler une essence donnée, mais se constituer en donnant style à son caractère. Sous-titre d'Ecce homo, écho de Pindare repris dans le Gai Savoir §270.",
+   "notions": [
+    "la conscience",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Nietzsche"
+   ],
+   "oeuvre": "Ecce homo",
+   "sources": [
+    {
+     "reference": "Nietzsche, Ecce homo, sous-titre ; Die fröhliche Wissenschaft, §270 ; §290",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "niet-fragments",
+   "type": "methode",
+   "question": "Pourquoi faut-il être prudent avec les Fragments posthumes de Nietzsche ?",
+   "reponse": "Ce sont des notes non destinées à publication. La compilation « La Volonté de puissance » est une construction posthume ; on cite l'édition Colli-Montinari (date + numéro du fragment).",
+   "notions": [],
+   "auteurs": [
+    "Nietzsche"
+   ],
+   "oeuvre": "Fragments posthumes",
+   "sources": [
+    {
+     "reference": "Nietzsche, Nachgelassene Fragmente, éd. Colli-Montinari (KGW / KSA)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. Chronologie de l'édition à recouper avec la préface de l'édition française (Gallimard).",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "niet-apollinien",
+   "type": "auteur_oeuvre",
+   "question": "Qu'opposent l'apollinien et le dionysiaque dans La Naissance de la tragédie ?",
+   "reponse": "L'apollinien : forme, mesure, rêve, belle apparence. Le dionysiaque : ivresse, démesure, dissolution de l'individu. La tragédie naît de leur union.",
+   "notions": [
+    "l'art"
+   ],
+   "auteurs": [
+    "Nietzsche"
+   ],
+   "oeuvre": "La Naissance de la tragédie",
+   "sources": [
+    {
+     "reference": "Nietzsche, Die Geburt der Tragödie (1872), §§1-2",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "freud-topiques",
+   "type": "auteur_oeuvre",
+   "question": "Quelles sont la première et la seconde topique freudiennes ?",
+   "reponse": "Première : inconscient, préconscient, conscient. Seconde (1923) : ça, moi, surmoi ; le moi est en grande partie inconscient et soumis à trois maîtres.",
+   "notions": [
+    "l'inconscient",
+    "la conscience"
+   ],
+   "auteurs": [
+    "Freud"
+   ],
+   "oeuvre": "Le Moi et le Ça",
+   "sources": [
+    {
+     "reference": "Freud, Das Ich und das Es (1923), chap. II et V ; Métapsychologie, « L’inconscient » (1915)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "freud-blessures",
+   "type": "auteur_oeuvre",
+   "question": "Quelles sont les trois blessures narcissiques infligées à l'humanité ?",
+   "reponse": "Cosmologique (Copernic), biologique (Darwin), psychologique (Freud) : le moi n'est pas maître dans sa propre maison.",
+   "notions": [
+    "l'inconscient",
+    "la science"
+   ],
+   "auteurs": [
+    "Freud"
+   ],
+   "oeuvre": "Une difficulté de la psychanalyse",
+   "sources": [
+    {
+     "reference": "Freud, Eine Schwierigkeit der Psychoanalyse (1917)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "freud-reve",
+   "type": "auteur_oeuvre",
+   "question": "Comment Freud explique-t-il le rêve ?",
+   "reponse": "Comme accomplissement déguisé d'un désir refoulé. Le travail du rêve (condensation, déplacement) transforme le contenu latent en contenu manifeste.",
+   "notions": [
+    "l'inconscient"
+   ],
+   "auteurs": [
+    "Freud"
+   ],
+   "oeuvre": "L'Interprétation du rêve",
+   "sources": [
+    {
+     "reference": "Freud, Die Traumdeutung (1900), chap. II-IV, VI",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "freud-refoulement",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce que le refoulement ?",
+   "reponse": "L'opération qui écarte de la conscience une représentation pulsionnelle inacceptable. Le refoulé fait retour de façon déguisée : symptômes, rêves, actes manqués.",
+   "notions": [
+    "l'inconscient"
+   ],
+   "auteurs": [
+    "Freud"
+   ],
+   "oeuvre": "Métapsychologie",
+   "sources": [
+    {
+     "reference": "Freud, Die Verdrängung (1915)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "freud-actes-manques",
+   "type": "auteur_oeuvre",
+   "question": "Que montrent les actes manqués (Psychopathologie de la vie quotidienne) ?",
+   "reponse": "Lapsus, oublis, méprises ont un sens : ils sont des compromis entre une intention consciente et une intention refoulée, preuve de l'inconscient chez le sujet normal.",
+   "notions": [
+    "l'inconscient",
+    "le langage"
+   ],
+   "auteurs": [
+    "Freud"
+   ],
+   "oeuvre": "Psychopathologie de la vie quotidienne",
+   "sources": [
+    {
+     "reference": "Freud, Zur Psychopathologie des Alltagslebens (1901)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "freud-pulsions",
+   "type": "auteur_oeuvre",
+   "question": "Quel est le dualisme pulsionnel de l'Au-delà du principe de plaisir ?",
+   "reponse": "Pulsions de vie (Éros, liaison) contre pulsions de mort (retour à l'inorganique, répétition). Freud les introduit à partir de la compulsion de répétition.",
+   "notions": [
+    "l'inconscient",
+    "le bonheur"
+   ],
+   "auteurs": [
+    "Freud"
+   ],
+   "oeuvre": "Au-delà du principe de plaisir",
+   "sources": [
+    {
+     "reference": "Freud, Jenseits des Lustprinzips (1920)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "freud-malaise",
+   "type": "auteur_oeuvre",
+   "question": "Pourquoi la civilisation engendre-t-elle un malaise selon Freud ?",
+   "reponse": "Elle exige le renoncement pulsionnel (sexualité, agressivité) : le surmoi retourne l'agressivité contre le moi, d'où un sentiment de culpabilité croissant.",
+   "notions": [
+    "le bonheur",
+    "l'État"
+   ],
+   "auteurs": [
+    "Freud"
+   ],
+   "oeuvre": "Le Malaise dans la culture",
+   "sources": [
+    {
+     "reference": "Freud, Das Unbehagen in der Kultur (1930), chap. III et VII",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "freud-sublimation",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce que la sublimation ?",
+   "reponse": "Le détournement d'une énergie pulsionnelle vers un but non sexuel socialement valorisé (création artistique, recherche intellectuelle).",
+   "notions": [
+    "l'art",
+    "l'inconscient"
+   ],
+   "auteurs": [
+    "Freud"
+   ],
+   "oeuvre": "Un souvenir d’enfance de Léonard de Vinci",
+   "sources": [
+    {
+     "reference": "Freud, Eine Kindheitserinnerung des Leonardo da Vinci (1910) ; Das Unbehagen in der Kultur, chap. II",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "berg-duree",
+   "type": "auteur_oeuvre",
+   "question": "Que distingue Bergson entre durée et temps spatialisé ?",
+   "reponse": "Le temps des horloges juxtapose des instants homogènes ; la durée est continuité qualitative où les états se pénètrent, saisie par la conscience immédiate.",
+   "notions": [
+    "le temps",
+    "la conscience"
+   ],
+   "auteurs": [
+    "Bergson"
+   ],
+   "oeuvre": "Essai sur les données immédiates de la conscience",
+   "sources": [
+    {
+     "reference": "Bergson, Essai sur les données immédiates de la conscience (1889), chap. II",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "berg-liberte",
+   "type": "auteur_oeuvre",
+   "question": "Quand un acte est-il libre selon Bergson ?",
+   "reponse": "Quand il émane de la personnalité tout entière et l'exprime, comme le fruit mûr. Le déterminisme naît d'une confusion entre durée et espace.",
+   "notions": [
+    "la liberté",
+    "le temps"
+   ],
+   "auteurs": [
+    "Bergson"
+   ],
+   "oeuvre": "Essai sur les données immédiates de la conscience",
+   "sources": [
+    {
+     "reference": "Bergson, Essai sur les données immédiates de la conscience, chap. III",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "berg-memoire",
+   "type": "auteur_oeuvre",
+   "question": "Quelle différence entre souvenir pur et mémoire-habitude (Matière et mémoire) ?",
+   "reponse": "La mémoire-habitude est un mécanisme moteur acquis par répétition ; le souvenir pur est représentation d'un événement unique, conservé et virtuel, actualisé par le besoin présent.",
+   "notions": [
+    "le temps",
+    "la conscience"
+   ],
+   "auteurs": [
+    "Bergson"
+   ],
+   "oeuvre": "Matière et mémoire",
+   "sources": [
+    {
+     "reference": "Bergson, Matière et mémoire (1896), chap. II",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "berg-intuition",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce que l'intuition bergsonienne ?",
+   "reponse": "Une méthode : sympathie qui coïncide avec ce qu'un objet a d'unique, en opposition à l'analyse qui le traduit en éléments déjà connus.",
+   "notions": [
+    "la vérité",
+    "la science"
+   ],
+   "auteurs": [
+    "Bergson"
+   ],
+   "oeuvre": "La Pensée et le mouvant",
+   "sources": [
+    {
+     "reference": "Bergson, Introduction à la métaphysique (1903), in La Pensée et le mouvant",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "berg-rire",
+   "type": "auteur_oeuvre",
+   "question": "Quelle est la thèse du Rire ?",
+   "reponse": "Le rire punit socialement du « mécanique plaqué sur du vivant » : raideur, automatisme, inattention à la vie.",
+   "notions": [
+    "l'art"
+   ],
+   "auteurs": [
+    "Bergson"
+   ],
+   "oeuvre": "Le Rire",
+   "sources": [
+    {
+     "reference": "Bergson, Le Rire (1900), chap. I",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "berg-elan-vital",
+   "type": "auteur_oeuvre",
+   "question": "Que désigne l'élan vital dans L'Évolution créatrice ?",
+   "reponse": "Le courant de création qui traverse la matière et se ramifie en directions divergentes (végétal, instinct, intelligence) : l'évolution n'est ni mécanique ni finalisée.",
+   "notions": [
+    "la nature",
+    "le temps"
+   ],
+   "auteurs": [
+    "Bergson"
+   ],
+   "oeuvre": "L'Évolution créatrice",
+   "sources": [
+    {
+     "reference": "Bergson, L'Évolution créatrice (1907), chap. II",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "berg-morale",
+   "type": "auteur_oeuvre",
+   "question": "Quelle différence entre morale close et morale ouverte (Deux Sources) ?",
+   "reponse": "Close : obligation sociale, pression d'habitudes, cohésion du groupe. Ouverte : élan d'amour de l'humanité porté par des personnalités exemplaires (les mystiques).",
+   "notions": [
+    "le devoir",
+    "la religion"
+   ],
+   "auteurs": [
+    "Bergson"
+   ],
+   "oeuvre": "Les Deux Sources de la morale et de la religion",
+   "sources": [
+    {
+     "reference": "Bergson, Les Deux Sources de la morale et de la religion (1932), chap. I et IV",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "sart-cit-existence",
+   "type": "citation",
+   "question": "Quelle formule résume l'existentialisme sartrien ?",
+   "reponse": "« L'existence précède l'essence » : l'homme existe d'abord, se définit ensuite par ses actes (L'existentialisme est un humanisme, 1946).",
+   "notions": [
+    "la liberté"
+   ],
+   "auteurs": [
+    "Sartre"
+   ],
+   "oeuvre": "L'existentialisme est un humanisme",
+   "sources": [
+    {
+     "reference": "Sartre, L'existentialisme est un humanisme (1946)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "sart-condamne-libre",
+   "type": "auteur_oeuvre",
+   "question": "Pourquoi l'homme est-il « condamné à être libre » ?",
+   "reponse": "Il n'a pas choisi d'exister mais, une fois jeté dans le monde, il est responsable de tout ce qu'il fait ; il ne peut se réfugier ni dans une nature ni dans des excuses.",
+   "notions": [
+    "la liberté",
+    "le devoir"
+   ],
+   "auteurs": [
+    "Sartre"
+   ],
+   "oeuvre": "L'existentialisme est un humanisme",
+   "sources": [
+    {
+     "reference": "Sartre, L'existentialisme est un humanisme ; L'Être et le néant, IV",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "sart-mauvaise-foi",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce que la mauvaise foi (exemple du garçon de café) ?",
+   "reponse": "Se mentir à soi-même en se réduisant à un rôle (être « garçon de café » comme une chose) pour fuir sa liberté. Elle nie la transcendance ou la facticité.",
+   "notions": [
+    "la conscience",
+    "l'inconscient",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Sartre"
+   ],
+   "oeuvre": "L'Être et le néant",
+   "sources": [
+    {
+     "reference": "Sartre, L'Être et le néant (1943), I, chap. II",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "sart-pour-soi",
+   "type": "auteur_oeuvre",
+   "question": "Que distinguent l'en-soi et le pour-soi ?",
+   "reponse": "L'en-soi est l'être plein des choses, identique à lui-même. Le pour-soi est la conscience : néant qui se rapporte à l'être, toujours ce qu'il n'est pas et n'étant pas ce qu'il est.",
+   "notions": [
+    "la conscience"
+   ],
+   "auteurs": [
+    "Sartre"
+   ],
+   "oeuvre": "L'Être et le néant",
+   "sources": [
+    {
+     "reference": "Sartre, L'Être et le néant, introduction et I",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "sart-regard",
+   "type": "auteur_oeuvre",
+   "question": "Quel rôle joue le regard d'autrui dans L'Être et le néant ?",
+   "reponse": "Il me révèle comme objet pour un autre (honte) : autrui est le médiateur indispensable entre moi et moi-même, et menace ma liberté.",
+   "notions": [
+    "la conscience",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Sartre"
+   ],
+   "oeuvre": "L'Être et le néant",
+   "sources": [
+    {
+     "reference": "Sartre, L'Être et le néant, III, chap. I, IV",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "sart-cit-enfer",
+   "type": "citation",
+   "question": "D'où vient « L'enfer, c'est les autres » ?",
+   "reponse": "Huis clos (1944), scène V. Sartre précisera que la formule vise des rapports faussés par le jugement d'autrui, non tout rapport à autrui.",
+   "notions": [
+    "la conscience"
+   ],
+   "auteurs": [
+    "Sartre"
+   ],
+   "oeuvre": "Huis clos",
+   "sources": [
+    {
+     "reference": "Sartre, Huis clos (1944), scène V",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "sart-engagement",
+   "type": "auteur_oeuvre",
+   "question": "Pourquoi choisir pour soi, c'est choisir pour l'humanité (L'existentialisme est un humanisme) ?",
+   "reponse": "En me choisissant, je crée une image de l'homme tel que je juge qu'il doit être. D'où l'angoisse, l'abandon et le désespoir comme conditions de l'action responsable.",
+   "notions": [
+    "le devoir",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Sartre"
+   ],
+   "oeuvre": "L'existentialisme est un humanisme",
+   "sources": [
+    {
+     "reference": "Sartre, L'existentialisme est un humanisme",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "aren-vita-activa",
+   "type": "auteur_oeuvre",
+   "question": "Quelle distinction Arendt établit-elle entre labeur, travail et action ?",
+   "reponse": "Labeur : cycle biologique de la vie. Travail : fabrication d'un monde durable d'objets. Action : agir avec d'autres par la parole, condition de la politique et de la pluralité.",
+   "notions": [
+    "le travail",
+    "la technique",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Arendt"
+   ],
+   "oeuvre": "Condition de l'homme moderne",
+   "sources": [
+    {
+     "reference": "Arendt, Condition de l'homme moderne (The Human Condition, 1958), chap. III-V",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "aren-natalite",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce que la natalité chez Arendt ?",
+   "reponse": "Le fait que chaque naissance est un nouveau commencement : condition ontologique de l'action et de la liberté, capacité d'interrompre le cours automatique des choses.",
+   "notions": [
+    "la liberté",
+    "le temps"
+   ],
+   "auteurs": [
+    "Arendt"
+   ],
+   "oeuvre": "Condition de l'homme moderne",
+   "sources": [
+    {
+     "reference": "Arendt, Condition de l'homme moderne, chap. V, §§24-25",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "aren-banalite",
+   "type": "auteur_oeuvre",
+   "question": "Que signifie la « banalité du mal » (Eichmann à Jérusalem) ?",
+   "reponse": "Le mal peut être commis par un homme ordinaire, sans haine ni monstruosité, à cause d'une absence de pensée : incapacité de se placer du point de vue d'autrui.",
+   "notions": [
+    "la conscience",
+    "le devoir",
+    "la justice"
+   ],
+   "auteurs": [
+    "Arendt"
+   ],
+   "oeuvre": "Eichmann à Jérusalem",
+   "sources": [
+    {
+     "reference": "Arendt, Eichmann à Jérusalem (1963), épilogue et postface",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "aren-totalitarisme",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce qui distingue le totalitarisme d'une tyrannie ordinaire ?",
+   "reponse": "Il repose sur la terreur et l'idéologie : il ne vise pas seulement à contrôler mais à transformer l'espèce humaine, en supprimant spontanéité et pluralité.",
+   "notions": [
+    "l'État",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Arendt"
+   ],
+   "oeuvre": "Les Origines du totalitarisme",
+   "sources": [
+    {
+     "reference": "Arendt, Les Origines du totalitarisme (1951), 3e partie, chap. XIII",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "aren-verite-politique",
+   "type": "auteur_oeuvre",
+   "question": "Vérité de fait et opinion : que défend Arendt dans « Vérité et politique » ?",
+   "reponse": "Les vérités de fait sont fragiles et menacées par le mensonge organisé. Le domaine politique repose sur l'opinion, mais l'opinion ne peut sacrifier les faits.",
+   "notions": [
+    "la vérité",
+    "l'État"
+   ],
+   "auteurs": [
+    "Arendt"
+   ],
+   "oeuvre": "La Crise de la culture",
+   "sources": [
+    {
+     "reference": "Arendt, « Vérité et politique », in La Crise de la culture (1961 ; 1964 pour cet essai)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "aren-education",
+   "type": "auteur_oeuvre",
+   "question": "Quel double rôle Arendt donne-t-elle à l'éducation (« La crise de l'éducation ») ?",
+   "reponse": "Protéger l'enfant du monde et le monde de l'enfant : transmettre un monde commun, tout en préservant la possibilité du neuf que porte chaque génération.",
+   "notions": [
+    "le temps"
+   ],
+   "auteurs": [
+    "Arendt"
+   ],
+   "oeuvre": "La Crise de la culture",
+   "sources": [
+    {
+     "reference": "Arendt, « La crise de l'éducation », in La Crise de la culture",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "aren-pouvoir-violence",
+   "type": "auteur_oeuvre",
+   "question": "Comment Arendt distingue-t-elle pouvoir et violence ?",
+   "reponse": "Le pouvoir naît de l'action concertée et dépend du consentement ; la violence est instrumentale et se passe du nombre. Là où l'un domine pleinement, l'autre disparaît.",
+   "notions": [
+    "l'État",
+    "la justice"
+   ],
+   "auteurs": [
+    "Arendt"
+   ],
+   "oeuvre": "Du mensonge à la violence",
+   "sources": [
+    {
+     "reference": "Arendt, On Violence (1970) / Du mensonge à la violence, section II",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "simo-concretisation",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce que la « concrétisation » de l'objet technique selon Simondon ?",
+   "reponse": "Le passage d'un objet abstrait (éléments juxtaposés) à un objet concret dont les fonctions se soutiennent mutuellement dans un système cohérent, comme un moteur refroidi par ses propres ailettes.",
+   "notions": [
+    "la technique"
+   ],
+   "auteurs": [
+    "Simondon"
+   ],
+   "oeuvre": "Du mode d’existence des objets techniques",
+   "sources": [
+    {
+     "reference": "Simondon, Du mode d'existence des objets techniques (1958), 1re partie, chap. I",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "simo-culture",
+   "type": "auteur_oeuvre",
+   "question": "Que reproche Simondon à la culture à l'égard des objets techniques ?",
+   "reponse": "De les traiter comme de simples ustensiles, sans reconnaître leur réalité humaine : elle oppose culture et technique, et engendre une aliénation. Il faut intégrer la technicité à la culture.",
+   "notions": [
+    "la technique",
+    "le travail"
+   ],
+   "auteurs": [
+    "Simondon"
+   ],
+   "oeuvre": "Du mode d’existence des objets techniques",
+   "sources": [
+    {
+     "reference": "Simondon, Du mode d'existence des objets techniques, introduction",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "simo-technicite",
+   "type": "auteur_oeuvre",
+   "question": "Simondon : que désigne la « technicité » et comment se rattache-t-elle aux autres modes d'existence ?",
+   "reponse": "Un mode fondamental de rapport au monde, issu du déphasage d'un mode magique unitaire (avec la religion). La 3e partie (« Essence de la technicité ») en étudie la genèse.",
+   "notions": [
+    "la technique",
+    "la religion"
+   ],
+   "auteurs": [
+    "Simondon"
+   ],
+   "oeuvre": "Du mode d’existence des objets techniques",
+   "sources": [
+    {
+     "reference": "Simondon, Du mode d'existence des objets techniques, 3e partie",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    },
+    {
+     "reference": "Programme du CAPES/CAFEP : 3e partie, chap. II (sujet de l'écrit 2025, à recouper avec le rapport de jury)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. Titre exact du chapitre II de la 3e partie non vérifié.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "spin-tp-comprendre",
+   "type": "citation",
+   "question": "Quelle est la règle de méthode du Traité politique (I, 4) ?",
+   "reponse": "« Non ridere, non lugere, neque detestari, sed intelligere » : ni rire, ni pleurer, ni détester, mais comprendre les actions humaines.",
+   "notions": [
+    "l'État",
+    "la raison"
+   ],
+   "auteurs": [
+    "Spinoza"
+   ],
+   "oeuvre": "Traité politique",
+   "sources": [
+    {
+     "reference": "Spinoza, Tractatus politicus, I, §4",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "spin-tp-droit",
+   "type": "auteur_oeuvre",
+   "question": "Pour Spinoza, que sont le droit naturel et le droit de l'État (Traité politique) ?",
+   "reponse": "Le droit naturel de chacun est sa puissance. Le droit de l'État (imperium) est la puissance de la multitude, conduite comme par une seule pensée.",
+   "notions": [
+    "l'État",
+    "la justice",
+    "la nature"
+   ],
+   "auteurs": [
+    "Spinoza"
+   ],
+   "oeuvre": "Traité politique",
+   "sources": [
+    {
+     "reference": "Spinoza, Tractatus politicus, II, §§4 ; III, §2",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "spin-tp-paix",
+   "type": "auteur_oeuvre",
+   "question": "Comment Spinoza définit-il la paix (Traité politique, V, 4) ?",
+   "reponse": "Non l'absence de guerre, mais une vertu, qui naît de la force d'âme ; un État dont les sujets ne se battent pas, mais n'agissent que par inertie, est une solitude.",
+   "notions": [
+    "l'État",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Spinoza"
+   ],
+   "oeuvre": "Traité politique",
+   "sources": [
+    {
+     "reference": "Spinoza, Tractatus politicus, V, §4",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "spin-conatus",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce que le conatus (Éthique III) ?",
+   "reponse": "L'effort par lequel chaque chose persévère dans son être : c'est son essence actuelle. Désir, joie et tristesse se définissent par rapport à cet effort.",
+   "notions": [
+    "le bonheur",
+    "la nature"
+   ],
+   "auteurs": [
+    "Spinoza"
+   ],
+   "oeuvre": "Éthique",
+   "sources": [
+    {
+     "reference": "Spinoza, Éthique, III, prop. 6-7 ; définitions des affects",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "spin-liberte",
+   "type": "auteur_oeuvre",
+   "question": "Comment Spinoza conçoit-il la liberté ?",
+   "reponse": "Est libre ce qui agit par la seule nécessité de sa nature. L'illusion du libre arbitre vient de l'ignorance des causes ; la liberté humaine croît avec la connaissance adéquate.",
+   "notions": [
+    "la liberté",
+    "la raison"
+   ],
+   "auteurs": [
+    "Spinoza"
+   ],
+   "oeuvre": "Éthique",
+   "sources": [
+    {
+     "reference": "Spinoza, Éthique, I, déf. 7 ; Lettre LVIII à Schuller",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "pasc-cit-coeur",
+   "type": "citation",
+   "question": "De qui est « Le cœur a ses raisons que la raison ne connaît point » ?",
+   "reponse": "Pascal, Pensées (fragment 277 chez Brunschvicg, 423 chez Lafuma). Le cœur connaît les premiers principes par sentiment ; ce n'est pas une opposition à la raison.",
+   "notions": [
+    "la raison",
+    "la religion"
+   ],
+   "auteurs": [
+    "Pascal"
+   ],
+   "oeuvre": "Pensées",
+   "sources": [
+    {
+     "reference": "Pascal, Pensées, Brunschvicg 277 = Lafuma 423",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "pasc-divertissement",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce que le divertissement chez Pascal ?",
+   "reponse": "L'agitation qui détourne l'homme de la pensée de sa condition misérable : il ne sait pas rester au repos dans une chambre.",
+   "notions": [
+    "le bonheur",
+    "le temps"
+   ],
+   "auteurs": [
+    "Pascal"
+   ],
+   "oeuvre": "Pensées",
+   "sources": [
+    {
+     "reference": "Pascal, Pensées, Brunschvicg 139 = Lafuma 136",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "hobb-cit-loup",
+   "type": "citation",
+   "question": "D'où vient « L'homme est un loup pour l'homme » ?",
+   "reponse": "Hobbes, De Cive, épître dédicatoire (« homo homini lupus », emprunt à Plaute). Dans l'état de nature, guerre de tous contre tous (Léviathan, XIII).",
+   "notions": [
+    "l'État",
+    "la nature"
+   ],
+   "auteurs": [
+    "Hobbes"
+   ],
+   "oeuvre": "De Cive",
+   "sources": [
+    {
+     "reference": "Hobbes, De Cive, épître dédicatoire ; Léviathan, XIII",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "lock-identite",
+   "type": "auteur_oeuvre",
+   "question": "Comment Locke définit-il l'identité personnelle ?",
+   "reponse": "Par la conscience : une personne est un être pensant qui se reconnaît le même à divers moments et lieux, en lien avec ses souvenirs, non avec la substance.",
+   "notions": [
+    "la conscience",
+    "le temps"
+   ],
+   "auteurs": [
+    "Locke"
+   ],
+   "oeuvre": "Essai sur l’entendement humain",
+   "sources": [
+    {
+     "reference": "Locke, Essai sur l'entendement humain, II, chap. 27, §9",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "hume-causalite",
+   "type": "auteur_oeuvre",
+   "question": "Que soutient Hume sur la causalité ?",
+   "reponse": "Nous n'observons que la succession constante de deux événements, jamais un lien nécessaire : l'idée de cause vient de l'habitude, non de la raison.",
+   "notions": [
+    "la science",
+    "la raison"
+   ],
+   "auteurs": [
+    "Hume"
+   ],
+   "oeuvre": "Enquête sur l’entendement humain",
+   "sources": [
+    {
+     "reference": "Hume, Enquête sur l'entendement humain, sections IV-VII",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "marx-thesexi",
+   "type": "auteur_oeuvre",
+   "question": "Quelle est la onzième thèse sur Feuerbach ?",
+   "reponse": "Les philosophes n'ont fait qu'interpréter le monde de différentes manières ; ce qui importe, c'est de le transformer.",
+   "notions": [
+    "le travail",
+    "la vérité"
+   ],
+   "auteurs": [
+    "Marx"
+   ],
+   "oeuvre": "Thèses sur Feuerbach",
+   "sources": [
+    {
+     "reference": "Marx, Thesen über Feuerbach (1845), thèse XI",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. Formulation de la traduction à contrôler.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "marx-alienation",
+   "type": "auteur_oeuvre",
+   "question": "Comment Marx décrit-il le travail aliéné (Manuscrits de 1844) ?",
+   "reponse": "Le travailleur est dépossédé du produit, de l'acte de production, de son essence générique et d'autrui : le travail devient un moyen de subsistance, non l'expression de soi.",
+   "notions": [
+    "le travail",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Marx"
+   ],
+   "oeuvre": "Manuscrits de 1844",
+   "sources": [
+    {
+     "reference": "Marx, Ökonomisch-philosophische Manuskripte (1844), Premier manuscrit, « Le travail aliéné »",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "epic-plaisirs",
+   "type": "auteur_oeuvre",
+   "question": "Comment Épicure classe-t-il les désirs (Lettre à Ménécée) ?",
+   "reponse": "Naturels et nécessaires (boire, manger), naturels non nécessaires, ni naturels ni nécessaires (vains). Le bonheur consiste à limiter ses désirs : absence de douleur et de trouble.",
+   "notions": [
+    "le bonheur",
+    "la nature"
+   ],
+   "auteurs": [
+    "Épicure"
+   ],
+   "oeuvre": "Lettre à Ménécée",
+   "sources": [
+    {
+     "reference": "Épicure, Lettre à Ménécée, §§127-132 (Diogène Laërce, X)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "mach-verite-effective",
+   "type": "auteur_oeuvre",
+   "question": "Que signifie la « vérité effective de la chose » chez Machiavel (Le Prince, XV) ?",
+   "reponse": "S'en tenir à ce qui est réellement, non à l'imagination : le prince qui veut toujours être bon se perd parmi tant de méchants ; il doit savoir n'être pas bon.",
+   "notions": [
+    "l'État",
+    "le devoir"
+   ],
+   "auteurs": [
+    "Machiavel"
+   ],
+   "oeuvre": "Le Prince",
+   "sources": [
+    {
+     "reference": "Machiavel, Il Principe (1532), chap. XV",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "not-art",
+   "type": "notion",
+   "question": "L'art : quelles questions poser ?",
+   "reponse": "Art et technique (tekhnè) ; imitation, expression, création ; jugement de goût subjectif ou universel ? Pistes : Aristote (Poétique), Kant (jugement de goût), Hegel (art et esprit absolu).",
+   "notions": [
+    "l'art"
+   ],
+   "auteurs": [
+    "Kant",
+    "Hegel",
+    "Aristote"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme de philosophie des classes terminales générales et technologiques, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    },
+    {
+     "reference": "Kant, Critique de la faculté de juger, §§1-22, 43-46",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    },
+    {
+     "reference": "Aristote, Poétique, 9",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "not-bonheur",
+   "type": "notion",
+   "question": "Le bonheur : but de l'existence ou illusion ?",
+   "reponse": "Eudaimonia (vie accomplie, Aristote), ataraxie (Épicure), idéal de l'imagination et non de la raison (Kant). Enjeu : le bonheur peut-il être visé directement ? Est-il compatible avec la morale ?",
+   "notions": [
+    "le bonheur"
+   ],
+   "auteurs": [
+    "Aristote",
+    "Épicure",
+    "Kant"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme de philosophie des classes terminales générales et technologiques, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    },
+    {
+     "reference": "Aristote, Éthique à Nicomaque, I ; Kant, Fondements de la métaphysique des mœurs, II, AK IV, 418",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "not-conscience",
+   "type": "notion",
+   "question": "La conscience : psychologique et morale, quelles distinctions ?",
+   "reponse": "Conscience de soi et du monde (cogito, intentionnalité de Husserl) ; conscience morale (jugement sur nos actes, Rousseau). Limites : l'inconscient (Freud), la mauvaise foi (Sartre).",
+   "notions": [
+    "la conscience"
+   ],
+   "auteurs": [
+    "Descartes",
+    "Husserl",
+    "Rousseau"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme de philosophie des classes terminales générales et technologiques, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    },
+    {
+     "reference": "Descartes, Méditations, II",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    },
+    {
+     "reference": "Husserl, Idées directrices pour une phénoménologie (1913), §84",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "not-devoir",
+   "type": "notion",
+   "question": "Le devoir : obligation morale ou contrainte sociale ?",
+   "reponse": "Kant : devoir = nécessité d'agir par respect de la loi morale, autonome. Autres pistes : Aristote (vertu), utilitarisme (Bentham, Mill), Durkheim (contrainte sociale).",
+   "notions": [
+    "le devoir"
+   ],
+   "auteurs": [
+    "Kant",
+    "Mill"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme de philosophie des classes terminales générales et technologiques, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    },
+    {
+     "reference": "Kant, Fondements de la métaphysique des mœurs, I-II",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "not-etat",
+   "type": "notion",
+   "question": "L'État : qu'est-ce qui fonde sa légitimité ?",
+   "reponse": "Contrat (Hobbes : sécurité ; Locke : droits naturels ; Rousseau : volonté générale). Critiques : Marx (instrument d'une classe), Weber (monopole de la violence physique légitime).",
+   "notions": [
+    "l'État"
+   ],
+   "auteurs": [
+    "Hobbes",
+    "Locke",
+    "Rousseau",
+    "Weber"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme de philosophie des classes terminales générales et technologiques, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    },
+    {
+     "reference": "Hobbes, Léviathan, XVII ; Locke, Second traité du gouvernement civil",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    },
+    {
+     "reference": "Weber, Le savant et le politique (1919)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "not-inconscient",
+   "type": "notion",
+   "question": "L'inconscient : comment penser ce qui échappe à la conscience ?",
+   "reponse": "Leibniz (petites perceptions), Freud (refoulement, topiques). Objections : Alain, Sartre (la conscience est transparente à elle-même ; mauvaise foi plutôt qu'inconscient).",
+   "notions": [
+    "l'inconscient"
+   ],
+   "auteurs": [
+    "Leibniz",
+    "Freud",
+    "Sartre",
+    "Alain"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme de philosophie des classes terminales générales et technologiques, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    },
+    {
+     "reference": "Leibniz, Nouveaux essais sur l’entendement humain, préface",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    },
+    {
+     "reference": "Freud, Métapsychologie, « L'inconscient » (1915)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "not-justice",
+   "type": "notion",
+   "question": "La justice : légalité, égalité, équité ?",
+   "reponse": "Aristote : justice distributive (proportionnelle) et corrective (arithmétique) ; équité comme correction de la loi. Rawls : voile d'ignorance et principes de justice comme équité.",
+   "notions": [
+    "la justice"
+   ],
+   "auteurs": [
+    "Aristote",
+    "Rawls"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme de philosophie des classes terminales générales et technologiques, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    },
+    {
+     "reference": "Aristote, Éthique à Nicomaque, V, 1-10 ; 14 (1137b)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    },
+    {
+     "reference": "Rawls, Théorie de la justice (1971), §§3, 24",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "not-langage",
+   "type": "notion",
+   "question": "Le langage : simple outil de communication ?",
+   "reponse": "Aristote : le logos fait l'homme politique. Descartes : le langage prouve la différence homme-machine et homme-animal (Discours, V). Wittgenstein : la signification est un usage.",
+   "notions": [
+    "le langage"
+   ],
+   "auteurs": [
+    "Aristote",
+    "Descartes",
+    "Wittgenstein"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme de philosophie des classes terminales générales et technologiques, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    },
+    {
+     "reference": "Aristote, Politiques, I, 2",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    },
+    {
+     "reference": "Descartes, Discours de la méthode, V (AT VI, 56-57)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    },
+    {
+     "reference": "Wittgenstein, Recherches philosophiques, §43",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "not-liberte",
+   "type": "notion",
+   "question": "La liberté : indépendance, autonomie, libre arbitre ?",
+   "reponse": "Libre arbitre (Descartes) contre nécessité (Spinoza) ; autonomie (Kant) ; liberté située et responsable (Sartre) ; liberté politique (Rousseau, Arendt). Problème : quelle liberté est compatible avec des déterminismes ?",
+   "notions": [
+    "la liberté"
+   ],
+   "auteurs": [
+    "Descartes",
+    "Spinoza",
+    "Kant",
+    "Sartre"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme de philosophie des classes terminales générales et technologiques, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    },
+    {
+     "reference": "Descartes, Méditations, IV ; Spinoza, Éthique, I, déf. 7",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "not-nature",
+   "type": "notion",
+   "question": "La nature : essence, ensemble des êtres ou opposée à la culture ?",
+   "reponse": "Physis : principe interne du mouvement (Aristote, Physique II, 1). Nature et culture : Rousseau (état de nature), Lévi-Strauss (la prohibition de l'inceste, seuil entre nature et culture).",
+   "notions": [
+    "la nature"
+   ],
+   "auteurs": [
+    "Aristote",
+    "Rousseau",
+    "Lévi-Strauss"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme de philosophie des classes terminales générales et technologiques, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    },
+    {
+     "reference": "Aristote, Physique, II, 1 (192b8-23)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    },
+    {
+     "reference": "Lévi-Strauss, Les Structures élémentaires de la parenté (1949), chap. I-II",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "not-raison",
+   "type": "notion",
+   "question": "La raison : faculté de connaître, de juger, de bien agir ?",
+   "reponse": "Raison théorique et pratique (Kant) ; principe de raison suffisante (Leibniz, Monadologie §32) ; la raison est-elle « esclave des passions » (Hume, Traité II, 3, 3) ?",
+   "notions": [
+    "la raison"
+   ],
+   "auteurs": [
+    "Kant",
+    "Leibniz",
+    "Hume"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme de philosophie des classes terminales générales et technologiques, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    },
+    {
+     "reference": "Leibniz, Monadologie, §32",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    },
+    {
+     "reference": "Hume, Traité de la nature humaine, II, 3, 3",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "not-religion",
+   "type": "notion",
+   "question": "La religion : croyance, pratique, institution ?",
+   "reponse": "Lucrèce : source de maux. Spinoza : critique de la superstition (TTP). Kant : religion dans les limites de la simple raison. Marx : « opium du peuple ». Durkheim : sacré et profane.",
+   "notions": [
+    "la religion"
+   ],
+   "auteurs": [
+    "Lucrèce",
+    "Spinoza",
+    "Kant",
+    "Marx",
+    "Durkheim"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme de philosophie des classes terminales générales et technologiques, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    },
+    {
+     "reference": "Lucrèce, De rerum natura, I, 62-101 ; Marx, Contribution à la critique de la philosophie du droit de Hegel, introduction",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    },
+    {
+     "reference": "Durkheim, Les Formes élémentaires de la vie religieuse (1912)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "not-science",
+   "type": "notion",
+   "question": "La science : qu'est-ce qui la distingue de l'opinion ou de la croyance ?",
+   "reponse": "Comte (positivisme, trois états) ; Bachelard (obstacle épistémologique, rupture avec le sens commun) ; Popper (réfutabilité comme critère).",
+   "notions": [
+    "la science"
+   ],
+   "auteurs": [
+    "Comte",
+    "Bachelard",
+    "Popper"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme de philosophie des classes terminales générales et technologiques, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    },
+    {
+     "reference": "Bachelard, La Formation de l'esprit scientifique (1938)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    },
+    {
+     "reference": "Popper, La Logique de la découverte scientifique (1934 ; 1959 pour la trad. anglaise)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "not-technique",
+   "type": "notion",
+   "question": "La technique : moyen neutre ou milieu qui transforme l'homme ?",
+   "reponse": "Protagoras (Prométhée), Simondon (l'objet technique comme réalité humaine), Jonas (responsabilité face aux pouvoirs de la technique), Arendt (labeur, travail, action).",
+   "notions": [
+    "la technique"
+   ],
+   "auteurs": [
+    "Platon",
+    "Simondon",
+    "Jonas"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme de philosophie des classes terminales générales et technologiques, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    },
+    {
+     "reference": "Platon, Protagoras, 320c-322d",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    },
+    {
+     "reference": "Jonas, Le Principe responsabilité (1979)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "not-temps",
+   "type": "notion",
+   "question": "Le temps : réalité, mesure ou forme de la conscience ?",
+   "reponse": "Aristote (nombre du mouvement) ; Augustin (« Qu'est-ce donc que le temps ? », Confessions XI, 14) ; Kant (forme a priori de la sensibilité) ; Bergson (durée).",
+   "notions": [
+    "le temps"
+   ],
+   "auteurs": [
+    "Aristote",
+    "Augustin",
+    "Kant",
+    "Bergson"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme de philosophie des classes terminales générales et technologiques, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    },
+    {
+     "reference": "Aristote, Physique, IV, 10-14",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    },
+    {
+     "reference": "Augustin, Confessions, XI, 14-28",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "not-travail",
+   "type": "notion",
+   "question": "Le travail : peine, aliénation ou réalisation de soi ?",
+   "reponse": "Hegel : le travail forme l'homme. Marx : travail aliéné. Arendt : distinction labeur/travail. Weil : travail non servile, attention et pensée (Réflexions sur les causes de la liberté).",
+   "notions": [
+    "le travail"
+   ],
+   "auteurs": [
+    "Hegel",
+    "Marx",
+    "Arendt",
+    "Weil"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme de philosophie des classes terminales générales et technologiques, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    },
+    {
+     "reference": "Hegel, Phénoménologie de l'esprit, IV, A",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    },
+    {
+     "reference": "Arendt, Condition de l'homme moderne",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    },
+    {
+     "reference": "Weil, Réflexions sur les causes de la liberté et de l'oppression sociale (1934)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "not-verite",
+   "type": "notion",
+   "question": "La vérité : correspondance, cohérence, évidence ?",
+   "reponse": "Aristote : dire de ce qui est qu'il est (Métaphysique Γ, 7, 1011b26). Descartes : évidence. Nietzsche : la vérité comme illusion utile. Arendt : vérité de fait et politique.",
+   "notions": [
+    "la vérité"
+   ],
+   "auteurs": [
+    "Aristote",
+    "Descartes",
+    "Nietzsche",
+    "Arendt"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme de philosophie des classes terminales générales et technologiques, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    },
+    {
+     "reference": "Aristote, Métaphysique, Γ, 7 (1011b26-27)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "edition_savante"
+    },
+    {
+     "reference": "Nietzsche, Über Wahrheit und Lüge im aussermoralischen Sinne",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "domaine_public"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "rep-fait-droit",
+   "type": "repere",
+   "question": "Repère : en fait / en droit",
+   "reponse": "En fait : ce qui est constaté. En droit : ce qui est légitime ou doit être, selon une norme. Ex. : l'esclavage a existé en fait ; on peut contester qu'il soit fondé en droit (Rousseau, CS I, 4).",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme de philosophie des classes terminales générales et technologiques, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. L'énoncé exact des repères est à contrôler dans le BO (accès au texte officiel impossible pendant la rédaction).",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "rep-legal-legitime",
+   "type": "repere",
+   "question": "Repère : légal / légitime",
+   "reponse": "Légal : conforme à la loi positive. Légitime : conforme à un principe de justice ou de raison. Une loi peut être légale sans être légitime.",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme de philosophie des classes terminales générales et technologiques, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. L'énoncé exact des repères est à contrôler dans le BO (accès au texte officiel impossible pendant la rédaction).",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "rep-obligation-contrainte",
+   "type": "repere",
+   "question": "Repère : obligation / contrainte",
+   "reponse": "La contrainte s'exerce par la force sur les corps ; l'obligation lie la volonté par un devoir reconnu. Rousseau : la force ne fait pas droit (CS I, 3).",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme de philosophie des classes terminales générales et technologiques, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. L'énoncé exact des repères est à contrôler dans le BO (accès au texte officiel impossible pendant la rédaction).",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "rep-croire-savoir",
+   "type": "repere",
+   "question": "Repère : croire / savoir",
+   "reponse": "Croire : adhérer sans preuve suffisante ; savoir : posséder des raisons objectives et communicables. Platon distingue doxa et épistèmè (République V-VI).",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme de philosophie des classes terminales générales et technologiques, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. L'énoncé exact des repères est à contrôler dans le BO (accès au texte officiel impossible pendant la rédaction).",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "rep-persuader-convaincre",
+   "type": "repere",
+   "question": "Repère : persuader / convaincre",
+   "reponse": "Persuader : agir sur les affects et l'adhésion, parfois par la rhétorique. Convaincre : obtenir l'assentiment par des raisons. Cf. Platon, Gorgias.",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme de philosophie des classes terminales générales et technologiques, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. L'énoncé exact des repères est à contrôler dans le BO (accès au texte officiel impossible pendant la rédaction).",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "rep-expliquer-comprendre",
+   "type": "repere",
+   "question": "Repère : expliquer / comprendre",
+   "reponse": "Expliquer : relier un fait à ses causes (sciences de la nature). Comprendre : saisir un sens du point de vue de l'agent (sciences humaines, Weber).",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme de philosophie des classes terminales générales et technologiques, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. L'énoncé exact des repères est à contrôler dans le BO (accès au texte officiel impossible pendant la rédaction).",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "rep-acte-puissance",
+   "type": "repere",
+   "question": "Repère : en acte / en puissance",
+   "reponse": "En puissance : ce qui peut être ; en acte : ce qui est réalisé. Aristote, Métaphysique, Θ.",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme de philosophie des classes terminales générales et technologiques, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. L'énoncé exact des repères est à contrôler dans le BO (accès au texte officiel impossible pendant la rédaction).",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "rep-contingent-necessaire",
+   "type": "repere",
+   "question": "Repère : contingent / nécessaire / possible",
+   "reponse": "Nécessaire : ne peut pas ne pas être ; contingent : peut être ou ne pas être ; possible : ce qui n'est pas contradictoire. Leibniz distingue vérités de raison et de fait.",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme de philosophie des classes terminales générales et technologiques, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. L'énoncé exact des repères est à contrôler dans le BO (accès au texte officiel impossible pendant la rédaction).",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "rep-origine-fondement",
+   "type": "repere",
+   "question": "Repère : origine / fondement",
+   "reponse": "L'origine désigne un commencement dans le temps ; le fondement, une justification logique ou de droit. Ne pas confondre genèse et valeur (Nietzsche, Généalogie de la morale).",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme de philosophie des classes terminales générales et technologiques, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. L'énoncé exact des repères est à contrôler dans le BO (accès au texte officiel impossible pendant la rédaction).",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "rep-universel",
+   "type": "repere",
+   "question": "Repère : universel / général / particulier / singulier",
+   "reponse": "Universel : vaut pour tous sans exception, en droit. Général : vaut le plus souvent, par induction. Particulier : une partie d'une classe ; singulier : un individu unique.",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme de philosophie des classes terminales générales et technologiques, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. L'énoncé exact des repères est à contrôler dans le BO (accès au texte officiel impossible pendant la rédaction).",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "rep-transcendant-immanent",
+   "type": "repere",
+   "question": "Repère : transcendant / immanent",
+   "reponse": "Transcendant : extérieur et supérieur à ce qu'il fonde. Immanent : intérieur à son objet. Ex. : Dieu transcendant (Descartes) ou immanent (Spinoza, Deus sive Natura).",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme de philosophie des classes terminales générales et technologiques, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. L'énoncé exact des repères est à contrôler dans le BO (accès au texte officiel impossible pendant la rédaction).",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "rep-analogie",
+   "type": "repere",
+   "question": "Repère : ressemblance / analogie",
+   "reponse": "Ressemblance : partage de propriétés communes ; analogie : identité de rapports entre des termes différents (A est à B ce que C est à D).",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme de philosophie des classes terminales générales et technologiques, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. L'énoncé exact des repères est à contrôler dans le BO (accès au texte officiel impossible pendant la rédaction).",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "rep-cause-fin",
+   "type": "repere",
+   "question": "Repère : cause / fin",
+   "reponse": "Cause : ce qui produit un effet, en amont. Fin : ce en vue de quoi on agit, en aval. Aristote : causalité efficiente et finale (Physique II, 3).",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme de philosophie des classes terminales générales et technologiques, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. L'énoncé exact des repères est à contrôler dans le BO (accès au texte officiel impossible pendant la rédaction).",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "rep-exemple-preuve",
+   "type": "repere",
+   "question": "Repère : exemple / preuve",
+   "reponse": "Un exemple illustre ; il ne prouve pas, sauf en mathématiques (contre-exemple ou exemple existentiel). En dissertation : l'exemple doit être analysé.",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme de philosophie des classes terminales générales et technologiques, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. L'énoncé exact des repères est à contrôler dans le BO (accès au texte officiel impossible pendant la rédaction).",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "rep-intuitif-discursif",
+   "type": "repere",
+   "question": "Repère : intuitif / discursif",
+   "reponse": "Intuitif : connaissance immédiate ; discursif : par raisonnement, étape par étape (Descartes, Règles pour la direction de l'esprit III).",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme de philosophie des classes terminales générales et technologiques, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. L'énoncé exact des repères est à contrôler dans le BO (accès au texte officiel impossible pendant la rédaction).",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "hlp-themes-premiere",
+   "type": "hlp",
+   "question": "HLP, classe de première : quels sont les deux thèmes du programme ?",
+   "reponse": "Semestre 1 : « Les pouvoirs de la parole ». Semestre 2 : « Les représentations du monde ».",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme de l’enseignement de spécialité Humanités, littérature et philosophie, classe de première, BO spécial du 22 janvier 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. Intitulés à contrôler dans le BO.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "hlp-themes-terminale",
+   "type": "hlp",
+   "question": "HLP, classe terminale : quels sont les deux thèmes du programme ?",
+   "reponse": "Semestre 1 : « La recherche de soi ». Semestre 2 : « L'humanité en question ».",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme HLP, classe terminale, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. Intitulés à contrôler dans le BO.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "hlp-pouvoirs",
+   "type": "hlp",
+   "question": "HLP « Les pouvoirs de la parole » : quels axes d'étude ?",
+   "reponse": "L'art de la parole (rhétorique) ; l'autorité de la parole ; la parole en action (engagement, résistance).",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme HLP, première, BO spécial du 22 janvier 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. Intitulés des axes à contrôler dans le BO.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "hlp-representations",
+   "type": "hlp",
+   "question": "HLP « Les représentations du monde » : quels axes d'étude ?",
+   "reponse": "Découverte du monde et pluralité des cultures ; décrire, figurer, imaginer ; l'homme et l'animal.",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme HLP, première, BO spécial du 22 janvier 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. Intitulés des axes à contrôler dans le BO.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "hlp-recherche-soi",
+   "type": "hlp",
+   "question": "HLP « La recherche de soi » : quels axes d'étude ?",
+   "reponse": "Les expressions de la sensibilité ; les métamorphoses du moi ; éducation, transmission et émancipation.",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme HLP, terminale, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. Intitulés des axes à contrôler dans le BO.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "hlp-humanite",
+   "type": "hlp",
+   "question": "HLP « L'humanité en question » : quels axes d'étude ?",
+   "reponse": "Création, continuités et ruptures ; histoire et violence ; l'humain et ses limites.",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme HLP, terminale, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. Intitulés des axes à contrôler dans le BO.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "did-epreuves",
+   "type": "didactique",
+   "question": "CAPES/CAFEP externe de philosophie : quelles sont les épreuves d'admissibilité ?",
+   "reponse": "Écrit 1 : composition de philosophie (6 h, coef. 2). Écrit 2 : épreuve disciplinaire appliquée (6 h, coef. 2) : explication d'un texte d'un auteur du programme de terminale, avec dimension didactique.",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Arrêté fixant les modalités d’organisation des concours du CAPES (section philosophie) ; à recouper avec devenirenseignant.gouv.fr",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. Contenu tiré de l'énoncé de mission, non recoupé avec les textes officiels. Durées et coefficients à revérifier.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "did-oral",
+   "type": "didactique",
+   "question": "En quoi consiste l'oral d'admission ?",
+   "reponse": "Une leçon : explication d'un texte choisi parmi deux, puis conception d'une séance ; puis un entretien avec le jury. Calendrier indicatif : écrits en mars 2027, oraux en juin 2027.",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Arrêté fixant les modalités d’organisation des concours du CAPES (section philosophie) ; à recouper avec devenirenseignant.gouv.fr",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. Contenu tiré de l'énoncé de mission, non recoupé avec les textes officiels. Calendrier à confirmer.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "did-rattacher",
+   "type": "didactique",
+   "question": "Comment rattacher un texte au programme de terminale dans l'écrit 2 ?",
+   "reponse": "En identifiant le problème que le texte traite, puis la notion et la séquence où il trouve sa place de façon organique. Pas de liste de notions plaquée, pas de paraphrase.",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Rapports du jury du CAPES/CAFEP externe de philosophie (sessions 2021 à 2025)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. Contenu tiré de l'énoncé de mission, non recoupé avec les textes officiels.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "did-sequence",
+   "type": "didactique",
+   "question": "Qu'est-ce qu'une séquence de cours en terminale ?",
+   "reponse": "Un ensemble de séances organisé autour d'un problème philosophique lié à une ou plusieurs notions, avec repères, auteurs et textes, menant à un travail écrit de l'élève.",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme de philosophie des classes terminales, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. Contenu tiré de l'énoncé de mission, non recoupé avec les textes officiels.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "did-bac",
+   "type": "didactique",
+   "question": "En quoi consiste l'épreuve écrite de philosophie du baccalauréat ?",
+   "reponse": "Quatre heures. Au choix : dissertation (deux sujets proposés) ou explication d'un texte d'auteur.",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Note de service relative à l’épreuve de philosophie du baccalauréat général et technologique",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. Contenu tiré de l'énoncé de mission, non recoupé avec les textes officiels. Référence exacte à préciser.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "did-competences",
+   "type": "didactique",
+   "question": "Quelles capacités le programme de terminale demande-t-il de travailler chez les élèves ?",
+   "reponse": "Analyser des notions, problématiser, argumenter, lire et expliquer des textes : le cours vise la formation d'un jugement autonome, non la restitution d'un catalogue de doctrines.",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Programme de philosophie des classes terminales, BO spécial n° 8 du 25 juillet 2019",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. Contenu tiré de l'énoncé de mission, non recoupé avec les textes officiels. Formulation à contrôler.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "did-texte-inconnu",
+   "type": "didactique",
+   "question": "Le texte de l'écrit 2 est d'un auteur peu connu : que faire ?",
+   "reponse": "Lire directement, repérer thèse et argumentation, mobiliser les concepts en jeu, puis le rattacher à un problème et à une séquence. Savoir lire un texte inconnu compte autant que connaître l'auteur.",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Rapports du jury du CAPES/CAFEP externe de philosophie (sessions 2021 à 2025)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. Contenu tiré de l'énoncé de mission, non recoupé avec les textes officiels.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "did-textes-tombes",
+   "type": "didactique",
+   "question": "Quels textes ont été proposés à l'explication de l'écrit 2 ces dernières années ?",
+   "reponse": "2026 : Hegel, Introduction à la philosophie de l'histoire. 2025 : Simondon, Du mode d'existence des objets techniques. 2024 : Platon, La République. 2023 : Nietzsche, Fragments posthumes. 2022 : Kant, Anthropologie. 2021 : Spinoza, Traité politique.",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Rapports du jury du CAPES/CAFEP externe de philosophie (sessions 2021 à 2025)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. Contenu tiré de l'énoncé de mission, non recoupé avec les textes officiels. La liste 2026 (composition « Le pour et le contre ») est à confirmer.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "did-sujets-tombes",
+   "type": "didactique",
+   "question": "Quels sujets de composition de philosophie sont tombés récemment ?",
+   "reponse": "2025 : « L'idée de perfection ». 2024 : « L'avenir est-il l'affaire de la pensée ? ». 2023 : « Être soi-même », cela a-t-il un sens ? 2022 : « Les maîtres de vérité ».",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Rapports du jury du CAPES/CAFEP externe de philosophie (sessions 2021 à 2025)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. Contenu tiré de l'énoncé de mission, non recoupé avec les textes officiels.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "did-precision",
+   "type": "didactique",
+   "question": "Qu'attend le jury en matière de références ?",
+   "reponse": "La précision : œuvre, chapitre, passage exact plutôt que l'allusion, et la lecture directe des textes plutôt que des fiches ou des manuels.",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Rapports du jury du CAPES/CAFEP externe de philosophie (sessions 2021 à 2025)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. Contenu tiré de l'énoncé de mission, non recoupé avec les textes officiels.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "meth-analyse-sujet",
+   "type": "methode",
+   "question": "Comment analyser un sujet de dissertation ?",
+   "reponse": "Définir chaque terme, repérer les distinctions et présupposés, le type de question (oui/non, en quel sens…), et les tensions cachées. Le sujet n'est jamais un prétexte.",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Méthode classique de la dissertation ; à compléter par les rapports de jury",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. Conseil méthodologique général, non sourcé précisément.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "meth-problematiser",
+   "type": "methode",
+   "question": "Qu'est-ce que problématiser ?",
+   "reponse": "Passer d'une question à un problème : une tension entre deux thèses également fondées ou une difficulté interne à la notion, qui rend l'enquête nécessaire.",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Méthode classique de la dissertation ; à compléter par les rapports de jury",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. Conseil méthodologique général, non sourcé précisément.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "meth-introduction",
+   "type": "methode",
+   "question": "Quels sont les moments de l'introduction d'une dissertation ?",
+   "reponse": "Amorce, analyse du sujet, problème, annonce du plan (facultative dans sa forme). Éviter l'amorce générale creuse ou l'histoire de la philosophie.",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Méthode classique de la dissertation",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. Conseil méthodologique général, non sourcé précisément.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "meth-plan",
+   "type": "methode",
+   "question": "Comment éviter un plan mécanique (oui / non / peut-être) ?",
+   "reponse": "Chaque partie doit résoudre une difficulté soulevée par la précédente ; le plan suit un progrès conceptuel, non une liste d'auteurs.",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Méthode classique de la dissertation",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. Conseil méthodologique général, non sourcé précisément.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "meth-explication",
+   "type": "methode",
+   "question": "Comment expliquer un texte sans le paraphraser ?",
+   "reponse": "Dégager la thèse et le problème, suivre le mouvement de l'argumentation, définir les concepts par le texte, puis en apprécier la portée et les limites.",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Méthode classique de l’explication de texte",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. Conseil méthodologique général, non sourcé précisément.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "meth-exemple",
+   "type": "methode",
+   "question": "Comment utiliser un exemple ?",
+   "reponse": "Il illustre une idée déjà énoncée et doit être analysé : préciser ce qu'il montre et jusqu'où. Un exemple précis (œuvre, passage) vaut mieux qu'une allusion.",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Méthode classique de la dissertation",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. Conseil méthodologique général, non sourcé précisément.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "meth-references",
+   "type": "methode",
+   "question": "Comment cite-t-on les grands textes de façon standard ?",
+   "reponse": "Platon : Stephanus (514a). Aristote : Bekker (1094a1). Kant : Académie (AK IV, 421) ; Critique de la raison pure : A/B. Descartes : Adam-Tannery (AT IX-1, 19).",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Usage universitaire standard",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. Convention usuelle, à confirmer dans les éditions.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "meth-conclusion",
+   "type": "methode",
+   "question": "Que doit contenir une conclusion de dissertation ?",
+   "reponse": "La réponse au problème posé, en rappelant le parcours ; on peut ouvrir sur une question voisine. Ni nouvel argument ni résumé mécanique.",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Méthode classique de la dissertation",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. Conseil méthodologique général, non sourcé précisément.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "meth-temps",
+   "type": "methode",
+   "question": "Comment répartir les 6 heures d'une composition ?",
+   "reponse": "Indicatif : environ 1 h pour l'analyse, la problématique et le plan détaillé ; 4 h de rédaction ; 30 à 45 min de relecture. Toujours rédiger l'introduction et la conclusion avec soin.",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Conseil pratique indicatif",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. Conseil personnel de l'assistant, à adapter.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "meth-lecture-directe",
+   "type": "methode",
+   "question": "Pourquoi lire les textes eux-mêmes plutôt que des fiches ?",
+   "reponse": "Le jury valorise la lecture directe et les références précises. Une fiche ne donne ni l'argumentation ni le style, indispensables à l'explication.",
+   "notions": [],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "Rapports du jury du CAPES/CAFEP externe de philosophie (sessions 2021 à 2025)",
+     "edition": null,
+     "url": null,
+     "consulte_le": null,
+     "fiabilite": "officielle"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Rédigée par l'assistant de mémoire ; la source n'a PAS été consultée pendant la session (sites de sources inaccessibles depuis l'environnement de travail). À relire dans l'édition avant de s'y fier. Contenu tiré de l'énoncé de mission, non recoupé avec les textes officiels.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  }
+ ]
+}
