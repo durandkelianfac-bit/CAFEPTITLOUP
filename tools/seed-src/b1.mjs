@@ -1,0 +1,32 @@
+import { D } from './dsl.mjs';
+const T = 'auteur_oeuvre';
+export default [
+// ---------- Platon (article p. 390-392) ----------
+D('d-plat-dialogue', T, "Pourquoi Platon écrit-il des dialogues, et comment s'oppose-t-il aux sophistes ?",
+  "La vérité est objet de recherche commune et rationnelle, atteinte par la dialectique (art d'interroger et de répondre). Le dialogue philosophique cherche le vrai ; les sophistes ne visent qu'à maîtriser l'opinion.",
+  { a: ['Platon'], n: ['le langage', 'la vérité'], art: 'Platon', p: '390' }),
+D('d-plat-periodes', T, "Quels sont les trois groupes de dialogues de Platon ?",
+  "Jeunesse (socratiques : examen critique des préjugés), maturité (théorie des essences, Académie), vieillesse (plus difficiles, révision de la doctrine, Socrate moins central ; les Lois).",
+  { a: ['Platon'], art: 'Platon', p: '391' }),
+D('d-plat-idees', T, "Pourquoi Platon pose-t-il l'existence des Idées (essences) ?",
+  "Pour rendre le savoir possible : une définition universelle suppose un objet stable. Or le sensible est changeant et n'offre que des opinions ; il faut des êtres intelligibles, éternels, auxquels les choses sensibles participent.",
+  { a: ['Platon'], n: ['la vérité', 'la raison'], art: 'Platon', p: '391' }),
+D('d-plat-bien', T, "Quel est le principe ultime de la pensée platonicienne ?",
+  "Le Bien (ou Un-Bien) : principe inconditionné, au-delà même de l'essence, dont tous les objets, sensibles ou intelligibles, tiennent leur être et leur possibilité d'être connus.",
+  { a: ['Platon'], n: ['la vérité'], art: 'Platon', p: '391' }),
+D('d-plat-dialectique', T, "Quelle différence Platon fait-il entre le mathématicien et le dialecticien ?",
+  "Le mathématicien descend des hypothèses aux conséquences sans interroger les hypothèses ; le dialecticien remonte des hypothèses vers leur principe, jusqu'au fondement inconditionné, le Bien.",
+  { a: ['Platon'], n: ['la raison', 'la science'], art: 'Platon', p: '391' }),
+D('d-plat-amour', T, "Que ferait la dialectique de l'amour selon Platon (Banquet) ?",
+  "L'amour, signe d'un manque, est un élan vers le savoir : il élève de la beauté des corps à celle des âmes, des conduites, des sciences, jusqu'à la beauté en soi. Il mène au même terme que la raison.",
+  { a: ['Platon'], n: ['le bonheur'], o: 'Banquet', art: 'Platon', p: '391-392' }),
+D('d-plat-maieutique', T, "Qu'est-ce que la maïeutique, et à quelle doctrine conduit-elle ?",
+  "L'art d'accoucher les esprits (Socrate, fils d'une sage-femme) : l'interrogation fait découvrir la vérité que l'on porte en soi. Elle conduit à la réminiscence : connaître, c'est se ressouvenir.",
+  { a: ['Platon'], n: ['la vérité'], art: 'Platon', p: '392' }),
+D('d-plat-nul-mechant', T, "Que signifie « nul n'est méchant volontairement » ?",
+  "L'immoralité est ignorance : celui qui sait ce qu'est la justice ne peut agir mal ; on est injuste parce qu'on est aveuglé par ses pulsions. D'où l'idée qu'éclairer l'homme le rend meilleur.",
+  { a: ['Platon'], n: ['le devoir', 'la justice'], art: 'Platon', p: '392' }),
+D('d-plat-redescente', T, "Pourquoi le philosophe doit-il redescendre dans la caverne ?",
+  "Le but de la spéculation est pratique : il ne doit pas fuir le monde sensible mais s'y conduire en homme juste. Et savoir ce qu'est la justice destine les philosophes à gouverner la cité.",
+  { a: ['Platon'], n: ["l'État", 'la justice'], o: 'République', art: 'Platon', p: '392' }),
+];

@@ -5,7 +5,7 @@ import { writeFileSync, readFileSync, existsSync } from 'node:fs';
 const VERSION = 2; // À incrémenter à chaque évolution du jeu de départ
 const TYPES = ['notion', 'repere', 'auteur_oeuvre', 'citation', 'hlp', 'didactique', 'methode'];
 const FIAB = ['officielle', 'edition_savante', 'domaine_public', 'secondaire'];
-const files = ['a1', 'a2', 'a3', 'a4', 'a5'];
+const files = ['a1', 'a2', 'a3', 'a4', 'a5', 'b1', 'b2', 'b3', 'b4', 'b5', 'b6', 'b7', 'b8', 'b9', 'b10'];
 const cartes = [];
 for (const f of files) cartes.push(...(await import(`./seed-src/${f}.mjs`)).default);
 

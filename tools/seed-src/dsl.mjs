@@ -13,3 +13,13 @@ export const C = (id, type, question, reponse, o = {}) => ({
   id, type, question, reponse, notions: o.n ?? [], auteurs: o.a ?? [], oeuvre: o.o ?? null, sources: o.s ?? [],
   statut: 'a_verifier', note_verification: o.note ? `${NOTE_DEFAUT} ${o.note}` : NOTE_DEFAUT, image_mentale: '', cree_par: 'seed', rev: o.rev ?? 1,
 });
+
+// ---- Cartes tirées du dictionnaire « La philosophie de A à Z » (Hatier, 2020) ----
+export const DICO = 'L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020';
+export const NOTE_DICO =
+  "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.";
+/** D(id, type, question, réponse, { a, n, o, art: « article », p: page(s), note }) */
+export const D = (id, type, question, reponse, o = {}) => ({
+  ...C(id, type, question, reponse, { ...o, s: [{ reference: `${DICO}, article « ${o.art} », p. ${o.p}`, edition: null, url: null, consulte_le: '2026-09-29', fiabilite: 'secondaire' }] }),
+  note_verification: o.note ? `${NOTE_DICO} ${o.note}` : NOTE_DICO,
+});

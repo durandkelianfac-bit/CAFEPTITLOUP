@@ -132,9 +132,9 @@ C('sart-engagement', T, "Pourquoi choisir pour soi, c'est choisir pour l'humanit
   { a: ['Sartre'], o: "L'existentialisme est un humanisme", n: ['le devoir', 'la liberté'], s: [es("Sartre, L'existentialisme est un humanisme")] }),
 
 // ---------- ARENDT ----------
-C('aren-vita-activa', T, "Quelle distinction Arendt établit-elle entre labeur, travail et action ?",
-  "Labeur : cycle biologique de la vie. Travail : fabrication d'un monde durable d'objets. Action : agir avec d'autres par la parole, condition de la politique et de la pluralité.",
-  { a: ['Arendt'], o: "Condition de l'homme moderne", n: ['le travail', 'la technique', 'la liberté'], s: [es("Arendt, Condition de l'homme moderne (The Human Condition, 1958), chap. III-V")] }),
+C('aren-vita-activa', T, "Quelle distinction Arendt établit-elle entre travail, œuvre et action ?",
+  "Travail (labor) : cycle biologique de la vie. Œuvre (work) : fabrication d'un monde durable d'objets. Action : agir avec d'autres par la parole, condition de la politique et de la pluralité.",
+  { rev: 2, a: ['Arendt'], o: "Condition de l'homme moderne", n: ['le travail', 'la technique', 'la liberté'], s: [es("Arendt, Condition de l'homme moderne (The Human Condition, 1958), chap. III-V")] }),
 C('aren-natalite', T, "Qu'est-ce que la natalité chez Arendt ?",
   "Le fait que chaque naissance est un nouveau commencement : condition ontologique de l'action et de la liberté, capacité d'interrompre le cours automatique des choses.",
   { a: ['Arendt'], o: "Condition de l'homme moderne", n: ['la liberté', 'le temps'], s: [es("Arendt, Condition de l'homme moderne, chap. V, §§24-25")] }),
