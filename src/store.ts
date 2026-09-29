@@ -49,11 +49,11 @@ let seeding = false;
 /** Copie / met à jour le jeu de départ dans l'espace de l'utilisateur (voir seed.ts). */
 function syncSeed() {
   if (!backend || seeding) return;
-  const { add, update } = planSeedSync(seed, state.cards);
-  if (!add.length && !update.length && state.settings.seedVersion >= seed.version) return;
+  const { add, update, retire } = planSeedSync(seed, state.cards);
+  if (!add.length && !update.length && !retire.length && state.settings.seedVersion >= seed.version) return;
   seeding = true;
   const b = backend;
-  b.putCards([...add, ...update]).then(() => b.saveSettings({ seedVersion: seed.version })).finally(() => { seeding = false; });
+  b.putCards([...add, ...update, ...retire]).then(() => b.saveSettings({ seedVersion: seed.version })).finally(() => { seeding = false; });
   // Affichage immédiat : le cache local renverra de toute façon les cartes ajoutées.
 }
 

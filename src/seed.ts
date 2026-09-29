@@ -5,12 +5,18 @@ import { newSrs } from './srs';
  * Compare le jeu de départ embarqué avec les cartes de l'utilisateur.
  * - carte absente (jamais copiée)      -> ajoutée ;
  * - carte présente, non modifiée, rev. plus ancienne -> contenu mis à jour, progression conservée ;
- * - carte modifiée ou supprimée par l'utilisateur     -> jamais touchée (pas de résurrection).
+ * - carte modifiée ou supprimée par l'utilisateur     -> jamais touchée (pas de résurrection) ;
+ * - carte retirée du jeu de départ et non modifiée     -> passée à la corbeille.
  */
-export function planSeedSync(seed: SeedFile, existing: Card[], now: number = Date.now()): { add: Card[]; update: Card[] } {
+export function planSeedSync(seed: SeedFile, existing: Card[], now: number = Date.now()): { add: Card[]; update: Card[]; retire: Card[] } {
   const byId = new Map(existing.map((c) => [c.id, c]));
   const add: Card[] = [];
   const update: Card[] = [];
+  const retire: Card[] = [];
+  for (const id of seed.retirees ?? []) {
+    const cur = byId.get(id);
+    if (cur && cur.cree_par === 'seed' && !cur.modifiee && !cur.supprimee) retire.push({ ...cur, supprimee: true, maj: now });
+  }
   for (const s of seed.cartes) {
     const cur = byId.get(s.id);
     if (!cur) { add.push(fromSeed(s, now)); continue; }
@@ -24,7 +30,7 @@ export function planSeedSync(seed: SeedFile, existing: Card[], now: number = Dat
       image_mentale: cur.image_mentale || s.image_mentale,
     });
   }
-  return { add, update };
+  return { add, update, retire };
 }
 
 export function fromSeed(s: SeedCard, now: number): Card {

@@ -1,11 +1,11 @@
-# RAPPORT_SOURCES — jeu de départ, version 2
+# RAPPORT_SOURCES — jeu de départ, version 3
 
 Généré par `npm run seed:build` (ne pas modifier à la main : éditer `tools/seed-src/`).
 
 ## Bilan honnête
 
-- **575 cartes**, dont **0 « vérifiée(s)** et **575 « à vérifier »**.
-- **Deux origines de cartes.** (1) Les cartes dont l'identifiant commence par `d-` et `n-` (**402 cartes**) sont rédigées d'après le dictionnaire *La philosophie de A à Z* (Hatier, 2020), ebook acheté par l'utilisateur et lu pendant la session : source secondaire (dictionnaire scolaire), page indiquée, date de consultation 2026-09-29. Elles ont été comparées à l'article mais **restent « à vérifier »** : un dictionnaire n'est pas le texte de l'auteur, et aucune URL n'existe pour ce livre. (2) Les autres cartes (173) ont été écrites de mémoire par l'assistant : l'environnement bloquait fr.wikisource.org, eduscol.education.gouv.fr, devenirenseignant.gouv.fr, gallica.bnf.fr et Wikipédia (réponse 403 du proxy réseau). Elles n'ont ni URL ni date de consultation et **restent « à vérifier »**. Un exemplaire piraté (Anna's Archive) transmis par l'utilisateur n'a pas été ouvert ni utilisé (règle 6).
+- **567 cartes**, dont **0 « vérifiée(s)** et **567 « à vérifier »**.
+- **Deux origines de cartes.** (1) Les cartes dont l'identifiant commence par `d-` et `n-` (**402 cartes**) sont rédigées d'après le dictionnaire *La philosophie de A à Z* (Hatier, 2020), ebook acheté par l'utilisateur et lu pendant la session : source secondaire (dictionnaire scolaire), page indiquée, date de consultation 2026-09-29. Elles ont été comparées à l'article mais **restent « à vérifier »** : un dictionnaire n'est pas le texte de l'auteur, et aucune URL n'existe pour ce livre. (2) Les autres cartes (165) ont été écrites de mémoire par l'assistant : l'environnement bloquait fr.wikisource.org, eduscol.education.gouv.fr, devenirenseignant.gouv.fr, gallica.bnf.fr et Wikipédia (réponse 403 du proxy réseau). Elles n'ont ni URL ni date de consultation et **restent « à vérifier »**. Un exemplaire piraté (Anna's Archive) transmis par l'utilisateur n'a pas été ouvert ni utilisé (règle 6).
 - Aucune citation longue n'est reproduite ; les citations (≤ 20 mots) sont soit dans une langue originale du domaine public, soit des formules canoniques courtes ; le reste est paraphrasé.
 - Aucun contenu généré par IA n'est présenté comme source : les références (Stephanus, Bekker, Akademie, Adam-Tannery, paragraphes) sont des références **standard à confirmer dans l'édition**, pas des pages consultées.
 - Aucune adresse URL n'a été enregistrée, faute de pouvoir la vérifier (règle 3).
@@ -14,13 +14,12 @@ Généré par `npm run seed:build` (ne pas modifier à la main : éditer `tools/
 
 1. **Repères** (`rep-*`) : l'énoncé exact et la liste officielle des repères doivent être recopiés depuis le BO spécial n° 8 du 25 juillet 2019 ; les cartes sont écrites de mémoire.
 2. **HLP** (`hlp-*`) : intitulés des thèmes et axes d'après le souvenir des BO du 22 janvier 2019 et du 25 juillet 2019. À contrôler.
-3. **Annales du concours** (`did-*`) : listes de textes et de sujets tirées de l'énoncé de mission, non des rapports de jury. La composition 2026 (« Le pour et le contre ») reste à confirmer.
-4. **Simondon** : titre exact du chapitre II de la 3e partie non vérifié.
-5. **Nietzsche, Fragments posthumes** : la carte de prudence éditoriale est générale ; aucun numéro de fragment n'est cité.
-6. **Références précises** (pages AK, AT, Bekker, paragraphes) : données de mémoire, plusieurs peuvent être décalées de quelques lignes. Les traductions françaises ne sont **pas identifiées** (édition non consultée) : pour les auteurs traduits, indiquer l'édition lors de la relecture.
-7. **Marx, thèse XI** et autres formules paraphrasées : contrôler la traduction avant de citer entre guillemets.
-8. **Plaute/Horace** (attribution de « homo homini lupus », « sapere aude ») : attributions traditionnelles à confirmer.
-9. **Conseils de méthode** : synthèse générale de la pratique de la dissertation, à recouper avec les rapports de jury (sources secondaires).
+3. **Simondon** : titre exact du chapitre II de la 3e partie non vérifié.
+4. **Nietzsche, Fragments posthumes** : la carte de prudence éditoriale est générale ; aucun numéro de fragment n'est cité.
+5. **Références précises** (pages AK, AT, Bekker, paragraphes) : données de mémoire, plusieurs peuvent être décalées de quelques lignes. Les traductions françaises ne sont **pas identifiées** (édition non consultée) : pour les auteurs traduits, indiquer l'édition lors de la relecture.
+6. **Marx, thèse XI** et autres formules paraphrasées : contrôler la traduction avant de citer entre guillemets.
+7. **Plaute/Horace** (attribution de « homo homini lupus », « sapere aude ») : attributions traditionnelles à confirmer.
+8. **Conseils de méthode** : synthèse générale de la pratique de la dissertation, à recouper avec les rapports de jury (sources secondaires).
 
 ## Comment vérifier une carte
 
@@ -2330,39 +2329,7 @@ Statut : *à vérifier*
 - Programme HLP, terminale, BO spécial n° 8 du 25 juillet 2019 — *officielle* (non consultée)
 - Doute : Intitulés des axes à contrôler dans le BO.
 
-### Didactique et concours (6)
-
-**`did-rattacher`** — Comment rattacher un texte au programme de terminale dans l'écrit 2 ?  
-Statut : *à vérifier*
-- Rapports du jury du CAPES/CAFEP externe de philosophie (sessions 2021 à 2025) — *officielle* (non consultée)
-- Doute : Contenu tiré de l'énoncé de mission, non recoupé avec les textes officiels.
-
-**`did-sequence`** — Qu'est-ce qu'une séquence de cours en terminale ?  
-Statut : *à vérifier*
-- Programme de philosophie des classes terminales, BO spécial n° 8 du 25 juillet 2019 — *officielle* (non consultée)
-- Doute : Contenu tiré de l'énoncé de mission, non recoupé avec les textes officiels.
-
-**`did-texte-inconnu`** — Le texte de l'écrit 2 est d'un auteur peu connu : que faire ?  
-Statut : *à vérifier*
-- Rapports du jury du CAPES/CAFEP externe de philosophie (sessions 2021 à 2025) — *officielle* (non consultée)
-- Doute : Contenu tiré de l'énoncé de mission, non recoupé avec les textes officiels.
-
-**`did-textes-tombes`** — Quels textes ont été proposés à l'explication de l'écrit 2 ces dernières années ?  
-Statut : *à vérifier*
-- Rapports du jury du CAPES/CAFEP externe de philosophie (sessions 2021 à 2025) — *officielle* (non consultée)
-- Doute : Contenu tiré de l'énoncé de mission, non recoupé avec les textes officiels. La liste 2026 (composition « Le pour et le contre ») est à confirmer.
-
-**`did-sujets-tombes`** — Quels sujets de composition de philosophie sont tombés récemment ?  
-Statut : *à vérifier*
-- Rapports du jury du CAPES/CAFEP externe de philosophie (sessions 2021 à 2025) — *officielle* (non consultée)
-- Doute : Contenu tiré de l'énoncé de mission, non recoupé avec les textes officiels.
-
-**`did-precision`** — Qu'attend le jury en matière de références ?  
-Statut : *à vérifier*
-- Rapports du jury du CAPES/CAFEP externe de philosophie (sessions 2021 à 2025) — *officielle* (non consultée)
-- Doute : Contenu tiré de l'énoncé de mission, non recoupé avec les textes officiels.
-
-### Méthode (11)
+### Méthode (9)
 
 **`niet-fragments`** — Pourquoi faut-il être prudent avec les Fragments posthumes de Nietzsche ?  
 Statut : *à vérifier* · Auteurs : Nietzsche
@@ -2408,13 +2375,3 @@ Statut : *à vérifier*
 Statut : *à vérifier*
 - Méthode classique de la dissertation — *secondaire* (non consultée)
 - Doute : Conseil méthodologique général, non sourcé précisément.
-
-**`meth-temps`** — Comment répartir les 6 heures d'une composition ?  
-Statut : *à vérifier*
-- Conseil pratique indicatif — *secondaire* (non consultée)
-- Doute : Conseil personnel de l'assistant, à adapter.
-
-**`meth-lecture-directe`** — Pourquoi lire les textes eux-mêmes plutôt que des fiches ?  
-Statut : *à vérifier*
-- Rapports du jury du CAPES/CAFEP externe de philosophie (sessions 2021 à 2025) — *officielle* (non consultée)
-- Doute : Contenu tiré de l'énoncé de mission, non recoupé avec les textes officiels.

@@ -52,6 +52,7 @@ export interface SeedCard extends Omit<Card, 'srs' | 'maj' | 'modifiee' | 'suppr
 export interface SeedFile {
   version: number;
   genere_le: string;
+  retirees?: string[]; // cartes retirées du jeu de départ
   cartes: SeedCard[];
 }
 

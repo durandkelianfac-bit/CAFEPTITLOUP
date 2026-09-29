@@ -4,24 +4,6 @@ const RAP = of('Rapports du jury du CAPES/CAFEP externe de philosophie (sessions
 const N = "Contenu tiré de l'énoncé de mission, non recoupé avec les textes officiels.";
 export default [
 // ---------- Didactique / concours ----------
-C('did-rattacher', 'didactique', "Comment rattacher un texte au programme de terminale dans l'écrit 2 ?",
-  "En identifiant le problème que le texte traite, puis la notion et la séquence où il trouve sa place de façon organique. Pas de liste de notions plaquée, pas de paraphrase.",
-  { s: [RAP], note: N }),
-C('did-sequence', 'didactique', "Qu'est-ce qu'une séquence de cours en terminale ?",
-  "Un ensemble de séances organisé autour d'un problème philosophique lié à une ou plusieurs notions, avec repères, auteurs et textes, menant à un travail écrit de l'élève.",
-  { s: [PROG_SEQ()], note: N }),
-C('did-texte-inconnu', 'didactique', "Le texte de l'écrit 2 est d'un auteur peu connu : que faire ?",
-  "Lire directement, repérer thèse et argumentation, mobiliser les concepts en jeu, puis le rattacher à un problème et à une séquence. Savoir lire un texte inconnu compte autant que connaître l'auteur.",
-  { s: [RAP], note: N }),
-C('did-textes-tombes', 'didactique', "Quels textes ont été proposés à l'explication de l'écrit 2 ces dernières années ?",
-  "2026 : Hegel, Introduction à la philosophie de l'histoire. 2025 : Simondon, Du mode d'existence des objets techniques. 2024 : Platon, La République. 2023 : Nietzsche, Fragments posthumes. 2022 : Kant, Anthropologie. 2021 : Spinoza, Traité politique.",
-  { s: [RAP], note: N + ' La liste 2026 (composition « Le pour et le contre ») est à confirmer.' }),
-C('did-sujets-tombes', 'didactique', "Quels sujets de composition de philosophie sont tombés récemment ?",
-  "2025 : « L'idée de perfection ». 2024 : « L'avenir est-il l'affaire de la pensée ? ». 2023 : « Être soi-même », cela a-t-il un sens ? 2022 : « Les maîtres de vérité ».",
-  { s: [RAP], note: N }),
-C('did-precision', 'didactique', "Qu'attend le jury en matière de références ?",
-  "La précision : œuvre, chapitre, passage exact plutôt que l'allusion, et la lecture directe des textes plutôt que des fiches ou des manuels.",
-  { s: [RAP], note: N }),
 
 // ---------- Méthode ----------
 C('meth-analyse-sujet', 'methode', "Comment analyser un sujet de dissertation ?",
@@ -48,11 +30,5 @@ C('meth-references', 'methode', "Comment cite-t-on les grands textes de façon s
 C('meth-conclusion', 'methode', "Que doit contenir une conclusion de dissertation ?",
   "La réponse au problème posé, en rappelant le parcours ; on peut ouvrir sur une question voisine. Ni nouvel argument ni résumé mécanique.",
   { s: [se('Méthode classique de la dissertation')], note: 'Conseil méthodologique général, non sourcé précisément.' }),
-C('meth-temps', 'methode', "Comment répartir les 6 heures d'une composition ?",
-  "Indicatif : environ 1 h pour l'analyse, la problématique et le plan détaillé ; 4 h de rédaction ; 30 à 45 min de relecture. Toujours rédiger l'introduction et la conclusion avec soin.",
-  { s: [se('Conseil pratique indicatif')], note: "Conseil personnel de l'assistant, à adapter." }),
-C('meth-lecture-directe', 'methode', "Pourquoi lire les textes eux-mêmes plutôt que des fiches ?",
-  "Le jury valorise la lecture directe et les références précises. Une fiche ne donne ni l'argumentation ni le style, indispensables à l'explication.",
-  { s: [RAP], note: N }),
 ];
 function PROG_SEQ() { return of('Programme de philosophie des classes terminales, BO spécial n° 8 du 25 juillet 2019'); }

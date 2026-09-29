@@ -37,4 +37,12 @@ describe('mise à jour du jeu de départ', () => {
     const own = { ...fromSeed(sc('a'), 0), cree_par: 'utilisateur' as const };
     expect(planSeedSync(file(sc('a', 2)), [own]).update.length).toBe(0);
   });
+  it('retire les cartes supprimées du jeu de départ, sauf si modifiées', () => {
+    const intacte = fromSeed(sc('x'), 0);
+    const modifiee = { ...fromSeed(sc('y'), 0), modifiee: true };
+    const utilisateur = { ...fromSeed(sc('z'), 0), cree_par: 'utilisateur' as const };
+    const r = planSeedSync({ ...file(), retirees: ['x', 'y', 'z'] }, [intacte, modifiee, utilisateur]);
+    expect(r.retire.map((c) => c.id)).toEqual(['x']);
+    expect(r.retire[0].supprimee).toBe(true);
+  });
 });

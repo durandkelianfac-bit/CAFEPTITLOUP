@@ -2,9 +2,13 @@
 // Usage : node tools/build-seed.mjs [--check]  (--check : ne réécrit pas, échoue si les fichiers sont périmés)
 import { writeFileSync, readFileSync, existsSync } from 'node:fs';
 
-const VERSION = 2; // À incrémenter à chaque évolution du jeu de départ
+const VERSION = 3; // À incrémenter à chaque évolution du jeu de départ
 const TYPES = ['notion', 'repere', 'auteur_oeuvre', 'citation', 'hlp', 'didactique', 'methode'];
 const FIAB = ['officielle', 'edition_savante', 'domaine_public', 'secondaire'];
+// Cartes retirées du jeu de départ (ex. : cartes sur le déroulement du concours). Les comptes qui les ont déjà
+// reçues les voient passer à la corbeille, sauf si l'utilisateur les a modifiées.
+const RETIRED = ['did-epreuves', 'did-oral', 'did-bac', 'did-competences', 'did-rattacher', 'did-sequence', 'did-texte-inconnu',
+  'did-textes-tombes', 'did-sujets-tombes', 'did-precision', 'meth-lecture-directe', 'meth-temps'];
 const files = ['a1', 'a2', 'a3', 'a4', 'a5', 'b1', 'b2', 'b3', 'b4', 'b5', 'b6', 'b7', 'b8', 'b9', 'b10', 'b11', 'b12', 'b13', 'b14', 'b15', 'b16', 'b17', 'b18', 'c1', 'c2', 'c3', 'c4', 'c5', 'c6', 'c7', 'c8', 'c9'];
 const cartes = [];
 for (const f of files) cartes.push(...(await import(`./seed-src/${f}.mjs`)).default);
@@ -33,7 +37,7 @@ if (errors.length) { console.error('Erreurs :\n' + errors.join('\n')); process.e
 warns.forEach((w) => console.warn('avertissement', w));
 
 const out = cartes;
-const seed = { version: VERSION, genere_le: '2026-09-29', cartes: out };
+const seed = { version: VERSION, genere_le: '2026-09-29', retirees: RETIRED, cartes: out };
 const json = JSON.stringify(seed, null, 1) + '\n';
 
 // ---- Rapport de sources ----
@@ -55,13 +59,12 @@ Généré par \`npm run seed:build\` (ne pas modifier à la main : éditer \`too
 
 1. **Repères** (\`rep-*\`) : l'énoncé exact et la liste officielle des repères doivent être recopiés depuis le BO spécial n° 8 du 25 juillet 2019 ; les cartes sont écrites de mémoire.
 2. **HLP** (\`hlp-*\`) : intitulés des thèmes et axes d'après le souvenir des BO du 22 janvier 2019 et du 25 juillet 2019. À contrôler.
-3. **Annales du concours** (\`did-*\`) : listes de textes et de sujets tirées de l'énoncé de mission, non des rapports de jury. La composition 2026 (« Le pour et le contre ») reste à confirmer.
-4. **Simondon** : titre exact du chapitre II de la 3e partie non vérifié.
-5. **Nietzsche, Fragments posthumes** : la carte de prudence éditoriale est générale ; aucun numéro de fragment n'est cité.
-6. **Références précises** (pages AK, AT, Bekker, paragraphes) : données de mémoire, plusieurs peuvent être décalées de quelques lignes. Les traductions françaises ne sont **pas identifiées** (édition non consultée) : pour les auteurs traduits, indiquer l'édition lors de la relecture.
-7. **Marx, thèse XI** et autres formules paraphrasées : contrôler la traduction avant de citer entre guillemets.
-8. **Plaute/Horace** (attribution de « homo homini lupus », « sapere aude ») : attributions traditionnelles à confirmer.
-9. **Conseils de méthode** : synthèse générale de la pratique de la dissertation, à recouper avec les rapports de jury (sources secondaires).
+3. **Simondon** : titre exact du chapitre II de la 3e partie non vérifié.
+4. **Nietzsche, Fragments posthumes** : la carte de prudence éditoriale est générale ; aucun numéro de fragment n'est cité.
+5. **Références précises** (pages AK, AT, Bekker, paragraphes) : données de mémoire, plusieurs peuvent être décalées de quelques lignes. Les traductions françaises ne sont **pas identifiées** (édition non consultée) : pour les auteurs traduits, indiquer l'édition lors de la relecture.
+6. **Marx, thèse XI** et autres formules paraphrasées : contrôler la traduction avant de citer entre guillemets.
+7. **Plaute/Horace** (attribution de « homo homini lupus », « sapere aude ») : attributions traditionnelles à confirmer.
+8. **Conseils de méthode** : synthèse générale de la pratique de la dissertation, à recouper avec les rapports de jury (sources secondaires).
 
 ## Comment vérifier une carte
 
