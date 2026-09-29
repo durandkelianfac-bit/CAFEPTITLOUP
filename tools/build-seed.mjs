@@ -2,7 +2,7 @@
 // Usage : node tools/build-seed.mjs [--check]  (--check : ne réécrit pas, échoue si les fichiers sont périmés)
 import { writeFileSync, readFileSync, existsSync } from 'node:fs';
 
-const VERSION = 1; // À incrémenter à chaque évolution du jeu de départ
+const VERSION = 2; // À incrémenter à chaque évolution du jeu de départ
 const TYPES = ['notion', 'repere', 'auteur_oeuvre', 'citation', 'hlp', 'didactique', 'methode'];
 const FIAB = ['officielle', 'edition_savante', 'domaine_public', 'secondaire'];
 const files = ['a1', 'a2', 'a3', 'a4', 'a5'];
@@ -55,7 +55,7 @@ Généré par \`npm run seed:build\` (ne pas modifier à la main : éditer \`too
 
 1. **Repères** (\`rep-*\`) : l'énoncé exact et la liste officielle des repères doivent être recopiés depuis le BO spécial n° 8 du 25 juillet 2019 ; les cartes sont écrites de mémoire.
 2. **HLP** (\`hlp-*\`) : intitulés des thèmes et axes d'après le souvenir des BO du 22 janvier 2019 et du 25 juillet 2019. À contrôler.
-3. **Épreuves du concours** (\`did-*\`) : durées, coefficients, calendrier et listes d'annales viennent de l'énoncé de mission, non des arrêtés ni des rapports de jury. La composition 2026 (« Le pour et le contre ») reste à confirmer.
+3. **Annales du concours** (`did-*`) : listes de textes et de sujets tirées de l'énoncé de mission, non des rapports de jury. La composition 2026 (« Le pour et le contre ») reste à confirmer.
 4. **Simondon** : titre exact du chapitre II de la 3e partie non vérifié.
 5. **Nietzsche, Fragments posthumes** : la carte de prudence éditoriale est générale ; aucun numéro de fragment n'est cité.
 6. **Références précises** (pages AK, AT, Bekker, paragraphes) : données de mémoire, plusieurs peuvent être décalées de quelques lignes. Les traductions françaises ne sont **pas identifiées** (édition non consultée) : pour les auteurs traduits, indiquer l'édition lors de la relecture.
