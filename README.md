@@ -2,7 +2,7 @@
 
 Application web de révision par **flashcards** et **répétition espacée (FSRS)** pour le CAFEP/CAPES externe de philosophie (session 2027). Pensée pour le smartphone, utilisable à une main, **installable** sur l'écran d'accueil, **hors-ligne**, **synchronisée** entre appareils, et **100 % gratuite**.
 
-> ⚠️ **À lire d'abord — contenu des cartes.** Les 173 cartes de départ ont été rédigées **de mémoire** : les sites de sources étaient inaccessibles pendant leur rédaction. **Toutes sont donc « À vérifier »**, y compris les listes de repères, les axes HLP et le calendrier du concours. Ne vous fiez pas à une carte avant d'avoir relu sa source, puis passez-la en « Vérifié » (pastille sur la carte). Détail et doutes : [`RAPPORT_SOURCES.md`](RAPPORT_SOURCES.md).
+> ⚠️ **À lire d'abord — contenu des cartes.** Le jeu de départ compte environ 575 cartes. Une partie (identifiants `d-…` et `n-…`) est tirée du dictionnaire *La philosophie de A à Z* (Hatier, 2020) avec la page en référence ; le reste a été rédigé **de mémoire** car les sites de sources étaient inaccessibles pendant la rédaction (repères, axes HLP, annales : à contrôler dans les textes officiels). **Toutes les cartes sont « À vérifier »** : un dictionnaire n'est pas le texte de l'auteur. Relisez la source, puis passez la carte en « Vérifié » (pastille sur la carte). Détail et doutes : [`RAPPORT_SOURCES.md`](RAPPORT_SOURCES.md).
 
 ## Ce que fait l'application
 - **Accueil** : nombre de cartes à réviser aujourd'hui, bouton « Commencer », série de jours.
