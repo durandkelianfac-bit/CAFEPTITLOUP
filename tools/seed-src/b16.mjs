@@ -1,0 +1,32 @@
+import { D } from './dsl.mjs';
+const T = 'auteur_oeuvre';
+export default [
+// ---------- Foucault (p. 193), Putnam (p. 413), Rawls (p. 421-422) ----------
+D('d-fouc-folie', T, "Que montre l'Histoire de la folie à l'âge classique ?",
+  "La raison classique fonctionne comme facteur d'exclusion, faisant taire la folie (enfermement systématique) ; la psychiatrie du XIXe siècle serait un instrument de capture. L'Occident aurait affirmé son identité en ségrégant la folie.",
+  { a: ['Foucault'], n: ['la raison', 'le langage'], o: 'Histoire de la folie à l’âge classique', art: 'Foucault', p: '193' }),
+D('d-fouc-episteme', T, "Qu'est-ce que l'épistémè et la « mort de l'homme » dans Les Mots et les Choses ?",
+  "Chaque époque (Renaissance, âge classique, modernité) a une configuration du savoir, l'épistémè. « L'homme », sujet de connaissance et objet de savoir, est une création récente et menacée : la « mort de l'homme » annonce la disparition d'une figure du savoir, non de l'espèce.",
+  { a: ['Foucault'], n: ['la science', 'la vérité'], o: 'Les Mots et les Choses', art: 'Foucault', p: '193' }),
+D('d-fouc-prison', T, "Que soutient Surveiller et Punir ?",
+  "La prison devient au XIXe siècle une pratique punitive généralisée avec la société disciplinaire ; elle n'a pas pour fonction d'empêcher la délinquance mais de l'entretenir.",
+  { a: ['Foucault'], n: ['la justice', "l'État"], o: 'Surveiller et Punir', art: 'Foucault', p: '193' }),
+D('d-fouc-sexualite', T, "Où mène l'Histoire de la sexualité pour Foucault ?",
+  "À la formation d'un « sujet de désir » par les pratiques confessionnelles chrétiennes, puis au rapport éthique à soi reformulé comme esthétisation de l'existence (faire de sa vie une œuvre d'art).",
+  { a: ['Foucault'], n: ["l'art", 'la conscience'], o: 'Histoire de la sexualité', art: 'Foucault', p: '193' }),
+D('d-putn-cuve', T, "Que répond Putnam à l'expérience des « cerveaux dans une cuve » ?",
+  "Il la conteste : toute connaissance et tout langage dépendent, pour avoir un sens, de facteurs indépendants de l'esprit humain. Il critique aussi le positivisme logique et le réalisme métaphysique.",
+  { a: ['Putnam'], n: ['la vérité', 'la science', 'le langage'], o: 'Raison, Vérité et Histoire', art: 'Putnam', p: '413' }),
+D('d-putn-fonctionnalisme', T, "Qu'est-ce que le fonctionnalisme de Putnam ?",
+  "Par analogie cerveau/ordinateur, ce qui importe dans l'activité spirituelle est le programme, non le matériel : les opérations mentales ne sont pas liées à une substance pensante. Il nuancera ensuite, le mental étant trop complexe pour se réduire à un programme.",
+  { a: ['Putnam', 'Descartes'], n: ['la conscience', 'la technique'], art: 'Putnam', p: '413' }),
+D('d-rawl-voile', T, "Qu'est-ce que le voile d'ignorance chez Rawls ?",
+  "Une situation hypothétique (analogue à l'état de nature) où des personnes choisissent les principes de répartition des biens sans connaître leur position future : elles opteraient pour l'organisation meilleure pour tous.",
+  { a: ['Rawls'], n: ['la justice', "l'État"], o: 'Théorie de la justice', art: 'Rawls', p: '421' }),
+D('d-rawl-principes', T, "Quels sont les deux principes de justice de Rawls ?",
+  "1. Droit égal au système le plus étendu de libertés de base égales pour tous (prioritaire, sans exception). 2. Les inégalités doivent être à l'avantage de chacun et attachées à des positions ouvertes à tous (égalité des chances).",
+  { a: ['Rawls'], n: ['la justice', 'la liberté'], o: 'Théorie de la justice', art: 'Rawls', p: '421' }),
+D('d-rawl-critiques', T, "Quelles critiques a-t-on adressées à Rawls ?",
+  "À droite, célébrer l'État providence ; à gauche, légitimer la logique des institutions économiques dominantes (le marché) ; d'autres, tirer d'une conception individualiste, occidentale et kantienne de l'homme une justice universelle.",
+  { a: ['Rawls', 'Kant'], n: ['la justice', "l'État"], art: 'Rawls', p: '421-422' }),
+];

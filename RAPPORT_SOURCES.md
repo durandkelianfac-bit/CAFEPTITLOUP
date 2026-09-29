@@ -4,7 +4,7 @@ Généré par `npm run seed:build` (ne pas modifier à la main : éditer `tools/
 
 ## Bilan honnête
 
-- **337 cartes**, dont **0 « vérifiée(s)** et **337 « à vérifier »**.
+- **475 cartes**, dont **0 « vérifiée(s)** et **475 « à vérifier »**.
 - **Aucune source n'a pu être consultée** pendant la rédaction : l'environnement de travail bloquait l'accès à fr.wikisource.org, eduscol.education.gouv.fr, devenirenseignant.gouv.fr, gallica.bnf.fr et Wikipédia (réponse 403 du proxy réseau). Toutes les cartes ont donc été rédigées de mémoire par l'assistant, sans URL ni date de consultation, et **toutes restent « à vérifier »**. C'est la conséquence directe des règles 2 et 3 du cahier des charges.
 - Aucune citation longue n'est reproduite ; les citations (≤ 20 mots) sont soit dans une langue originale du domaine public, soit des formules canoniques courtes ; le reste est paraphrasé.
 - Aucun contenu généré par IA n'est présenté comme source : les références (Stephanus, Bekker, Akademie, Adam-Tannery, paragraphes) sont des références **standard à confirmer dans l'édition**, pas des pages consultées.
@@ -30,7 +30,7 @@ Ouvrir la source indiquée, comparer avec la réponse, corriger si besoin, compl
 
 ## Détail par carte
 
-### Notions (17)
+### Notions (43)
 
 **`not-art`** — L'art : quelles questions poser ?  
 Statut : *à vérifier* · Auteurs : Kant, Hegel, Aristote
@@ -133,6 +133,110 @@ Statut : *à vérifier* · Auteurs : Aristote, Descartes, Nietzsche, Arendt
 - Aristote, Métaphysique, Γ, 7 (1011b26-27) — *edition_savante* (non consultée)
 - Nietzsche, Über Wahrheit und Lüge im aussermoralischen Sinne — *domaine_public* (non consultée)
 
+**`n-art-sens`** — L'art : quels sont les deux sens du mot ?  
+Statut : *à vérifier*
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « art (notion du bac) », p. 33 — *secondaire* (consultée le 2026-09-29)
+
+**`n-art-technique`** — Quel rapport entre art et technique ?  
+Statut : *à vérifier* · Auteurs : Aristote
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « art (notion du bac) », p. 33 — *secondaire* (consultée le 2026-09-29)
+
+**`n-art-genie`** — Que signifie « génie » dans l'esthétique kantienne ?  
+Statut : *à vérifier* · Auteurs : Kant
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « art (notion du bac) », p. 33 — *secondaire* (consultée le 2026-09-29)
+
+**`n-art-sentiment-esthetique`** — Quel est le critère du beau dans l'esthétique de Kant ?  
+Statut : *à vérifier* · Auteurs : Kant
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « art (notion du bac) », p. 33 — *secondaire* (consultée le 2026-09-29)
+
+**`n-art-platon-aristote`** — Comment Platon et Aristote jugent-ils l'imitation en art ?  
+Statut : *à vérifier* · Auteurs : Platon, Aristote
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « art (notion du bac) », p. 34 — *secondaire* (consultée le 2026-09-29)
+
+**`n-art-gout-genie`** — Quelle différence entre le goût et le génie chez Kant ?  
+Statut : *à vérifier* · Auteurs : Kant
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « art (notion du bac) », p. 34 — *secondaire* (consultée le 2026-09-29)
+
+**`n-art-hegel-nietzsche-bergson`** — Que retiennent Hegel, Nietzsche et Bergson de l'art ?  
+Statut : *à vérifier* · Auteurs : Hegel, Nietzsche, Bergson
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « art (notion du bac) », p. 34 — *secondaire* (consultée le 2026-09-29)
+
+**`n-art-hegel-mort`** — Que signifie la « mort de l'art » chez Hegel ?  
+Statut : *à vérifier* · Auteurs : Hegel
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « art (notion du bac) », p. 35 — *secondaire* (consultée le 2026-09-29)
+
+**`n-art-nietzsche`** — Pourquoi Nietzsche refuse-t-il de chercher une rationalité dans l'art ?  
+Statut : *à vérifier* · Auteurs : Nietzsche
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « art (notion du bac) », p. 35 — *secondaire* (consultée le 2026-09-29)
+
+**`n-art-aujourdhui`** — Quels problèmes l'art moderne pose-t-il ?  
+Statut : *à vérifier* · Auteurs : Benjamin
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « art (notion du bac) », p. 35 — *secondaire* (consultée le 2026-09-29)
+
+**`n-bonh-etymologie`** — Pourquoi le bonheur pose-t-il d'emblée problème ?  
+Statut : *à vérifier*
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « bonheur (notion du bac) », p. 60 — *secondaire* (consultée le 2026-09-29)
+
+**`n-bonh-souverain-bien`** — Comment la philosophie antique conçoit-elle le bonheur ?  
+Statut : *à vérifier* · Auteurs : Aristote, Épicure
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « bonheur (notion du bac) », p. 60 — *secondaire* (consultée le 2026-09-29)
+
+**`n-bonh-aristote-epicure`** — Comment Aristote se distingue-t-il d'Épicure et des stoïciens sur le bonheur ?  
+Statut : *à vérifier* · Auteurs : Aristote, Épicure
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « bonheur (notion du bac) », p. 60 — *secondaire* (consultée le 2026-09-29)
+
+**`n-bonh-ideal-imagination`** — Pourquoi Kant dit-il que le bonheur est un idéal de l'imagination ?  
+Statut : *à vérifier* · Auteurs : Kant
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « bonheur (notion du bac) », p. 60 — *secondaire* (consultée le 2026-09-29)
+
+**`n-bonh-citations-antiques`** — Comment Épicure, Sénèque et Descartes situent-ils le plaisir et le bonheur ?  
+Statut : *à vérifier* · Auteurs : Épicure, Sénèque, Descartes
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « bonheur (notion du bac) », p. 61 — *secondaire* (consultée le 2026-09-29)
+
+**`n-bonh-schopenhauer`** — Que dit Schopenhauer du rôle de l'activité dans le bonheur ?  
+Statut : *à vérifier* · Auteurs : Schopenhauer
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « bonheur (notion du bac) », p. 61 — *secondaire* (consultée le 2026-09-29)
+
+**`n-bonh-droit`** — Que signifie le « droit au bonheur » (Saint-Just) ?  
+Statut : *à vérifier* · Auteurs : Rawls
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « bonheur (notion du bac) », p. 62 — *secondaire* (consultée le 2026-09-29)
+
+**`n-bonh-spinoza`** — Quelle conclusion le dictionnaire tire-t-il sur le bonheur ?  
+Statut : *à vérifier* · Auteurs : Spinoza
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « bonheur (notion du bac) », p. 62 — *secondaire* (consultée le 2026-09-29)
+
+**`n-cons-definition`** — Quelle différence entre conscience immédiate et conscience réfléchie ?  
+Statut : *à vérifier*
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « conscience (notion du bac) », p. 95 — *secondaire* (consultée le 2026-09-29)
+
+**`n-cons-pascal`** — Que dit Pascal du roseau pensant ?  
+Statut : *à vérifier* · Auteurs : Pascal
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « conscience (notion du bac) », p. 95 — *secondaire* (consultée le 2026-09-29)
+
+**`n-cons-descartes`** — Pourquoi la conscience devient-elle un problème philosophique chez Descartes ?  
+Statut : *à vérifier* · Auteurs : Descartes
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « conscience (notion du bac) », p. 95 — *secondaire* (consultée le 2026-09-29)
+
+**`n-cons-illusions`** — Quelles critiques adresse-t-on à la transparence de la conscience ?  
+Statut : *à vérifier* · Auteurs : Spinoza, Nietzsche, Marx, Freud
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « conscience (notion du bac) », p. 95 — *secondaire* (consultée le 2026-09-29)
+
+**`n-cons-behaviorisme`** — Que soutient le béhaviorisme sur la conscience ?  
+Statut : *à vérifier*
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « conscience (notion du bac) », p. 96-97 — *secondaire* (consultée le 2026-09-29)
+
+**`n-cons-citations`** — Que retenir des citations de Rousseau, Kant, Hegel et Bergson sur la conscience ?  
+Statut : *à vérifier* · Auteurs : Rousseau, Kant, Hegel, Bergson
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « conscience (notion du bac) », p. 96 — *secondaire* (consultée le 2026-09-29)
+
+**`n-cons-intentionnalite`** — Pourquoi Husserl dit-il que la conscience est intentionnalité ?  
+Statut : *à vérifier* · Auteurs : Husserl
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « conscience (notion du bac) », p. 97 — *secondaire* (consultée le 2026-09-29)
+
+**`n-cons-sens`** — Que devient la conscience après Husserl selon le dictionnaire ?  
+Statut : *à vérifier* · Auteurs : Husserl, Ricœur
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « conscience (notion du bac) », p. 97 — *secondaire* (consultée le 2026-09-29)
+
 ### Repères (15)
 
 **`rep-fait-droit`** — Repère : en fait / en droit  
@@ -210,7 +314,7 @@ Statut : *à vérifier*
 - Programme de philosophie des classes terminales générales et technologiques, BO spécial n° 8 du 25 juillet 2019 — *officielle* (non consultée)
 - Doute : L'énoncé exact des repères est à contrôler dans le BO (accès au texte officiel impossible pendant la rédaction).
 
-### Auteurs et œuvres (274)
+### Auteurs et œuvres (386)
 
 **`plat-caverne`** — République VII : que signifie la sortie de la caverne ?  
 Statut : *à vérifier* · Auteurs : Platon
@@ -1311,6 +1415,454 @@ Statut : *à vérifier* · Auteurs : Feuerbach, Hegel
 **`d-feue-religion`** — Comment Feuerbach explique-t-il la religion ?  
 Statut : *à vérifier* · Auteurs : Feuerbach
 - L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Feuerbach », p. 184 — *secondaire* (consultée le 2026-09-29)
+
+**`d-tocq-democratie`** — Comment Tocqueville définit-il la démocratie ?  
+Statut : *à vérifier* · Auteurs : Tocqueville
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Tocqueville », p. 497 — *secondaire* (consultée le 2026-09-29)
+
+**`d-tocq-despotisme`** — Quels périls menacent la démocratie selon Tocqueville ?  
+Statut : *à vérifier* · Auteurs : Tocqueville
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Tocqueville », p. 497 — *secondaire* (consultée le 2026-09-29)
+
+**`d-tocq-contrepoids`** — Quels contrepoids Tocqueville espère-t-il ?  
+Statut : *à vérifier* · Auteurs : Tocqueville
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Tocqueville », p. 497 — *secondaire* (consultée le 2026-09-29)
+
+**`d-mill-utilitarisme`** — En quoi l'utilitarisme de Mill diffère-t-il de celui de Bentham ?  
+Statut : *à vérifier* · Auteurs : Mill, Bentham
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Mill », p. 330 — *secondaire* (consultée le 2026-09-29)
+
+**`d-mill-liberalisme`** — Quelles œuvres de Mill marquent le libéralisme et le féminisme ?  
+Statut : *à vérifier* · Auteurs : Mill
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Mill », p. 330 — *secondaire* (consultée le 2026-09-29)
+
+**`d-kier-existence`** — Pourquoi Kierkegaard s'oppose-t-il à l'esprit de système hégélien ?  
+Statut : *à vérifier* · Auteurs : Kierkegaard, Hegel
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Kierkegaard », p. 277 — *secondaire* (consultée le 2026-09-29)
+
+**`d-kier-angoisse-desespoir`** — Angoisse et désespoir chez Kierkegaard : qu'est-ce que c'est ?  
+Statut : *à vérifier* · Auteurs : Kierkegaard
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Kierkegaard », p. 277 — *secondaire* (consultée le 2026-09-29)
+
+**`d-kier-stades`** — Quels sont les stades de l'existence chez Kierkegaard ?  
+Statut : *à vérifier* · Auteurs : Kierkegaard
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Kierkegaard », p. 277-278 — *secondaire* (consultée le 2026-09-29)
+
+**`d-kier-foi`** — Que signifie la « suspension téléologique de l'éthique dans la foi » ?  
+Statut : *à vérifier* · Auteurs : Kierkegaard
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Kierkegaard », p. 278 — *secondaire* (consultée le 2026-09-29)
+
+**`d-marx-origines`** — Aux trois traditions dont Marx est issu, laquelle s'ajoute à quelle nationalité ?  
+Statut : *à vérifier* · Auteurs : Marx
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Marx », p. 316 — *secondaire* (consultée le 2026-09-29)
+
+**`d-marx-lutte-classes`** — Que dit le Manifeste du parti communiste ?  
+Statut : *à vérifier* · Auteurs : Marx, Engels
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Marx », p. 316 — *secondaire* (consultée le 2026-09-29)
+
+**`d-marx-plus-value`** — Comment Le Capital explique-t-il l'exploitation ?  
+Statut : *à vérifier* · Auteurs : Marx
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Marx », p. 316 — *secondaire* (consultée le 2026-09-29)
+
+**`d-marx-materialisme`** — Qu'est-ce que le matérialisme historique ?  
+Statut : *à vérifier* · Auteurs : Marx
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Marx », p. 316 — *secondaire* (consultée le 2026-09-29)
+
+**`d-marx-dialectique`** — Marx est-il déterministe ? Et en quoi sa dialectique diffère-t-elle de celle de Hegel ?  
+Statut : *à vérifier* · Auteurs : Marx, Hegel
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Marx », p. 316 — *secondaire* (consultée le 2026-09-29)
+
+**`d-marx-jeune-mur`** — Y a-t-il une rupture entre le jeune Marx et le Marx du Capital ?  
+Statut : *à vérifier* · Auteurs : Marx
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Marx », p. 317 — *secondaire* (consultée le 2026-09-29)
+
+**`d-enge-dialectique-nature`** — Quelle contribution propre Engels apporte-t-il au marxisme ?  
+Statut : *à vérifier* · Auteurs : Engels
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Engels », p. 155 — *secondaire* (consultée le 2026-09-29)
+
+**`d-jame-pragmatisme`** — Que soutient James sur la vérité ?  
+Statut : *à vérifier* · Auteurs : James
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « James », p. 263 — *secondaire* (consultée le 2026-09-29)
+
+**`d-durk-fait-social`** — Qu'est-ce qu'un fait social et comment l'étudier selon Durkheim ?  
+Statut : *à vérifier* · Auteurs : Durkheim
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Durkheim », p. 141-142 — *secondaire* (consultée le 2026-09-29)
+
+**`d-durk-division-travail`** — Que soutient De la division du travail social ?  
+Statut : *à vérifier* · Auteurs : Durkheim
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Durkheim », p. 142 — *secondaire* (consultée le 2026-09-29)
+
+**`d-durk-suicide`** — Comment Durkheim explique-t-il le suicide ?  
+Statut : *à vérifier* · Auteurs : Durkheim
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Durkheim », p. 142 — *secondaire* (consultée le 2026-09-29)
+
+**`d-durk-religion`** — Quelle est l'essence de la religion selon Durkheim ?  
+Statut : *à vérifier* · Auteurs : Durkheim
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Durkheim », p. 142 — *secondaire* (consultée le 2026-09-29)
+
+**`d-huss-science-rigoureuse`** — Quel est le projet de Husserl face à la crise du début du XXe siècle ?  
+Statut : *à vérifier* · Auteurs : Husserl
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Husserl », p. 234 — *secondaire* (consultée le 2026-09-29)
+
+**`d-huss-choses-elles-memes`** — Que signifie « revenir aux choses elles-mêmes » ?  
+Statut : *à vérifier* · Auteurs : Husserl
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Husserl », p. 234 — *secondaire* (consultée le 2026-09-29)
+
+**`d-huss-eidetique`** — Que sont la variation eidétique et l'intentionnalité ?  
+Statut : *à vérifier* · Auteurs : Husserl
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Husserl », p. 234 — *secondaire* (consultée le 2026-09-29)
+
+**`d-alai-references`** — Que retient Alain de Platon, Descartes et Kant ?  
+Statut : *à vérifier* · Auteurs : Alain, Platon, Descartes, Kant
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Alain », p. 11 — *secondaire* (consultée le 2026-09-29)
+
+**`d-alai-perception`** — Pourquoi « percevoir, c'est juger » chez Alain ?  
+Statut : *à vérifier* · Auteurs : Alain
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Alain », p. 11 — *secondaire* (consultée le 2026-09-29)
+
+**`d-alai-imagination`** — Comment Alain définit-il l'imagination ?  
+Statut : *à vérifier* · Auteurs : Alain, Malebranche
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Alain », p. 11-12 — *secondaire* (consultée le 2026-09-29)
+
+**`d-maus-fait-social-total`** — Qu'est-ce qu'un « phénomène social total » (Mauss) ?  
+Statut : *à vérifier* · Auteurs : Mauss
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Mauss », p. 320-321 — *secondaire* (consultée le 2026-09-29)
+
+**`d-russ-logicisme`** — Quel est le projet logiciste de Russell ?  
+Statut : *à vérifier* · Auteurs : Russell
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Russell », p. 438 — *secondaire* (consultée le 2026-09-29)
+
+**`d-russ-atomisme`** — Qu'est-ce que l'atomisme logique ?  
+Statut : *à vérifier* · Auteurs : Russell
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Russell », p. 438 — *secondaire* (consultée le 2026-09-29)
+
+**`d-russ-verite`** — Comment Russell définit-il la vérité ?  
+Statut : *à vérifier* · Auteurs : Russell, Hume
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Russell », p. 438 — *secondaire* (consultée le 2026-09-29)
+
+**`d-jasp-existence`** — Que sont l'existence et les situations-limites chez Jaspers ?  
+Statut : *à vérifier* · Auteurs : Jaspers
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Jaspers », p. 265 — *secondaire* (consultée le 2026-09-29)
+
+**`d-jasp-verite-communication`** — Quel lien Jaspers établit-il entre vérité et communication ?  
+Statut : *à vérifier* · Auteurs : Jaspers
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Jaspers », p. 265-266 — *secondaire* (consultée le 2026-09-29)
+
+**`d-jasp-paix`** — Quelles conditions de la paix Jaspers énonce-t-il après 1945 ?  
+Statut : *à vérifier* · Auteurs : Jaspers
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Jaspers », p. 266 — *secondaire* (consultée le 2026-09-29)
+
+**`d-bach-rupture`** — Quelle idée du progrès scientifique Bachelard défend-il ?  
+Statut : *à vérifier* · Auteurs : Bachelard
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Bachelard », p. 45 — *secondaire* (consultée le 2026-09-29)
+
+**`d-bach-obstacles`** — Que sont les obstacles épistémologiques ?  
+Statut : *à vérifier* · Auteurs : Bachelard
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Bachelard », p. 45-46 — *secondaire* (consultée le 2026-09-29)
+
+**`d-bach-imagination`** — Quelle est la double face de l'œuvre de Bachelard ?  
+Statut : *à vérifier* · Auteurs : Bachelard
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Bachelard », p. 45-46 — *secondaire* (consultée le 2026-09-29)
+
+**`d-heid-dasein`** — Qu'est-ce que le Dasein dans Être et Temps ?  
+Statut : *à vérifier* · Auteurs : Heidegger
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Heidegger », p. 217-218 — *secondaire* (consultée le 2026-09-29)
+
+**`d-heid-souci`** — Comment le Dasein conquiert-il son authenticité ?  
+Statut : *à vérifier* · Auteurs : Heidegger
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Heidegger », p. 217 — *secondaire* (consultée le 2026-09-29)
+
+**`d-heid-oubli-etre`** — Que désigne le « tournant » de Heidegger et l'oubli de l'être ?  
+Statut : *à vérifier* · Auteurs : Heidegger, Platon
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Heidegger », p. 218 — *secondaire* (consultée le 2026-09-29)
+
+**`d-witt-tractatus`** — Que dit le Tractatus logico-philosophicus des propositions ?  
+Statut : *à vérifier* · Auteurs : Wittgenstein, Russell
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Wittgenstein », p. 533 — *secondaire* (consultée le 2026-09-29)
+
+**`d-witt-metaphysique`** — Wittgenstein est-il un positiviste du Cercle de Vienne ?  
+Statut : *à vérifier* · Auteurs : Wittgenstein
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Wittgenstein », p. 533-534 — *secondaire* (consultée le 2026-09-29)
+
+**`d-benj-aura`** — Que devient l'œuvre d'art à l'époque de sa reproductibilité technique ?  
+Statut : *à vérifier* · Auteurs : Benjamin
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Benjamin », p. 51 — *secondaire* (consultée le 2026-09-29)
+
+**`d-benj-critique`** — Quelle fonction Benjamin donne-t-il à la critique ?  
+Statut : *à vérifier* · Auteurs : Benjamin
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Benjamin », p. 51 — *secondaire* (consultée le 2026-09-29)
+
+**`d-popp-demarcation`** — Quel critère de démarcation Popper propose-t-il entre science et non-science ?  
+Statut : *à vérifier* · Auteurs : Popper
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Popper », p. 394-395 — *secondaire* (consultée le 2026-09-29)
+
+**`d-popp-methode`** — Quelle est la méthode scientifique selon Popper ?  
+Statut : *à vérifier* · Auteurs : Popper
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Popper », p. 395 — *secondaire* (consultée le 2026-09-29)
+
+**`d-jank-presque-rien`** — Que sont le « je-ne-sais-quoi » et le « presque-rien » chez Jankélévitch ?  
+Statut : *à vérifier* · Auteurs : Jankélévitch
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Jankélévitch », p. 264 — *secondaire* (consultée le 2026-09-29)
+
+**`d-jona-responsabilite`** — Pourquoi Jonas propose-t-il un « principe responsabilité » ?  
+Statut : *à vérifier* · Auteurs : Jonas, Kant
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Jonas », p. 267 — *secondaire* (consultée le 2026-09-29)
+
+**`d-jona-imperatif`** — Quel nouvel impératif Jonas formule-t-il ?  
+Statut : *à vérifier* · Auteurs : Jonas
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Jonas », p. 267-268 — *secondaire* (consultée le 2026-09-29)
+
+**`d-webe-neutralite`** — Qu'est-ce que la neutralité axiologique chez Weber ?  
+Statut : *à vérifier* · Auteurs : Weber
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Weber », p. 530 — *secondaire* (consultée le 2026-09-29)
+
+**`d-webe-ethique-protestante`** — Quelle thèse défend L'Éthique protestante et l'esprit du capitalisme ?  
+Statut : *à vérifier* · Auteurs : Weber
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Weber », p. 530 — *secondaire* (consultée le 2026-09-29)
+
+**`d-webe-domination`** — Quels sont les trois principes de légitimité de la domination selon Weber ?  
+Statut : *à vérifier* · Auteurs : Weber
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Weber », p. 530 — *secondaire* (consultée le 2026-09-29)
+
+**`d-webe-desenchantement`** — Que désigne le désenchantement du monde chez Weber ?  
+Statut : *à vérifier* · Auteurs : Weber
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Weber », p. 530 — *secondaire* (consultée le 2026-09-29)
+
+**`d-aron-types-ideaux`** — Comment Aron oppose-t-il démocratie et totalitarisme ?  
+Statut : *à vérifier* · Auteurs : Aron, Arendt
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Aron », p. 32-33 — *secondaire* (consultée le 2026-09-29)
+
+**`d-aron-histoire`** — Quelle conception de l'histoire défend Aron ?  
+Statut : *à vérifier* · Auteurs : Aron, Kant
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Aron », p. 32 — *secondaire* (consultée le 2026-09-29)
+
+**`d-levi-ethique`** — Pourquoi l'éthique est-elle « philosophie première » pour Levinas ?  
+Statut : *à vérifier* · Auteurs : Levinas
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Levinas », p. 292 — *secondaire* (consultée le 2026-09-29)
+
+**`d-levi-humanisme`** — En quoi consiste le « nouvel humanisme » de Levinas ?  
+Statut : *à vérifier* · Auteurs : Levinas
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Levinas », p. 292 — *secondaire* (consultée le 2026-09-29)
+
+**`d-beau-condition`** — Que signifie « on ne naît pas femme : on le devient » ?  
+Statut : *à vérifier* · Auteurs : Beauvoir
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Beauvoir », p. 50 — *secondaire* (consultée le 2026-09-29)
+
+**`d-beau-ambiguite`** — Quelle morale Beauvoir tire-t-elle de l'existentialisme ?  
+Statut : *à vérifier* · Auteurs : Beauvoir, Sartre
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Beauvoir », p. 50 — *secondaire* (consultée le 2026-09-29)
+
+**`d-levi-strauss-nature-culture`** — Pourquoi la prohibition de l'inceste est-elle centrale chez Lévi-Strauss ?  
+Statut : *à vérifier* · Auteurs : Lévi-Strauss
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Lévi-Strauss », p. 293 — *secondaire* (consultée le 2026-09-29)
+
+**`d-levi-strauss-structuralisme`** — Qu'est-ce que le structuralisme de Lévi-Strauss ?  
+Statut : *à vérifier* · Auteurs : Lévi-Strauss
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Lévi-Strauss », p. 293 — *secondaire* (consultée le 2026-09-29)
+
+**`d-levi-strauss-pensee-sauvage`** — Que montre La Pensée sauvage ?  
+Statut : *à vérifier* · Auteurs : Lévi-Strauss
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Lévi-Strauss », p. 293-294 — *secondaire* (consultée le 2026-09-29)
+
+**`d-merl-etre-au-monde`** — Que signifie « être-au-monde » chez Merleau-Ponty ?  
+Statut : *à vérifier* · Auteurs : Merleau-Ponty
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Merleau-Ponty », p. 325-326 — *secondaire* (consultée le 2026-09-29)
+
+**`d-merl-corps-propre`** — Qu'est-ce que le corps propre ?  
+Statut : *à vérifier* · Auteurs : Merleau-Ponty
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Merleau-Ponty », p. 326 — *secondaire* (consultée le 2026-09-29)
+
+**`d-merl-intermonde`** — Qu'est-ce que l'intermonde chez Merleau-Ponty ?  
+Statut : *à vérifier* · Auteurs : Merleau-Ponty
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Merleau-Ponty », p. 326 — *secondaire* (consultée le 2026-09-29)
+
+**`d-weil-travail-libre`** — Quand le travail est-il libre selon Simone Weil ?  
+Statut : *à vérifier* · Auteurs : Weil
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Weil (Simone) », p. 532 — *secondaire* (consultée le 2026-09-29)
+
+**`d-weil-obligation`** — Pourquoi Simone Weil préfère-t-elle l'obligation aux droits ?  
+Statut : *à vérifier* · Auteurs : Weil
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Weil (Simone) », p. 532 — *secondaire* (consultée le 2026-09-29)
+
+**`d-weil-attention`** — Qu'est-ce que l'« attention pure » chez Simone Weil ?  
+Statut : *à vérifier* · Auteurs : Weil
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Weil (Simone) », p. 532 — *secondaire* (consultée le 2026-09-29)
+
+**`d-hers-liberte`** — Quelle est la conviction centrale de Jeanne Hersch ?  
+Statut : *à vérifier* · Auteurs : Hersch, Jaspers
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Hersch », p. 221-222 — *secondaire* (consultée le 2026-09-29)
+
+**`d-hers-droits`** — Que montre Le Droit d'être un homme (1968) ?  
+Statut : *à vérifier* · Auteurs : Hersch
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Hersch », p. 222 — *secondaire* (consultée le 2026-09-29)
+
+**`d-rico-hermeneutique`** — Que signifie « le symbole donne à penser » (Ricœur) ?  
+Statut : *à vérifier* · Auteurs : Ricœur
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Ricœur », p. 434 — *secondaire* (consultée le 2026-09-29)
+
+**`d-rico-identite-narrative`** — Qu'est-ce que l'identité narrative ?  
+Statut : *à vérifier* · Auteurs : Ricœur
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Ricœur », p. 434-435 — *secondaire* (consultée le 2026-09-29)
+
+**`d-rico-ethique`** — Quels sont les trois moments de l'agir éthique selon Ricœur ?  
+Statut : *à vérifier* · Auteurs : Ricœur
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Ricœur », p. 435 — *secondaire* (consultée le 2026-09-29)
+
+**`d-fouc-folie`** — Que montre l'Histoire de la folie à l'âge classique ?  
+Statut : *à vérifier* · Auteurs : Foucault
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Foucault », p. 193 — *secondaire* (consultée le 2026-09-29)
+
+**`d-fouc-episteme`** — Qu'est-ce que l'épistémè et la « mort de l'homme » dans Les Mots et les Choses ?  
+Statut : *à vérifier* · Auteurs : Foucault
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Foucault », p. 193 — *secondaire* (consultée le 2026-09-29)
+
+**`d-fouc-prison`** — Que soutient Surveiller et Punir ?  
+Statut : *à vérifier* · Auteurs : Foucault
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Foucault », p. 193 — *secondaire* (consultée le 2026-09-29)
+
+**`d-fouc-sexualite`** — Où mène l'Histoire de la sexualité pour Foucault ?  
+Statut : *à vérifier* · Auteurs : Foucault
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Foucault », p. 193 — *secondaire* (consultée le 2026-09-29)
+
+**`d-putn-cuve`** — Que répond Putnam à l'expérience des « cerveaux dans une cuve » ?  
+Statut : *à vérifier* · Auteurs : Putnam
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Putnam », p. 413 — *secondaire* (consultée le 2026-09-29)
+
+**`d-putn-fonctionnalisme`** — Qu'est-ce que le fonctionnalisme de Putnam ?  
+Statut : *à vérifier* · Auteurs : Putnam, Descartes
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Putnam », p. 413 — *secondaire* (consultée le 2026-09-29)
+
+**`d-rawl-voile`** — Qu'est-ce que le voile d'ignorance chez Rawls ?  
+Statut : *à vérifier* · Auteurs : Rawls
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Rawls », p. 421 — *secondaire* (consultée le 2026-09-29)
+
+**`d-rawl-principes`** — Quels sont les deux principes de justice de Rawls ?  
+Statut : *à vérifier* · Auteurs : Rawls
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Rawls », p. 421 — *secondaire* (consultée le 2026-09-29)
+
+**`d-rawl-critiques`** — Quelles critiques a-t-on adressées à Rawls ?  
+Statut : *à vérifier* · Auteurs : Rawls, Kant
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Rawls », p. 421-422 — *secondaire* (consultée le 2026-09-29)
+
+**`d-augu-conversion`** — Comment Augustin comprend-il la conversion ?  
+Statut : *à vérifier* · Auteurs : Augustin
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Augustin », p. 38 — *secondaire* (consultée le 2026-09-29)
+
+**`d-augu-temps`** — En quoi la conception augustinienne du temps diffère-t-elle de celle de Platon ?  
+Statut : *à vérifier* · Auteurs : Augustin, Platon
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Augustin », p. 38-39 — *secondaire* (consultée le 2026-09-29)
+
+**`d-augu-foi-raison`** — Comment Augustin articule-t-il foi, autorité et raison ?  
+Statut : *à vérifier* · Auteurs : Augustin
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Augustin », p. 39 — *secondaire* (consultée le 2026-09-29)
+
+**`d-augu-deux-cites`** — Quelles sont les deux cités d'Augustin ?  
+Statut : *à vérifier* · Auteurs : Augustin
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Augustin », p. 39 — *secondaire* (consultée le 2026-09-29)
+
+**`d-avic-transmission`** — Pourquoi Avicenne est-il important pour l'Occident ?  
+Statut : *à vérifier* · Auteurs : Avicenne, Aristote
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Avicenne », p. 42 — *secondaire* (consultée le 2026-09-29)
+
+**`d-aver-accord`** — Quel accord Averroès cherche-t-il entre philosophie et religion ?  
+Statut : *à vérifier* · Auteurs : Averroès, Aristote
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Averroès », p. 42 — *secondaire* (consultée le 2026-09-29)
+
+**`d-aver-intellect`** — Quelle thèse d'Averroès sur l'intellect a été combattue au Moyen Âge ?  
+Statut : *à vérifier* · Auteurs : Averroès, Thomas d’Aquin
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Averroès », p. 42 — *secondaire* (consultée le 2026-09-29)
+
+**`d-ansel-ontologique`** — Quel est l'argument de Saint Anselme sur l'existence de Dieu ?  
+Statut : *à vérifier* · Auteurs : Anselme, Kant, Descartes
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Anselme », p. 22 — *secondaire* (consultée le 2026-09-29)
+
+**`d-ansel-foi`** — Que signifie « la foi en quête d'intelligence » ?  
+Statut : *à vérifier* · Auteurs : Anselme
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Anselme », p. 22 — *secondaire* (consultée le 2026-09-29)
+
+**`d-maim-guide`** — Quel est le but du Guide des égarés de Maïmonide ?  
+Statut : *à vérifier* · Auteurs : Maïmonide
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Maïmonide », p. 310 — *secondaire* (consultée le 2026-09-29)
+
+**`d-ockh-universaux`** — Que défend Ockham dans la querelle des universaux ?  
+Statut : *à vérifier* · Auteurs : Ockham
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Ockham », p. 363 — *secondaire* (consultée le 2026-09-29)
+
+**`d-ockh-rasoir`** — Qu'est-ce que le rasoir d'Ockham ?  
+Statut : *à vérifier* · Auteurs : Ockham
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Ockham », p. 363 — *secondaire* (consultée le 2026-09-29)
+
+**`d-ockh-politique`** — Quelles conséquences politiques Ockham tire-t-il de la contingence de l'ordre du monde ?  
+Statut : *à vérifier* · Auteurs : Ockham
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Ockham », p. 363-364 — *secondaire* (consultée le 2026-09-29)
+
+**`d-thom-foi-raison`** — Quelle position Thomas d'Aquin adopte-t-il face à Aristote redécouvert ?  
+Statut : *à vérifier* · Auteurs : Thomas d’Aquin, Aristote, Averroès
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Thomas d’Aquin », p. 495 — *secondaire* (consultée le 2026-09-29)
+
+**`d-thom-creation-liberte`** — Que réaffirme Thomas d'Aquin contre Averroès ?  
+Statut : *à vérifier* · Auteurs : Thomas d’Aquin, Averroès
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Thomas d’Aquin », p. 495 — *secondaire* (consultée le 2026-09-29)
+
+**`d-thom-prudence`** — Que devient la sagesse morale chez Thomas d'Aquin ?  
+Statut : *à vérifier* · Auteurs : Thomas d’Aquin
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Thomas d’Aquin », p. 495 — *secondaire* (consultée le 2026-09-29)
+
+**`d-sene-nature-fortune`** — Quelle originalité présente le stoïcisme de Sénèque ?  
+Statut : *à vérifier* · Auteurs : Sénèque
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Sénèque », p. 455 — *secondaire* (consultée le 2026-09-29)
+
+**`d-sene-presente`** — Où Sénèque cherche-t-il le Souverain Bien ?  
+Statut : *à vérifier* · Auteurs : Sénèque
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Sénèque », p. 456 — *secondaire* (consultée le 2026-09-29)
+
+**`d-sene-universalite`** — Quelle idée Sénèque promeut-il sur la condition humaine ?  
+Statut : *à vérifier* · Auteurs : Sénèque
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Sénèque », p. 456 — *secondaire* (consultée le 2026-09-29)
+
+**`d-nagar-vacuite`** — Qu'est-ce que la vacuité (Nâgârjuna) ?  
+Statut : *à vérifier* · Auteurs : Nâgârjuna
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Nâgârjuna », p. 347 — *secondaire* (consultée le 2026-09-29)
+
+**`d-nagar-jugement`** — Pourquoi Nâgârjuna s'exprime-t-il par paradoxes ?  
+Statut : *à vérifier* · Auteurs : Nâgârjuna
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Nâgârjuna », p. 347 — *secondaire* (consultée le 2026-09-29)
+
+**`d-sext-scepticisme`** — Qu'est-ce que le scepticisme pyrrhonien selon Sextus Empiricus ?  
+Statut : *à vérifier* · Auteurs : Sextus Empiricus
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Sextus Empiricus », p. 461 — *secondaire* (consultée le 2026-09-29)
+
+**`d-sext-ataraxie`** — Comment vit le sceptique et où trouve-t-il l'ataraxie ?  
+Statut : *à vérifier* · Auteurs : Sextus Empiricus, Montaigne
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Sextus Empiricus », p. 461 — *secondaire* (consultée le 2026-09-29)
+
+**`d-zhua-tao`** — Qu'est-ce que le Tao chez Zhuangzi ?  
+Statut : *à vérifier* · Auteurs : Zhuangzi
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Zhuangzi », p. 538-539 — *secondaire* (consultée le 2026-09-29)
+
+**`d-zhua-opposition`** — Que signifie le dépassement des oppositions chez Zhuangzi ?  
+Statut : *à vérifier* · Auteurs : Zhuangzi
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Zhuangzi », p. 539 — *secondaire* (consultée le 2026-09-29)
+
+**`d-zhua-non-agir`** — Qu'est-ce que le non-agir taoïste ?  
+Statut : *à vérifier* · Auteurs : Zhuangzi
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Zhuangzi », p. 539 — *secondaire* (consultée le 2026-09-29)
+
+**`d-pres-naissance`** — Qu'ont de nouveau les présocratiques ?  
+Statut : *à vérifier* · Auteurs : présocratiques
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « présocratiques », p. 401-402 — *secondaire* (consultée le 2026-09-29)
+
+**`d-pres-succession`** — Quelle est la succession retenue des présocratiques ?  
+Statut : *à vérifier* · Auteurs : présocratiques
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « présocratiques », p. 401 — *secondaire* (consultée le 2026-09-29)
+
+**`d-pres-xenophane`** — Que critique Xénophane ?  
+Statut : *à vérifier* · Auteurs : présocratiques
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « présocratiques », p. 402 — *secondaire* (consultée le 2026-09-29)
+
+**`d-zeno-paradoxes`** — Que sont les paradoxes de Zénon d'Élée et où est la faille selon Aristote ?  
+Statut : *à vérifier* · Auteurs : présocratiques, Aristote
+- L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Zénon (d’Élée) », p. 538 — *secondaire* (consultée le 2026-09-29)
 
 ### Citations (8)
 

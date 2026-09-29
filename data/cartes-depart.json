@@ -9529,6 +9529,3926 @@
    "image_mentale": "",
    "cree_par": "seed",
    "rev": 1
+  },
+  {
+   "id": "d-tocq-democratie",
+   "type": "auteur_oeuvre",
+   "question": "Comment Tocqueville définit-il la démocratie ?",
+   "reponse": "Comme un système social (égalité comme valeur essentielle, participation de tous, mobilité sociale) doublé d'une mentalité individualiste : croyance en l'égalité intellectuelle et passion de la sécurité et du bien-être, au revers égoïste.",
+   "notions": [
+    "l'État",
+    "la justice",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Tocqueville"
+   ],
+   "oeuvre": "De la démocratie en Amérique",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Tocqueville », p. 497",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-tocq-despotisme",
+   "type": "auteur_oeuvre",
+   "question": "Quels périls menacent la démocratie selon Tocqueville ?",
+   "reponse": "La « tyrannie de la majorité » (l'avis majoritaire devient norme intériorisée, d'où conformisme) et un État tutélaire, nouveau despotisme « doux » et « bienveillant », issu de l'atomisation de la société.",
+   "notions": [
+    "l'État",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Tocqueville"
+   ],
+   "oeuvre": "De la démocratie en Amérique",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Tocqueville », p. 497",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-tocq-contrepoids",
+   "type": "auteur_oeuvre",
+   "question": "Quels contrepoids Tocqueville espère-t-il ?",
+   "reponse": "La démocratie politique (institutions représentatives, séparation des pouvoirs, pluralisme), surtout la liberté d'association et les pouvoirs intermédiaires, qui donnent une éducation civique, et la presse libre.",
+   "notions": [
+    "l'État",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Tocqueville"
+   ],
+   "oeuvre": "De la démocratie en Amérique",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Tocqueville », p. 497",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-mill-utilitarisme",
+   "type": "auteur_oeuvre",
+   "question": "En quoi l'utilitarisme de Mill diffère-t-il de celui de Bentham ?",
+   "reponse": "1. Qualité des plaisirs (les plaisirs de l'esprit valent mieux que les charnels), non seulement quantité. 2. Tant que bonheur privé et bien public divergent, le sacrifice de l'individu est la plus haute vertu : utilitarisme altruiste.",
+   "notions": [
+    "le bonheur",
+    "le devoir",
+    "la justice"
+   ],
+   "auteurs": [
+    "Mill",
+    "Bentham"
+   ],
+   "oeuvre": "L'Utilitarisme",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Mill », p. 330",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-mill-liberalisme",
+   "type": "auteur_oeuvre",
+   "question": "Quelles œuvres de Mill marquent le libéralisme et le féminisme ?",
+   "reponse": "De la liberté (1859), Le Gouvernement représentatif (1861), De l'assujettissement des femmes (1869) : socialiste libéral, il s'engage pour les droits des femmes, notamment le droit de vote.",
+   "notions": [
+    "la liberté",
+    "l'État",
+    "la justice"
+   ],
+   "auteurs": [
+    "Mill"
+   ],
+   "oeuvre": "De la liberté",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Mill », p. 330",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-kier-existence",
+   "type": "auteur_oeuvre",
+   "question": "Pourquoi Kierkegaard s'oppose-t-il à l'esprit de système hégélien ?",
+   "reponse": "Le système abstrait et universalisant délaisse l'existant singulier, sa situation concrète et ses responsabilités. Il regarde tout sous l'espèce de l'éternité et rend l'existence du penseur extérieure à sa pensée.",
+   "notions": [
+    "la conscience",
+    "le temps",
+    "la vérité"
+   ],
+   "auteurs": [
+    "Kierkegaard",
+    "Hegel"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Kierkegaard », p. 277",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-kier-angoisse-desespoir",
+   "type": "auteur_oeuvre",
+   "question": "Angoisse et désespoir chez Kierkegaard : qu'est-ce que c'est ?",
+   "reponse": "L'angoisse : l'état d'un être condamné à choisir sans savoir que choisir, faute de réponses humaines. Le désespoir : impossibilité d'être soi et de ne pas l'être, née de la distance entre soi et soi. Ils sont appel de l'absolu.",
+   "notions": [
+    "la conscience",
+    "le bonheur"
+   ],
+   "auteurs": [
+    "Kierkegaard"
+   ],
+   "oeuvre": "Le Concept d’angoisse",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Kierkegaard », p. 277",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-kier-stades",
+   "type": "auteur_oeuvre",
+   "question": "Quels sont les stades de l'existence chez Kierkegaard ?",
+   "reponse": "Esthétique (jouissance dans l'instant, Don Juan), éthique (choix durable dans le temps, mariage), religieux (relation à l'éternité, saut dans la foi). L'ironie et l'humour sont des stades intermédiaires.",
+   "notions": [
+    "le temps",
+    "le devoir",
+    "la religion"
+   ],
+   "auteurs": [
+    "Kierkegaard"
+   ],
+   "oeuvre": "Étapes sur le chemin de la vie",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Kierkegaard », p. 277-278",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-kier-foi",
+   "type": "auteur_oeuvre",
+   "question": "Que signifie la « suspension téléologique de l'éthique dans la foi » ?",
+   "reponse": "Le stade religieux exige un saut : comme Abraham, qui garde ses rôles mais les soumet aux décrets divins. Il est un rapport singulier au divin, injustifiable au regard de l'éthique, qui permet pourtant de vivre l'éthique pleinement.",
+   "notions": [
+    "la religion",
+    "le devoir"
+   ],
+   "auteurs": [
+    "Kierkegaard"
+   ],
+   "oeuvre": "Crainte et Tremblement",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Kierkegaard », p. 278",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-marx-origines",
+   "type": "auteur_oeuvre",
+   "question": "Aux trois traditions dont Marx est issu, laquelle s'ajoute à quelle nationalité ?",
+   "reponse": "Socialisme français, économie anglaise (Smith, Ricardo), philosophie allemande (Feuerbach, Hegel).",
+   "notions": [
+    "le travail"
+   ],
+   "auteurs": [
+    "Marx"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Marx », p. 316",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-marx-lutte-classes",
+   "type": "auteur_oeuvre",
+   "question": "Que dit le Manifeste du parti communiste ?",
+   "reponse": "Écrit avec Engels : nécessité historique de la révolution communiste à partir de la lutte des classes, antagonisme moderne bourgeoisie/prolétariat, dont la victoire abolira la propriété privée bourgeoise et l'exploitation du travail.",
+   "notions": [
+    "l'État",
+    "le travail",
+    "la justice"
+   ],
+   "auteurs": [
+    "Marx",
+    "Engels"
+   ],
+   "oeuvre": "Manifeste du parti communiste",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Marx », p. 316",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-marx-plus-value",
+   "type": "auteur_oeuvre",
+   "question": "Comment Le Capital explique-t-il l'exploitation ?",
+   "reponse": "Pour que le capitaliste réalise son profit, une partie de la force de travail dépensée par l'ouvrier n'est pas rémunérée : c'est le surtravail (plus-value). Il y a exploitation parce qu'il y a extorsion de surtravail.",
+   "notions": [
+    "le travail",
+    "la justice"
+   ],
+   "auteurs": [
+    "Marx"
+   ],
+   "oeuvre": "Le Capital",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Marx », p. 316",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-marx-materialisme",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce que le matérialisme historique ?",
+   "reponse": "Les forces motrices de l'histoire résident dans l'organisation matérielle des sociétés (modes de production), non dans les idées, qui relèvent de l'idéologie : « ce n'est pas la conscience qui détermine l'existence, mais l'existence sociale qui détermine la conscience ».",
+   "notions": [
+    "le temps",
+    "la conscience",
+    "la vérité"
+   ],
+   "auteurs": [
+    "Marx"
+   ],
+   "oeuvre": "L'Idéologie allemande",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Marx », p. 316",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-marx-dialectique",
+   "type": "auteur_oeuvre",
+   "question": "Marx est-il déterministe ? Et en quoi sa dialectique diffère-t-elle de celle de Hegel ?",
+   "reponse": "Les écrits politiques sont volontaristes, d'autres textes déterministes (succession esclavagisme, féodalisme, bourgeoisie, communisme). Hegel situe la dialectique dans les idées ; Marx dans les contradictions entre forces productives et rapports sociaux.",
+   "notions": [
+    "le temps",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Marx",
+    "Hegel"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Marx », p. 316",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-marx-jeune-mur",
+   "type": "auteur_oeuvre",
+   "question": "Y a-t-il une rupture entre le jeune Marx et le Marx du Capital ?",
+   "reponse": "Avant 1846 : philosophie de l'« homme total » et critique de l'aliénation (religion, État). Ensuite : analyse économique de l'exploitation. La rupture ne doit pas être exagérée, car l'aliénation dépend de conditions sociales que Le Capital analyse.",
+   "notions": [
+    "le travail",
+    "la religion"
+   ],
+   "auteurs": [
+    "Marx"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Marx », p. 317",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-enge-dialectique-nature",
+   "type": "auteur_oeuvre",
+   "question": "Quelle contribution propre Engels apporte-t-il au marxisme ?",
+   "reponse": "Il confronte le marxisme aux sciences sociales, historiques et naturelles (Dialectique de la nature, Anti-Dühring) : le matérialisme dialectique comme synthèse du savoir, ce qui a servi la vulgate stalinienne.",
+   "notions": [
+    "la science",
+    "la nature"
+   ],
+   "auteurs": [
+    "Engels"
+   ],
+   "oeuvre": "Dialectique de la nature",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Engels », p. 155",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-jame-pragmatisme",
+   "type": "auteur_oeuvre",
+   "question": "Que soutient James sur la vérité ?",
+   "reponse": "Pragmatisme : la vérité est indissociable de l'expérience, relative aux procédures de vérification, à la communauté, au contexte ; un événement plutôt qu'une propriété inhérente. Formule : le vrai est ce qui est avantageux pour la pensée.",
+   "notions": [
+    "la vérité"
+   ],
+   "auteurs": [
+    "James"
+   ],
+   "oeuvre": "Le Pragmatisme",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « James », p. 263",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-durk-fait-social",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce qu'un fait social et comment l'étudier selon Durkheim ?",
+   "reponse": "Ce qui « exerce une contrainte sur l'individu » ; il faut le traiter comme une chose, c'est-à-dire l'observer de l'extérieur, sans illusion de compréhension immédiate, avec une méthode proche des sciences exactes.",
+   "notions": [
+    "la science",
+    "la nature"
+   ],
+   "auteurs": [
+    "Durkheim"
+   ],
+   "oeuvre": "Les Règles de la méthode sociologique",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Durkheim », p. 141-142",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-durk-division-travail",
+   "type": "auteur_oeuvre",
+   "question": "Que soutient De la division du travail social ?",
+   "reponse": "Le volume et la densité de la population expliquent la différenciation sociale croissante et la prépondérance de la « solidarité organique ».",
+   "notions": [
+    "le travail",
+    "l'État"
+   ],
+   "auteurs": [
+    "Durkheim"
+   ],
+   "oeuvre": "De la division du travail social",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Durkheim », p. 142",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-durk-suicide",
+   "type": "auteur_oeuvre",
+   "question": "Comment Durkheim explique-t-il le suicide ?",
+   "reponse": "Par des « courants suicidogènes », tendances sociales au suicide qui s'incarnent dans des individus : explication strictement sociologique.",
+   "notions": [
+    "la science"
+   ],
+   "auteurs": [
+    "Durkheim"
+   ],
+   "oeuvre": "Le Suicide",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Durkheim », p. 142",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-durk-religion",
+   "type": "auteur_oeuvre",
+   "question": "Quelle est l'essence de la religion selon Durkheim ?",
+   "reponse": "La division du monde entre sacré et profane ; c'est la société elle-même, réalité qui nous dépasse, qui est l'objet du culte. La religion témoigne de la transcendance de la conscience collective sur les consciences individuelles.",
+   "notions": [
+    "la religion"
+   ],
+   "auteurs": [
+    "Durkheim"
+   ],
+   "oeuvre": "Les Formes élémentaires de la vie religieuse",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Durkheim », p. 142",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-huss-science-rigoureuse",
+   "type": "auteur_oeuvre",
+   "question": "Quel est le projet de Husserl face à la crise du début du XXe siècle ?",
+   "reponse": "Instituer la philosophie comme science rigoureuse contre le psychologisme (les lois logiques réduites aux lois psychologiques), le positivisme et le relativisme, en réhabilitant le vécu et le concret sans renoncer à la rigueur.",
+   "notions": [
+    "la science",
+    "la vérité",
+    "la raison"
+   ],
+   "auteurs": [
+    "Husserl"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Husserl », p. 234",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-huss-choses-elles-memes",
+   "type": "auteur_oeuvre",
+   "question": "Que signifie « revenir aux choses elles-mêmes » ?",
+   "reponse": "Décrire, avant toute explication, comment quelque chose se donne à une conscience, comme phénomène. Les phénomènes ne sont pas de simples apparences : la phénoménologie est une description des essences.",
+   "notions": [
+    "la conscience",
+    "la vérité"
+   ],
+   "auteurs": [
+    "Husserl"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Husserl », p. 234",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-huss-eidetique",
+   "type": "auteur_oeuvre",
+   "question": "Que sont la variation eidétique et l'intentionnalité ?",
+   "reponse": "Variation eidétique : faire varier imaginairement les prises de vue pour dégager l'invariant (l'essence). Intentionnalité : corrélation entre l'acte de conscience (noèse) et l'objet visé (noème) ; l'essence n'est pas séparable de l'acte qui la vise.",
+   "notions": [
+    "la conscience",
+    "la vérité"
+   ],
+   "auteurs": [
+    "Husserl"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Husserl », p. 234",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-alai-references",
+   "type": "auteur_oeuvre",
+   "question": "Que retient Alain de Platon, Descartes et Kant ?",
+   "reponse": "De Platon : la philosophie dépasse l'opinion, même vraie. De Descartes : le doute contre la crédulité, la volonté, la conscience comme fondement (d'où son refus de l'inconscient freudien, « fantôme mythologique »). De Kant : la critique de la connaissance et la morale du devoir.",
+   "notions": [
+    "la conscience",
+    "l'inconscient",
+    "le devoir"
+   ],
+   "auteurs": [
+    "Alain",
+    "Platon",
+    "Descartes",
+    "Kant"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Alain », p. 11",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-alai-perception",
+   "type": "auteur_oeuvre",
+   "question": "Pourquoi « percevoir, c'est juger » chez Alain ?",
+   "reponse": "Devant un dé, on ne touche que des arêtes et des faces ; c'est le jugement qui les réunit en un cube. La perception est déjà une fonction d'entendement : les apparences ne trompent pas en elles-mêmes (le bâton brisé se juge par les lois optiques).",
+   "notions": [
+    "la vérité",
+    "la science"
+   ],
+   "auteurs": [
+    "Alain"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Alain », p. 11",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-alai-imagination",
+   "type": "auteur_oeuvre",
+   "question": "Comment Alain définit-il l'imagination ?",
+   "reponse": "Comme une perception fausse : sauf l'imagination créatrice qui produit l'œuvre d'art, elle est « une folle » (Malebranche), qui ne produit pas des images mais de l'imaginaire, et déchaîne les passions.",
+   "notions": [
+    "l'art",
+    "la raison"
+   ],
+   "auteurs": [
+    "Alain",
+    "Malebranche"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Alain », p. 11-12",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-maus-fait-social-total",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce qu'un « phénomène social total » (Mauss) ?",
+   "reponse": "Un fait qu'on ne peut isoler de ses aspects biologique, psychologique, social : dans l'Essai sur le don (potlatch), l'échange économique est indissociable de ses dimensions juridique (donner, recevoir, rendre), politique et religieuse.",
+   "notions": [
+    "le travail",
+    "la religion",
+    "la justice"
+   ],
+   "auteurs": [
+    "Mauss"
+   ],
+   "oeuvre": "Essai sur le don",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Mauss », p. 320-321",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-russ-logicisme",
+   "type": "auteur_oeuvre",
+   "question": "Quel est le projet logiciste de Russell ?",
+   "reponse": "Avec Whitehead, réduire les mathématiques (surtout l'arithmétique) à des principes logiques fondamentaux, les énoncés mathématiques étant de pures tautologies.",
+   "notions": [
+    "la science",
+    "la raison"
+   ],
+   "auteurs": [
+    "Russell"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Russell », p. 438",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-russ-atomisme",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce que l'atomisme logique ?",
+   "reponse": "Contre l'idéalisme totalisant, les faits sont indépendants les uns des autres ; tout complexe est composé de choses simples, chaque fait étant représenté par une proposition atomique, les propositions complexes n'en étant que des combinaisons.",
+   "notions": [
+    "le langage",
+    "la vérité"
+   ],
+   "auteurs": [
+    "Russell"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Russell », p. 438",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-russ-verite",
+   "type": "auteur_oeuvre",
+   "question": "Comment Russell définit-il la vérité ?",
+   "reponse": "Comme correspondance entre une croyance et un fait qui la vérifie, contre la cohérence de l'idéalisme. Problème de l'inférence non déductive (Hume) : il faut hiérarchiser les croyances selon leur degré de certitude.",
+   "notions": [
+    "la vérité",
+    "la science"
+   ],
+   "auteurs": [
+    "Russell",
+    "Hume"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Russell », p. 438",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-jasp-existence",
+   "type": "auteur_oeuvre",
+   "question": "Que sont l'existence et les situations-limites chez Jaspers ?",
+   "reponse": "L'existence est « une qualité possible » que la vie peut acquérir : elle ne se décrit pas, mais s'éclaire. La liberté existentielle reste bornée par les situations-limites (naissance, mort, souffrance).",
+   "notions": [
+    "la liberté",
+    "la conscience"
+   ],
+   "auteurs": [
+    "Jaspers"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Jaspers », p. 265",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-jasp-verite-communication",
+   "type": "auteur_oeuvre",
+   "question": "Quel lien Jaspers établit-il entre vérité et communication ?",
+   "reponse": "La vérité absolue est inaccessible ; ses modes (« englobant ») sont pluriels. Son principe est la communication illimitée : la raison instaure le dialogue de toutes les pensées et traditions.",
+   "notions": [
+    "la vérité",
+    "la raison",
+    "le langage"
+   ],
+   "auteurs": [
+    "Jaspers"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Jaspers », p. 265-266",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-jasp-paix",
+   "type": "auteur_oeuvre",
+   "question": "Quelles conditions de la paix Jaspers énonce-t-il après 1945 ?",
+   "reponse": "Une conversion éthique (pas de paix extérieure sans paix intérieure) et un droit international : respect des traités, renoncement à la souveraineté absolue des États, protection des droits de l'homme par une autorité supranationale.",
+   "notions": [
+    "l'État",
+    "la justice"
+   ],
+   "auteurs": [
+    "Jaspers"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Jaspers », p. 266",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-bach-rupture",
+   "type": "auteur_oeuvre",
+   "question": "Quelle idée du progrès scientifique Bachelard défend-il ?",
+   "reponse": "Les acquis se font par ruptures, de façon discontinue (crises de la relativité, du déterminisme, des ensembles) : la raison, ouverte à l'avenir, remet en question ses principes (Le Nouvel Esprit scientifique).",
+   "notions": [
+    "la science",
+    "la raison",
+    "le temps"
+   ],
+   "auteurs": [
+    "Bachelard"
+   ],
+   "oeuvre": "Le Nouvel Esprit scientifique",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Bachelard », p. 45",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-bach-obstacles",
+   "type": "auteur_oeuvre",
+   "question": "Que sont les obstacles épistémologiques ?",
+   "reponse": "Des obstacles intérieurs à la pensée, dans les profondeurs inconscientes et culturelles du psychisme (La Formation de l'esprit scientifique). Il faut désapprendre le mécanisme, la science-spectacle, la réduction au simple.",
+   "notions": [
+    "la science",
+    "l'inconscient"
+   ],
+   "auteurs": [
+    "Bachelard"
+   ],
+   "oeuvre": "La Formation de l'esprit scientifique",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Bachelard », p. 45-46",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-bach-imagination",
+   "type": "auteur_oeuvre",
+   "question": "Quelle est la double face de l'œuvre de Bachelard ?",
+   "reponse": "Science (philosophie du non, surrationalisme) et poésie : il réhabilite l'imagination créatrice, « toute en avenir », par la psychanalyse des images. Les deux sont unies par le refus du dogmatisme. (Il a enseigné à l'université de Dijon de 1930 à 1940.)",
+   "notions": [
+    "l'art",
+    "la science",
+    "la raison"
+   ],
+   "auteurs": [
+    "Bachelard"
+   ],
+   "oeuvre": "La Psychanalyse du feu",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Bachelard », p. 45-46",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-heid-dasein",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce que le Dasein dans Être et Temps ?",
+   "reponse": "L'étant qui peut questionner l'être ; son essence réside dans son existence : être-au-monde, être-avec, être-vers-la-mort, soumis au « On » de l'opinion dominante. Le Da est le lieu d'ouverture à l'être.",
+   "notions": [
+    "la conscience",
+    "le temps"
+   ],
+   "auteurs": [
+    "Heidegger"
+   ],
+   "oeuvre": "Être et Temps",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Heidegger », p. 217-218",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-heid-souci",
+   "type": "auteur_oeuvre",
+   "question": "Comment le Dasein conquiert-il son authenticité ?",
+   "reponse": "L'angoisse d'être jeté dans le monde et fini peut l'arracher à sa perte dans le On. Le Souci, structure ontologique du Dasein, exprime sa temporalité et lui permet d'être responsable de son existence.",
+   "notions": [
+    "la liberté",
+    "le temps"
+   ],
+   "auteurs": [
+    "Heidegger"
+   ],
+   "oeuvre": "Être et Temps",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Heidegger », p. 217",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-heid-oubli-etre",
+   "type": "auteur_oeuvre",
+   "question": "Que désigne le « tournant » de Heidegger et l'oubli de l'être ?",
+   "reponse": "Vers le milieu des années 1930, la primauté passe du sens de l'être à la vérité de l'être. Depuis Platon, la métaphysique cherche l'essence des étants dans d'autres étants (Idées) : elle débouche sur l'oubli de l'être, le nihilisme.",
+   "notions": [
+    "la vérité",
+    "la technique"
+   ],
+   "auteurs": [
+    "Heidegger",
+    "Platon"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Heidegger », p. 218",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-witt-tractatus",
+   "type": "auteur_oeuvre",
+   "question": "Que dit le Tractatus logico-philosophicus des propositions ?",
+   "reponse": "Soit tautologies (vraies mais vides de sens), soit propositions informatives analysables en propositions atomiques représentant des états de choses. Une proposition sensée partage une forme logique avec le fait : elle est vérifiable, vraie ou fausse.",
+   "notions": [
+    "le langage",
+    "la vérité"
+   ],
+   "auteurs": [
+    "Wittgenstein",
+    "Russell"
+   ],
+   "oeuvre": "Tractatus logico-philosophicus",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Wittgenstein », p. 533",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-witt-metaphysique",
+   "type": "auteur_oeuvre",
+   "question": "Wittgenstein est-il un positiviste du Cercle de Vienne ?",
+   "reponse": "C'est en grande partie un malentendu : le Tractatus ne vise pas à disqualifier la métaphysique mais à montrer, de façon mystique, l'importance de l'indicible. La philosophie est élucidation du langage et de la pensée, non une science.",
+   "notions": [
+    "le langage",
+    "la science"
+   ],
+   "auteurs": [
+    "Wittgenstein"
+   ],
+   "oeuvre": "Tractatus logico-philosophicus",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Wittgenstein », p. 533-534",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-benj-aura",
+   "type": "auteur_oeuvre",
+   "question": "Que devient l'œuvre d'art à l'époque de sa reproductibilité technique ?",
+   "reponse": "Photographies, disques, films marquent une mutation : l'œuvre perd son unicité et son aura, cette magie héritée des origines rituelles. Benjamin salue le cinéma comme l'art moderne par excellence, exutoire cathartique aux traumatismes du capitalisme.",
+   "notions": [
+    "l'art",
+    "la technique"
+   ],
+   "auteurs": [
+    "Benjamin"
+   ],
+   "oeuvre": "L'Œuvre d'art à l'époque de sa reproductibilité technique",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Benjamin », p. 51",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-benj-critique",
+   "type": "auteur_oeuvre",
+   "question": "Quelle fonction Benjamin donne-t-il à la critique ?",
+   "reponse": "Non l'appréciation, mais dégager l'« idée infinie » de l'œuvre et contribuer à l'achever, lui conférant une dimension rédemptrice en la dégageant de sa gangue mythique.",
+   "notions": [
+    "l'art"
+   ],
+   "auteurs": [
+    "Benjamin"
+   ],
+   "oeuvre": "Le Concept de critique esthétique dans le romantisme allemand",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Benjamin », p. 51",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-popp-demarcation",
+   "type": "auteur_oeuvre",
+   "question": "Quel critère de démarcation Popper propose-t-il entre science et non-science ?",
+   "reponse": "La falsifiabilité, non la vérifiabilité : une théorie scientifique peut être démentie par l'expérience. Une théorie qui a résisté aux tests est confirmée, non vérifiée ; une explication irréfutable est non scientifique (marxisme, psychanalyse selon lui).",
+   "notions": [
+    "la science",
+    "la vérité"
+   ],
+   "auteurs": [
+    "Popper"
+   ],
+   "oeuvre": "Logique de la découverte scientifique",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Popper », p. 394-395",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-popp-methode",
+   "type": "auteur_oeuvre",
+   "question": "Quelle est la méthode scientifique selon Popper ?",
+   "reponse": "Non l'induction, mais la méthode déductive de contrôle : hypothèses, conséquences vérifiables, réfutations. Cette logique libérale est liée aux sociétés ouvertes, les sociétés closes reposant sur des explications totalisantes et non réfutables.",
+   "notions": [
+    "la science",
+    "l'État"
+   ],
+   "auteurs": [
+    "Popper"
+   ],
+   "oeuvre": "La Société ouverte et ses ennemis",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Popper », p. 395",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-jank-presque-rien",
+   "type": "auteur_oeuvre",
+   "question": "Que sont le « je-ne-sais-quoi » et le « presque-rien » chez Jankélévitch ?",
+   "reponse": "La fragilité de la moralité, fugace intention menacée de chute dans l'impureté, et la musique comme présence éloquente. La vie, « mélodie éphémère », reste pourtant un fait éternel qu'aucune mort n'annihile.",
+   "notions": [
+    "le temps",
+    "le devoir",
+    "l'art"
+   ],
+   "auteurs": [
+    "Jankélévitch"
+   ],
+   "oeuvre": "Le Je-ne-sais-quoi et le Presque-rien",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Jankélévitch », p. 264",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-jona-responsabilite",
+   "type": "auteur_oeuvre",
+   "question": "Pourquoi Jonas propose-t-il un « principe responsabilité » ?",
+   "reponse": "La technique menace l'environnement et l'humanité, et l'éthique traditionnelle (réciprocité, Kant) n'a pas de devoirs envers les choses ou les êtres futurs. La responsabilité vise les êtres vulnérables, y compris ceux qui n'existent pas encore.",
+   "notions": [
+    "la technique",
+    "le devoir",
+    "la nature"
+   ],
+   "auteurs": [
+    "Jonas",
+    "Kant"
+   ],
+   "oeuvre": "Le Principe responsabilité",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Jonas », p. 267",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-jona-imperatif",
+   "type": "auteur_oeuvre",
+   "question": "Quel nouvel impératif Jonas formule-t-il ?",
+   "reponse": "« Agis de façon que les effets de ton action soient compatibles avec la permanence d'une vie authentiquement humaine sur terre. » Objections : heuristique de la peur, sacralisation de la nature, « dictature bienveillante ».",
+   "notions": [
+    "la technique",
+    "le devoir",
+    "le temps"
+   ],
+   "auteurs": [
+    "Jonas"
+   ],
+   "oeuvre": "Le Principe responsabilité",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Jonas », p. 267-268",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-webe-neutralite",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce que la neutralité axiologique chez Weber ?",
+   "reponse": "Le savant doit mettre entre parenthèses ses valeurs le temps d'examiner les faits, pour rester objectif ; le politique, lui, défend des valeurs. La science porte sur ce qui est : elle ne dit pas à quelles valeurs se vouer.",
+   "notions": [
+    "la science",
+    "la vérité",
+    "l'État"
+   ],
+   "auteurs": [
+    "Weber"
+   ],
+   "oeuvre": "Le Savant et le Politique",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Weber », p. 530",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-webe-ethique-protestante",
+   "type": "auteur_oeuvre",
+   "question": "Quelle thèse défend L'Éthique protestante et l'esprit du capitalisme ?",
+   "reponse": "Le protestantisme, en sanctifiant le travail régulier, a favorisé le capitalisme. La valeur travail viendrait de la sécularisation de l'ascèse chrétienne par le travail, développement qui a fini par vider le travail de son sens religieux.",
+   "notions": [
+    "le travail",
+    "la religion"
+   ],
+   "auteurs": [
+    "Weber"
+   ],
+   "oeuvre": "L'Éthique protestante et l'esprit du capitalisme",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Weber », p. 530",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-webe-domination",
+   "type": "auteur_oeuvre",
+   "question": "Quels sont les trois principes de légitimité de la domination selon Weber ?",
+   "reponse": "La tradition (on obéit car il en a toujours été ainsi), le charisme (foi en la valeur exceptionnelle de celui qui commande) et la légalité (foi en la conformité juridique des ordres, domaine de la bureaucratie moderne).",
+   "notions": [
+    "l'État",
+    "la justice"
+   ],
+   "auteurs": [
+    "Weber"
+   ],
+   "oeuvre": "Économie et Société",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Weber », p. 530",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-webe-desenchantement",
+   "type": "auteur_oeuvre",
+   "question": "Que désigne le désenchantement du monde chez Weber ?",
+   "reponse": "La rationalisation dont les religions sont un vecteur, de la magie vers l'éthique, s'achevant à l'époque moderne.",
+   "notions": [
+    "la religion",
+    "la raison",
+    "le temps"
+   ],
+   "auteurs": [
+    "Weber"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Weber », p. 530",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-aron-types-ideaux",
+   "type": "auteur_oeuvre",
+   "question": "Comment Aron oppose-t-il démocratie et totalitarisme ?",
+   "reponse": "Deux « types idéaux » : régime constitutionnel pluraliste contre régime de parti monopolistique excluant toute liberté, formelle et réelle. Les libertés sont réalisées, même imparfaitement, dans les sociétés pluralistes, garantes du droit à la vérité.",
+   "notions": [
+    "l'État",
+    "la liberté",
+    "la vérité"
+   ],
+   "auteurs": [
+    "Aron",
+    "Arendt"
+   ],
+   "oeuvre": "Essai sur les libertés",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Aron », p. 32-33",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-aron-histoire",
+   "type": "auteur_oeuvre",
+   "question": "Quelle conception de l'histoire défend Aron ?",
+   "reponse": "Post-idéologique : l'histoire ne peut prétendre à l'objectivité univoque des autres sciences. Il s'oppose au déterminisme marxiste comme au relativisme historique ; la fin de l'histoire (Kant) est un principe régulateur.",
+   "notions": [
+    "le temps",
+    "la vérité"
+   ],
+   "auteurs": [
+    "Aron",
+    "Kant"
+   ],
+   "oeuvre": "Introduction à la philosophie de l'histoire",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Aron », p. 32",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-levi-ethique",
+   "type": "auteur_oeuvre",
+   "question": "Pourquoi l'éthique est-elle « philosophie première » pour Levinas ?",
+   "reponse": "Seule la relation à autrui est une véritable « ouverture vers l'infini » ; la métaphysique et la religion n'ont de sens qu'à partir d'elle. La rencontre du visage d'autrui est l'expérience par excellence de la transcendance.",
+   "notions": [
+    "le devoir",
+    "la religion"
+   ],
+   "auteurs": [
+    "Levinas"
+   ],
+   "oeuvre": "Totalité et Infini",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Levinas », p. 292",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-levi-humanisme",
+   "type": "auteur_oeuvre",
+   "question": "En quoi consiste le « nouvel humanisme » de Levinas ?",
+   "reponse": "Il ne repose plus sur une essence invariable de l'homme ni sur la raison abstraite, mais sur le dévouement, l'ouverture et la responsabilité : l'humain apparaît lorsqu'un sujet répond d'autrui avant de se soucier de lui-même, dans une relation désintéressée et dissymétrique.",
+   "notions": [
+    "le devoir",
+    "la conscience"
+   ],
+   "auteurs": [
+    "Levinas"
+   ],
+   "oeuvre": "Humanisme de l'autre homme",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Levinas », p. 292",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-beau-condition",
+   "type": "auteur_oeuvre",
+   "question": "Que signifie « on ne naît pas femme : on le devient » ?",
+   "reponse": "Aucun destin biologique, psychique ou économique ne définit la femme : c'est la civilisation qui élabore le « féminin ». L'histoire s'écrit au masculin, la femme étant l'Autre. Le but : que les sexes deviennent des semblables, à égalité.",
+   "notions": [
+    "la nature",
+    "la liberté",
+    "la justice"
+   ],
+   "auteurs": [
+    "Beauvoir"
+   ],
+   "oeuvre": "Le Deuxième Sexe",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Beauvoir », p. 50",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-beau-ambiguite",
+   "type": "auteur_oeuvre",
+   "question": "Quelle morale Beauvoir tire-t-elle de l'existentialisme ?",
+   "reponse": "Une morale de l'ambiguïté, non de l'absurde ni du « tout est permis » : l'homme authentique assume sa liberté en voulant que les autres soient libres, ce qui rejoint la politique dans la lutte contre l'oppression.",
+   "notions": [
+    "la liberté",
+    "le devoir"
+   ],
+   "auteurs": [
+    "Beauvoir",
+    "Sartre"
+   ],
+   "oeuvre": "Pour une morale de l'ambiguïté",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Beauvoir », p. 50",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-levi-strauss-nature-culture",
+   "type": "auteur_oeuvre",
+   "question": "Pourquoi la prohibition de l'inceste est-elle centrale chez Lévi-Strauss ?",
+   "reponse": "La nature est l'universel spontané, la culture la règle relative ; or l'interdit de l'inceste est une règle sociale mais universelle : point d'articulation entre nature et culture, témoin de la règle de l'échange (don et réciprocité).",
+   "notions": [
+    "la nature",
+    "le langage"
+   ],
+   "auteurs": [
+    "Lévi-Strauss"
+   ],
+   "oeuvre": "Les Structures élémentaires de la parenté",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Lévi-Strauss », p. 293",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-levi-strauss-structuralisme",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce que le structuralisme de Lévi-Strauss ?",
+   "reponse": "Emprunter à la linguistique sa méthode : construire des modèles abstraits (structures) qui donnent la primauté au système sur les éléments. Mythes, masques, relations économiques répondent à une logique combinatoire et se traitent scientifiquement.",
+   "notions": [
+    "le langage",
+    "la science"
+   ],
+   "auteurs": [
+    "Lévi-Strauss"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Lévi-Strauss », p. 293",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-levi-strauss-pensee-sauvage",
+   "type": "auteur_oeuvre",
+   "question": "Que montre La Pensée sauvage ?",
+   "reponse": "Que la pensée dite primitive n'est pas prélogique : rites, totems, systèmes matrimoniaux témoignent d'une approche classificatrice, systématique, anticipant nos démarches scientifiques.",
+   "notions": [
+    "la science",
+    "la raison",
+    "la religion"
+   ],
+   "auteurs": [
+    "Lévi-Strauss"
+   ],
+   "oeuvre": "La Pensée sauvage",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Lévi-Strauss », p. 293-294",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-merl-etre-au-monde",
+   "type": "auteur_oeuvre",
+   "question": "Que signifie « être-au-monde » chez Merleau-Ponty ?",
+   "reponse": "L'homme concret n'est ni un en-soi ni un pour-soi mais un mixte : conscience incarnée et engagée dans le temps. Un « Je perçois » et non un « Je pense » désincarné ; la phénoménologie décrit le monde plutôt que de l'expliquer.",
+   "notions": [
+    "la conscience",
+    "la nature"
+   ],
+   "auteurs": [
+    "Merleau-Ponty"
+   ],
+   "oeuvre": "Phénoménologie de la perception",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Merleau-Ponty », p. 325-326",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-merl-corps-propre",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce que le corps propre ?",
+   "reponse": "Non un édifice de molécules interchangeables mais un sujet habitant la nature : un ensemble de significations incarnées, présent au monde qu'il partage avec d'autres consciences dans l'intersubjectivité.",
+   "notions": [
+    "la conscience",
+    "la nature"
+   ],
+   "auteurs": [
+    "Merleau-Ponty"
+   ],
+   "oeuvre": "Phénoménologie de la perception",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Merleau-Ponty », p. 326",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-merl-intermonde",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce que l'intermonde chez Merleau-Ponty ?",
+   "reponse": "L'entrelacs de significations entre les consciences : « histoire, symbolisme et vérité à faire », monde des institutions et du langage, tissu des relations intersubjectives ; la relation à autrui est réciprocité conflictuelle et communication inachevée.",
+   "notions": [
+    "le langage",
+    "la vérité",
+    "le temps"
+   ],
+   "auteurs": [
+    "Merleau-Ponty"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Merleau-Ponty », p. 326",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-weil-travail-libre",
+   "type": "auteur_oeuvre",
+   "question": "Quand le travail est-il libre selon Simone Weil ?",
+   "reponse": "Quand on n'obéit pas aux ordres d'un autre et que conception et exécution ne sont pas séparées. La condition ouvrière, machinale et épuisante, illustre le malheur.",
+   "notions": [
+    "le travail",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Weil"
+   ],
+   "oeuvre": "Oppression et Liberté",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Weil (Simone) », p. 532",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-weil-obligation",
+   "type": "auteur_oeuvre",
+   "question": "Pourquoi Simone Weil préfère-t-elle l'obligation aux droits ?",
+   "reponse": "Les besoins de l'âme déterminent l'obligation, fondement de l'action morale et politique et notion inconditionnée. Le droit est lié à des situations de partage et d'échange, des situations « commerciales ».",
+   "notions": [
+    "le devoir",
+    "la justice"
+   ],
+   "auteurs": [
+    "Weil"
+   ],
+   "oeuvre": "L’Enracinement",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Weil (Simone) », p. 532",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-weil-attention",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce que l'« attention pure » chez Simone Weil ?",
+   "reponse": "L'effort intellectuel qui fait disparaître le moi au profit de l'apparition du réel, analogue à l'abandon de la volonté dans le domaine religieux et à la contemplation esthétique.",
+   "notions": [
+    "la religion",
+    "l'art",
+    "la vérité"
+   ],
+   "auteurs": [
+    "Weil"
+   ],
+   "oeuvre": "La Pesanteur et la Grâce",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Weil (Simone) », p. 532",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-hers-liberte",
+   "type": "auteur_oeuvre",
+   "question": "Quelle est la conviction centrale de Jeanne Hersch ?",
+   "reponse": "« La liberté est le centre de toute l'affaire philosophique » : elle réfléchit aux conditions politiques, culturelles et sociales de la liberté, et à une éducation qui forme le sens des responsabilités.",
+   "notions": [
+    "la liberté",
+    "l'État"
+   ],
+   "auteurs": [
+    "Hersch",
+    "Jaspers"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Hersch », p. 221-222",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-hers-droits",
+   "type": "auteur_oeuvre",
+   "question": "Que montre Le Droit d'être un homme (1968) ?",
+   "reponse": "Que le concept de droits de l'homme, même s'il n'est pas encore universel, correspond à une attente exprimée par tous les hommes, dans toutes les cultures. Pour Hersch, l'étonnement est le ressort de toute philosophie.",
+   "notions": [
+    "la justice",
+    "l'État"
+   ],
+   "auteurs": [
+    "Hersch"
+   ],
+   "oeuvre": "Le Droit d'être un homme",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Hersch », p. 222",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-rico-hermeneutique",
+   "type": "auteur_oeuvre",
+   "question": "Que signifie « le symbole donne à penser » (Ricœur) ?",
+   "reponse": "L'herméneutique est l'art d'interpréter : il s'agit de chercher à partir des symboles à se comprendre soi-même, car aucune représentation de soi ne passe sans médiation de signes, symboles et textes.",
+   "notions": [
+    "le langage",
+    "la conscience"
+   ],
+   "auteurs": [
+    "Ricœur"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Ricœur », p. 434",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-rico-identite-narrative",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce que l'identité narrative ?",
+   "reponse": "Se raconter est le plus sûr moyen de se connaître ; narrativité et temporalité s'épaulent. La triple mimêsis : préfiguration (action comme récit en puissance), configuration (synthèse narrative), refiguration (lecture qui enrichit la compréhension de soi).",
+   "notions": [
+    "le temps",
+    "le langage",
+    "la conscience"
+   ],
+   "auteurs": [
+    "Ricœur"
+   ],
+   "oeuvre": "Temps et Récit",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Ricœur », p. 434-435",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-rico-ethique",
+   "type": "auteur_oeuvre",
+   "question": "Quels sont les trois moments de l'agir éthique selon Ricœur ?",
+   "reponse": "L'éthique (visée de la vie bonne), la morale (normes obligatoires), la sagesse pratique qui articule les deux. Formule : viser la vraie vie avec et pour l'autre dans des institutions justes.",
+   "notions": [
+    "le devoir",
+    "la justice"
+   ],
+   "auteurs": [
+    "Ricœur"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Ricœur », p. 435",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-fouc-folie",
+   "type": "auteur_oeuvre",
+   "question": "Que montre l'Histoire de la folie à l'âge classique ?",
+   "reponse": "La raison classique fonctionne comme facteur d'exclusion, faisant taire la folie (enfermement systématique) ; la psychiatrie du XIXe siècle serait un instrument de capture. L'Occident aurait affirmé son identité en ségrégant la folie.",
+   "notions": [
+    "la raison",
+    "le langage"
+   ],
+   "auteurs": [
+    "Foucault"
+   ],
+   "oeuvre": "Histoire de la folie à l’âge classique",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Foucault », p. 193",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-fouc-episteme",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce que l'épistémè et la « mort de l'homme » dans Les Mots et les Choses ?",
+   "reponse": "Chaque époque (Renaissance, âge classique, modernité) a une configuration du savoir, l'épistémè. « L'homme », sujet de connaissance et objet de savoir, est une création récente et menacée : la « mort de l'homme » annonce la disparition d'une figure du savoir, non de l'espèce.",
+   "notions": [
+    "la science",
+    "la vérité"
+   ],
+   "auteurs": [
+    "Foucault"
+   ],
+   "oeuvre": "Les Mots et les Choses",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Foucault », p. 193",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-fouc-prison",
+   "type": "auteur_oeuvre",
+   "question": "Que soutient Surveiller et Punir ?",
+   "reponse": "La prison devient au XIXe siècle une pratique punitive généralisée avec la société disciplinaire ; elle n'a pas pour fonction d'empêcher la délinquance mais de l'entretenir.",
+   "notions": [
+    "la justice",
+    "l'État"
+   ],
+   "auteurs": [
+    "Foucault"
+   ],
+   "oeuvre": "Surveiller et Punir",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Foucault », p. 193",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-fouc-sexualite",
+   "type": "auteur_oeuvre",
+   "question": "Où mène l'Histoire de la sexualité pour Foucault ?",
+   "reponse": "À la formation d'un « sujet de désir » par les pratiques confessionnelles chrétiennes, puis au rapport éthique à soi reformulé comme esthétisation de l'existence (faire de sa vie une œuvre d'art).",
+   "notions": [
+    "l'art",
+    "la conscience"
+   ],
+   "auteurs": [
+    "Foucault"
+   ],
+   "oeuvre": "Histoire de la sexualité",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Foucault », p. 193",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-putn-cuve",
+   "type": "auteur_oeuvre",
+   "question": "Que répond Putnam à l'expérience des « cerveaux dans une cuve » ?",
+   "reponse": "Il la conteste : toute connaissance et tout langage dépendent, pour avoir un sens, de facteurs indépendants de l'esprit humain. Il critique aussi le positivisme logique et le réalisme métaphysique.",
+   "notions": [
+    "la vérité",
+    "la science",
+    "le langage"
+   ],
+   "auteurs": [
+    "Putnam"
+   ],
+   "oeuvre": "Raison, Vérité et Histoire",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Putnam », p. 413",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-putn-fonctionnalisme",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce que le fonctionnalisme de Putnam ?",
+   "reponse": "Par analogie cerveau/ordinateur, ce qui importe dans l'activité spirituelle est le programme, non le matériel : les opérations mentales ne sont pas liées à une substance pensante. Il nuancera ensuite, le mental étant trop complexe pour se réduire à un programme.",
+   "notions": [
+    "la conscience",
+    "la technique"
+   ],
+   "auteurs": [
+    "Putnam",
+    "Descartes"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Putnam », p. 413",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-rawl-voile",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce que le voile d'ignorance chez Rawls ?",
+   "reponse": "Une situation hypothétique (analogue à l'état de nature) où des personnes choisissent les principes de répartition des biens sans connaître leur position future : elles opteraient pour l'organisation meilleure pour tous.",
+   "notions": [
+    "la justice",
+    "l'État"
+   ],
+   "auteurs": [
+    "Rawls"
+   ],
+   "oeuvre": "Théorie de la justice",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Rawls », p. 421",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-rawl-principes",
+   "type": "auteur_oeuvre",
+   "question": "Quels sont les deux principes de justice de Rawls ?",
+   "reponse": "1. Droit égal au système le plus étendu de libertés de base égales pour tous (prioritaire, sans exception). 2. Les inégalités doivent être à l'avantage de chacun et attachées à des positions ouvertes à tous (égalité des chances).",
+   "notions": [
+    "la justice",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Rawls"
+   ],
+   "oeuvre": "Théorie de la justice",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Rawls », p. 421",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-rawl-critiques",
+   "type": "auteur_oeuvre",
+   "question": "Quelles critiques a-t-on adressées à Rawls ?",
+   "reponse": "À droite, célébrer l'État providence ; à gauche, légitimer la logique des institutions économiques dominantes (le marché) ; d'autres, tirer d'une conception individualiste, occidentale et kantienne de l'homme une justice universelle.",
+   "notions": [
+    "la justice",
+    "l'État"
+   ],
+   "auteurs": [
+    "Rawls",
+    "Kant"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Rawls », p. 421-422",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-augu-conversion",
+   "type": "auteur_oeuvre",
+   "question": "Comment Augustin comprend-il la conversion ?",
+   "reponse": "Après l'égarement, il constate que la quête des objets du désir laisse anxieux et frustré : la sérénité vient d'un retour sur soi, loin des biens corruptibles, et le désir s'apaise en trouvant son véritable objet, l'absolu (Dieu).",
+   "notions": [
+    "le bonheur",
+    "la religion"
+   ],
+   "auteurs": [
+    "Augustin"
+   ],
+   "oeuvre": "Confessions",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Augustin », p. 38",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-augu-temps",
+   "type": "auteur_oeuvre",
+   "question": "En quoi la conception augustinienne du temps diffère-t-elle de celle de Platon ?",
+   "reponse": "Platon voit le temps comme chute et dégradation ; Augustin le conçoit comme lieu de création et de rédemption possible pour les êtres finis, que Dieu peut tirer du néant et de la finitude.",
+   "notions": [
+    "le temps",
+    "la religion"
+   ],
+   "auteurs": [
+    "Augustin",
+    "Platon"
+   ],
+   "oeuvre": "Confessions",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Augustin », p. 38-39",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-augu-foi-raison",
+   "type": "auteur_oeuvre",
+   "question": "Comment Augustin articule-t-il foi, autorité et raison ?",
+   "reponse": "La raison seule ne mène pas à la vérité : « la foi précède la quête de Dieu ». L'autorité (Christ, Écriture, Église) n'est pas démission de l'intelligence : « la foi cherche, l'intellect trouve ».",
+   "notions": [
+    "la raison",
+    "la religion",
+    "la vérité"
+   ],
+   "auteurs": [
+    "Augustin"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Augustin », p. 39",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-augu-deux-cites",
+   "type": "auteur_oeuvre",
+   "question": "Quelles sont les deux cités d'Augustin ?",
+   "reponse": "La cité terrestre, fondée sur l'amour de soi jusqu'au mépris de Dieu ; la cité céleste, fondée sur l'amour de Dieu jusqu'au mépris de soi, qui regroupe toutes les nations respectant Dieu et sa loi.",
+   "notions": [
+    "l'État",
+    "la religion"
+   ],
+   "auteurs": [
+    "Augustin"
+   ],
+   "oeuvre": "La Cité de Dieu",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Augustin », p. 39",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-avic-transmission",
+   "type": "auteur_oeuvre",
+   "question": "Pourquoi Avicenne est-il important pour l'Occident ?",
+   "reponse": "Il puise à l'ismaélisme, au néoplatonisme et surtout à l'aristotélisme (via les commentaires d'Al Farabi) : grâce à lui l'Occident connaît le néoplatonisme islamique et les grands thèmes d'Aristote.",
+   "notions": [
+    "la raison",
+    "la science"
+   ],
+   "auteurs": [
+    "Avicenne",
+    "Aristote"
+   ],
+   "oeuvre": "Livre des directives et remarques",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Avicenne », p. 42",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-aver-accord",
+   "type": "auteur_oeuvre",
+   "question": "Quel accord Averroès cherche-t-il entre philosophie et religion ?",
+   "reponse": "« La vérité ne saurait contredire la vérité » : rien dans l'aristotélisme bien compris ne contredit le Coran. Trois types d'arguments : oratoires, théologiques, démonstratifs (philosophes) ; le Coran, sous forme d'exhortation, reste accessible à tous.",
+   "notions": [
+    "la religion",
+    "la raison",
+    "la vérité"
+   ],
+   "auteurs": [
+    "Averroès",
+    "Aristote"
+   ],
+   "oeuvre": "Traité décisif",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Averroès », p. 42",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-aver-intellect",
+   "type": "auteur_oeuvre",
+   "question": "Quelle thèse d'Averroès sur l'intellect a été combattue au Moyen Âge ?",
+   "reponse": "Il existe une intelligence séparée, la même pour tous : pas d'immortalité des âmes individuelles, et Dieu ne connaît que l'universel. Rejetée par le catholicisme (averroïsme), notamment par Thomas d'Aquin.",
+   "notions": [
+    "la religion",
+    "la conscience"
+   ],
+   "auteurs": [
+    "Averroès",
+    "Thomas d’Aquin"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Averroès », p. 42",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-ansel-ontologique",
+   "type": "auteur_oeuvre",
+   "question": "Quel est l'argument de Saint Anselme sur l'existence de Dieu ?",
+   "reponse": "Dieu est « ce dont rien de plus grand ne peut être conçu » ; on ne peut penser un tel être sans lui accorder l'existence, sinon ce ne serait pas lui. Kant l'appellera argument ontologique ; on le retrouve chez Descartes.",
+   "notions": [
+    "la religion",
+    "la raison"
+   ],
+   "auteurs": [
+    "Anselme",
+    "Kant",
+    "Descartes"
+   ],
+   "oeuvre": "Proslogion",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Anselme », p. 22",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-ansel-foi",
+   "type": "auteur_oeuvre",
+   "question": "Que signifie « la foi en quête d'intelligence » ?",
+   "reponse": "Une foi éclairée vaut mieux qu'une foi aveugle : les articles de foi restent des mystères au-dessus de la raison, mais non contraires à elle, puisque Dieu est rationnellement compréhensible.",
+   "notions": [
+    "la religion",
+    "la raison"
+   ],
+   "auteurs": [
+    "Anselme"
+   ],
+   "oeuvre": "Monologion",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Anselme », p. 22",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-maim-guide",
+   "type": "auteur_oeuvre",
+   "question": "Quel est le but du Guide des égarés de Maïmonide ?",
+   "reponse": "Remettre les égarés sur le droit chemin en montrant que foi et raison, loin de s'opposer, se consolident : connaître Dieu, cultiver son intelligence et comprendre la nature relèvent d'un même dessein. Il est délibérément difficile d'accès.",
+   "notions": [
+    "la religion",
+    "la raison"
+   ],
+   "auteurs": [
+    "Maïmonide"
+   ],
+   "oeuvre": "Le Guide des égarés",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Maïmonide », p. 310",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-ockh-universaux",
+   "type": "auteur_oeuvre",
+   "question": "Que défend Ockham dans la querelle des universaux ?",
+   "reponse": "Une position proche du nominalisme : les universaux ne sont que des concepts sans contenu objectif ; seuls les singuliers sont réels. Exemple : il y a des pères et des enfants, mais pas la paternité en soi.",
+   "notions": [
+    "la vérité",
+    "le langage"
+   ],
+   "auteurs": [
+    "Ockham"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Ockham », p. 363",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-ockh-rasoir",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce que le rasoir d'Ockham ?",
+   "reponse": "Un principe d'économie de la pensée : il ne faut pas multiplier les hypothèses non nécessaires. Il ouvre la « voie moderne » et une déconstruction de la métaphysique.",
+   "notions": [
+    "la science",
+    "la raison"
+   ],
+   "auteurs": [
+    "Ockham"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Ockham », p. 363",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-ockh-politique",
+   "type": "auteur_oeuvre",
+   "question": "Quelles conséquences politiques Ockham tire-t-il de la contingence de l'ordre du monde ?",
+   "reponse": "L'ordre du monde aurait pu être autre : seule la révélation donne des certitudes, toute médiation (pape, princes) est superflue. Séparation des pouvoirs spirituel et temporel ; toute autorité procède du consentement des hommes (ébauche du contrat).",
+   "notions": [
+    "l'État",
+    "la religion",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Ockham"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Ockham », p. 363-364",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-thom-foi-raison",
+   "type": "auteur_oeuvre",
+   "question": "Quelle position Thomas d'Aquin adopte-t-il face à Aristote redécouvert ?",
+   "reponse": "Il refuse de choisir entre la Bible (Création, foi surnaturelle) et Aristote lu par Averroès : la philosophie ne s'oppose pas à la foi, dont elle est la « servante ». Résoudre les problèmes de foi par la seule autorité, c'est avoir la vérité « dans une tête vide ».",
+   "notions": [
+    "la religion",
+    "la raison"
+   ],
+   "auteurs": [
+    "Thomas d’Aquin",
+    "Aristote",
+    "Averroès"
+   ],
+   "oeuvre": "Somme théologique",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Thomas d’Aquin », p. 495",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-thom-creation-liberte",
+   "type": "auteur_oeuvre",
+   "question": "Que réaffirme Thomas d'Aquin contre Averroès ?",
+   "reponse": "L'unité de l'âme et du corps, l'immortalité personnelle de l'âme, la liberté de l'homme (compatible avec la Création : Dieu est assez puissant pour créer des êtres autonomes). La Création implique la contingence du monde.",
+   "notions": [
+    "la liberté",
+    "la religion",
+    "la conscience"
+   ],
+   "auteurs": [
+    "Thomas d’Aquin",
+    "Averroès"
+   ],
+   "oeuvre": "Somme contre les Gentils",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Thomas d’Aquin », p. 495",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-thom-prudence",
+   "type": "auteur_oeuvre",
+   "question": "Que devient la sagesse morale chez Thomas d'Aquin ?",
+   "reponse": "Une « prudence » : intelligence pratique éclairée par la foi, qui tente de réconcilier Augustin et Aristote sur les questions morales.",
+   "notions": [
+    "le devoir",
+    "le bonheur"
+   ],
+   "auteurs": [
+    "Thomas d’Aquin"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Thomas d’Aquin », p. 495",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-sene-nature-fortune",
+   "type": "auteur_oeuvre",
+   "question": "Quelle originalité présente le stoïcisme de Sénèque ?",
+   "reponse": "Il reprend l'opposition entre la nature (en nous) et la fortune (extérieure), mais en moraliste non doctrinaire : art de vivre, sans ignorer l'inquiétude ; la sagesse est rare, le bonheur consiste peut-être à se tenir à l'écart des pires vicissitudes.",
+   "notions": [
+    "le bonheur",
+    "la nature"
+   ],
+   "auteurs": [
+    "Sénèque"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Sénèque », p. 455",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-sene-presente",
+   "type": "auteur_oeuvre",
+   "question": "Où Sénèque cherche-t-il le Souverain Bien ?",
+   "reponse": "Dans la cura, conscience attentive qui saisit l'occasion : le bonheur tient à la capacité de vivre intensément le temps présent, en renonçant à se libérer du devenir. Il assimile finalement la seule vertu au Souverain Bien.",
+   "notions": [
+    "le temps",
+    "le bonheur"
+   ],
+   "auteurs": [
+    "Sénèque"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Sénèque », p. 456",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-sene-universalite",
+   "type": "auteur_oeuvre",
+   "question": "Quelle idée Sénèque promeut-il sur la condition humaine ?",
+   "reponse": "L'universalité de la condition humaine, jusqu'à défendre les esclaves ; la nécessité d'un maître spirituel, peu d'hommes ayant seuls la force d'être sages ; la tension entre carrière politique et vie contemplative.",
+   "notions": [
+    "le devoir",
+    "la justice"
+   ],
+   "auteurs": [
+    "Sénèque"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Sénèque », p. 456",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-nagar-vacuite",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce que la vacuité (Nâgârjuna) ?",
+   "reponse": "Il n'y a aucune substance ni réalité indépendante des phénomènes : tout ce qui apparaît est illusoire, à commencer par le « je ». Nâgârjuna n'est pourtant pas nihiliste : il se tient au milieu (madhyamaka) et ne nie pas une réalité ultime, au-delà de toute formulation logique.",
+   "notions": [
+    "la vérité",
+    "la conscience",
+    "le langage"
+   ],
+   "auteurs": [
+    "Nâgârjuna"
+   ],
+   "oeuvre": "Stances du milieu par excellence",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Nâgârjuna », p. 347",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-nagar-jugement",
+   "type": "auteur_oeuvre",
+   "question": "Pourquoi Nâgârjuna s'exprime-t-il par paradoxes ?",
+   "reponse": "Pour déconstruire les convictions véhiculées par le langage ordinaire et suggérer l'ineffable : « ni être ni non-être… il est nécessaire de suspendre son jugement ». Ce scepticisme va avec la compassion et le respect de tous les êtres sensibles.",
+   "notions": [
+    "le langage",
+    "la raison",
+    "la religion"
+   ],
+   "auteurs": [
+    "Nâgârjuna"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Nâgârjuna », p. 347",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-sext-scepticisme",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce que le scepticisme pyrrhonien selon Sextus Empiricus ?",
+   "reponse": "Face aux contradictions entre doctrines dogmatiques (aporie), on continue de chercher en suspendant son assentiment (épochê). La voie sceptique est « chercheuse, suspensive, aporétique et pyrrhonienne » ; le sceptique n'affirme pas même que le réel est inconnaissable.",
+   "notions": [
+    "la vérité",
+    "la raison"
+   ],
+   "auteurs": [
+    "Sextus Empiricus"
+   ],
+   "oeuvre": "Esquisses pyrrhoniennes",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Sextus Empiricus », p. 461",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-sext-ataraxie",
+   "type": "auteur_oeuvre",
+   "question": "Comment vit le sceptique et où trouve-t-il l'ataraxie ?",
+   "reponse": "Il suspend son assentiment sur ce que sont les choses mais suit les règles de la vie quotidienne sans soutenir d'opinion. Il atteint, sans l'avoir cherchée, la tranquillité de l'âme. Montaigne s'en est directement inspiré.",
+   "notions": [
+    "le bonheur",
+    "la vérité"
+   ],
+   "auteurs": [
+    "Sextus Empiricus",
+    "Montaigne"
+   ],
+   "oeuvre": "Esquisses pyrrhoniennes",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Sextus Empiricus », p. 461",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-zhua-tao",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce que le Tao chez Zhuangzi ?",
+   "reponse": "Le principe générateur de l'essence et de l'existence de l'Univers, un « souffle » unique qui produit la vie par condensation et la mort par dispersion. Le Tao est le tout, un, éternel, à la fois chemin et but du sage.",
+   "notions": [
+    "la nature",
+    "la vérité"
+   ],
+   "auteurs": [
+    "Zhuangzi"
+   ],
+   "oeuvre": "Zhuangzi",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Zhuangzi », p. 538-539",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-zhua-opposition",
+   "type": "auteur_oeuvre",
+   "question": "Que signifie le dépassement des oppositions chez Zhuangzi ?",
+   "reponse": "Soi et l'autre, possible et impossible, vrai et faux ne s'opposent plus : c'est le « pivot du Tao ». Il n'y a pas relativisme : chaque opinion porte une vérité partielle, et la vérité du tout apparaît par illumination.",
+   "notions": [
+    "la vérité",
+    "la raison"
+   ],
+   "auteurs": [
+    "Zhuangzi"
+   ],
+   "oeuvre": "Zhuangzi",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Zhuangzi », p. 539",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-zhua-non-agir",
+   "type": "auteur_oeuvre",
+   "question": "Qu'est-ce que le non-agir taoïste ?",
+   "reponse": "Diminuer son action jusqu'à ne rien faire : « en ne faisant rien, il n'y a rien qui ne se fasse ». Empiriquement, le saint accepte son sort ; ce fatalisme a été critiqué par d'autres écoles chinoises.",
+   "notions": [
+    "la liberté",
+    "le travail"
+   ],
+   "auteurs": [
+    "Zhuangzi"
+   ],
+   "oeuvre": "Zhuangzi",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Zhuangzi », p. 539",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-pres-naissance",
+   "type": "auteur_oeuvre",
+   "question": "Qu'ont de nouveau les présocratiques ?",
+   "reponse": "Ils renoncent aux dieux ou aux forces magiques pour expliquer le monde et cherchent un principe naturel, une substance primordiale (phusiologoi). Ils substituent des cosmogonies aux théologies astrales : premiers efforts pour représenter l'Univers comme ordre naturel saisissable par l'esprit.",
+   "notions": [
+    "la nature",
+    "la science",
+    "la raison"
+   ],
+   "auteurs": [
+    "présocratiques"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « présocratiques », p. 401-402",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-pres-succession",
+   "type": "auteur_oeuvre",
+   "question": "Quelle est la succession retenue des présocratiques ?",
+   "reponse": "Milésiens (Thalès, Anaximandre, Anaximène), Pythagore, Héraclite, Éléates (Xénophane, Parménide, Zénon), Empédocle, Anaxagore, atomistes (Leucippe, Démocrite). Thalès : l'eau ; Anaximène : l'air.",
+   "notions": [
+    "la nature"
+   ],
+   "auteurs": [
+    "présocratiques"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « présocratiques », p. 401",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-pres-xenophane",
+   "type": "auteur_oeuvre",
+   "question": "Que critique Xénophane ?",
+   "reponse": "L'anthropomorphisme religieux : « si les bœufs savaient dessiner… les bœufs donneraient aux dieux une forme bovine ». La façon de se représenter le divin exige une plus grande rigueur.",
+   "notions": [
+    "la religion",
+    "la raison"
+   ],
+   "auteurs": [
+    "présocratiques"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « présocratiques », p. 402",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "d-zeno-paradoxes",
+   "type": "auteur_oeuvre",
+   "question": "Que sont les paradoxes de Zénon d'Élée et où est la faille selon Aristote ?",
+   "reponse": "Un mobile ne peut atteindre le terme (il faut parcourir la moitié, puis la moitié de la moitié…) ; Achille ne rattrape pas la tortue. Aristote en relève la faille : une représentation trompeuse du temps comme addition d'instants.",
+   "notions": [
+    "le temps",
+    "la raison"
+   ],
+   "auteurs": [
+    "présocratiques",
+    "Aristote"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « Zénon (d’Élée) », p. 538",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-art-sens",
+   "type": "notion",
+   "question": "L'art : quels sont les deux sens du mot ?",
+   "reponse": "Technique, savoir-faire (ars, technê) et création artistique, recherche du beau. Il peut aussi désigner l'artifice. L'artisan maîtrise un art au premier sens, l'artiste (talent, génie) crée la beauté.",
+   "notions": [
+    "l'art",
+    "la technique"
+   ],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « art (notion du bac) », p. 33",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-art-technique",
+   "type": "notion",
+   "question": "Quel rapport entre art et technique ?",
+   "reponse": "Tout art inclut une part de technique (règles, habileté), et pour Aristote l'intention fabricatrice rapproche technicien, artisan, artiste. Mais l'art vise une réussite (beauté, éveil de l'esprit) et ne se réduit jamais à une pratique sans idée.",
+   "notions": [
+    "l'art",
+    "la technique"
+   ],
+   "auteurs": [
+    "Aristote"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « art (notion du bac) », p. 33",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-art-genie",
+   "type": "notion",
+   "question": "Que signifie « génie » dans l'esthétique kantienne ?",
+   "reponse": "Plus que le talent : ce qui donne des règles à l'art et crée des formes imitables sans se référer à un modèle. L'œuvre faite selon des règles laborieusement appliquées est dite académique et ne suscite que de l'agrément.",
+   "notions": [
+    "l'art"
+   ],
+   "auteurs": [
+    "Kant"
+   ],
+   "oeuvre": "Critique de la faculté de juger",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « art (notion du bac) », p. 33",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-art-sentiment-esthetique",
+   "type": "notion",
+   "question": "Quel est le critère du beau dans l'esthétique de Kant ?",
+   "reponse": "Le sentiment esthétique : une satisfaction désintéressée, irréductible au simple agrément, pour laquelle le sujet requiert l'assentiment d'autrui sans pouvoir l'exiger par démonstration logique.",
+   "notions": [
+    "l'art"
+   ],
+   "auteurs": [
+    "Kant"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « art (notion du bac) », p. 33",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-art-platon-aristote",
+   "type": "notion",
+   "question": "Comment Platon et Aristote jugent-ils l'imitation en art ?",
+   "reponse": "Platon : l'art d'imiter est éloigné du vrai, illusion. Aristote : on se plaît aux images parce qu'on apprend en les regardant ; art et plaisir esthétique viennent de notre goût pour l'imitation.",
+   "notions": [
+    "l'art",
+    "la vérité"
+   ],
+   "auteurs": [
+    "Platon",
+    "Aristote"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « art (notion du bac) », p. 34",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-art-gout-genie",
+   "type": "notion",
+   "question": "Quelle différence entre le goût et le génie chez Kant ?",
+   "reponse": "Le goût, aptitude à reconnaître le beau, est accessible à tous ; le génie, talent de produire les beaux-arts, est exceptionnel.",
+   "notions": [
+    "l'art"
+   ],
+   "auteurs": [
+    "Kant"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « art (notion du bac) », p. 34",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-art-hegel-nietzsche-bergson",
+   "type": "notion",
+   "question": "Que retiennent Hegel, Nietzsche et Bergson de l'art ?",
+   "reponse": "Hegel : adoucir la barbarie en spiritualisant l'existence. Nietzsche : l'art donne la distance qui rend la vie désirable, la liberté au-dessus des choses. Bergson : l'artiste voit mieux, il regarde la réalité nue et sans voile.",
+   "notions": [
+    "l'art",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Hegel",
+    "Nietzsche",
+    "Bergson"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « art (notion du bac) », p. 34",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-art-hegel-mort",
+   "type": "notion",
+   "question": "Que signifie la « mort de l'art » chez Hegel ?",
+   "reponse": "L'œuvre est une réalité sensible pourvue de signification ; l'art est un moment de la conscience où l'esprit se reconnaît dans des formes extérieures. Destiné à disparaître comme forme éminente, il est relayé par la religion puis la philosophie.",
+   "notions": [
+    "l'art",
+    "la religion",
+    "le temps"
+   ],
+   "auteurs": [
+    "Hegel"
+   ],
+   "oeuvre": "Esthétique",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « art (notion du bac) », p. 35",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-art-nietzsche",
+   "type": "notion",
+   "question": "Pourquoi Nietzsche refuse-t-il de chercher une rationalité dans l'art ?",
+   "reponse": "L'art ne vise pas la vérité, souvent marque de l'appétit de domination ; la réalité étant dépourvue de sens, l'œuvre est une illusion joyeuse qui réaffirme la vie malgré l'absurdité et la douleur (éternel retour).",
+   "notions": [
+    "l'art",
+    "la vérité"
+   ],
+   "auteurs": [
+    "Nietzsche"
+   ],
+   "oeuvre": "La Naissance de la tragédie",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « art (notion du bac) », p. 35",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-art-aujourdhui",
+   "type": "notion",
+   "question": "Quels problèmes l'art moderne pose-t-il ?",
+   "reponse": "Ruptures, nouveauté, provocation : une œuvre éphémère est-elle encore une œuvre ? Si la création relève de déterminismes sociaux ou pulsionnels, comment obtenir une reconnaissance universelle ? Benjamin : la reproduction technique a changé les conditions de création.",
+   "notions": [
+    "l'art",
+    "la technique"
+   ],
+   "auteurs": [
+    "Benjamin"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « art (notion du bac) », p. 35",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-bonh-etymologie",
+   "type": "notion",
+   "question": "Pourquoi le bonheur pose-t-il d'emblée problème ?",
+   "reponse": "Bon heur (augurium, chance) : il arrive sans maîtrise, alors qu'on le définit comme état durable. « Bon » suggère un bien : agréable ou moral ? Est-il le bien suprême, ou surpassé par la justice ou la liberté ?",
+   "notions": [
+    "le bonheur"
+   ],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « bonheur (notion du bac) », p. 60",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-bonh-souverain-bien",
+   "type": "notion",
+   "question": "Comment la philosophie antique conçoit-elle le bonheur ?",
+   "reponse": "Comme Souverain Bien, fin suprême en notre pouvoir, dissocié du plaisir éphémère. Il est indissociable d'une vie vertueuse fondée sur la raison (Aristote, Épicure, stoïciens).",
+   "notions": [
+    "le bonheur",
+    "la raison"
+   ],
+   "auteurs": [
+    "Aristote",
+    "Épicure"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « bonheur (notion du bac) », p. 60",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-bonh-aristote-epicure",
+   "type": "notion",
+   "question": "Comment Aristote se distingue-t-il d'Épicure et des stoïciens sur le bonheur ?",
+   "reponse": "Épicure : régler ses désirs sur la nature ; stoïciens : accepter l'ordre du monde ; conception presque négative (absence de trouble, renoncement). Aristote : bonheur = activité, vertu = aptitude propre à chaque être (celle de l'homme est de penser).",
+   "notions": [
+    "le bonheur"
+   ],
+   "auteurs": [
+    "Aristote",
+    "Épicure"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « bonheur (notion du bac) », p. 60",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-bonh-ideal-imagination",
+   "type": "notion",
+   "question": "Pourquoi Kant dit-il que le bonheur est un idéal de l'imagination ?",
+   "reponse": "Il ne peut faire l'objet d'une définition universelle (éléments empiriques, sensibilité de chacun) et dépend de conditions qui échappent à la volonté. Il ne peut donc être la fin de l'action morale, qui rend seulement digne d'être heureux.",
+   "notions": [
+    "le bonheur",
+    "le devoir"
+   ],
+   "auteurs": [
+    "Kant"
+   ],
+   "oeuvre": "Fondements de la métaphysique des mœurs",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « bonheur (notion du bac) », p. 60",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-bonh-citations-antiques",
+   "type": "notion",
+   "question": "Comment Épicure, Sénèque et Descartes situent-ils le plaisir et le bonheur ?",
+   "reponse": "Épicure : le plaisir est commencement et fin de la vie heureuse. Sénèque : le plaisir doit être compagnon, non guide, d'une volonté droite. Descartes : le plus grand contentement vient du bon usage du libre arbitre.",
+   "notions": [
+    "le bonheur",
+    "la liberté"
+   ],
+   "auteurs": [
+    "Épicure",
+    "Sénèque",
+    "Descartes"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « bonheur (notion du bac) », p. 61",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-bonh-schopenhauer",
+   "type": "notion",
+   "question": "Que dit Schopenhauer du rôle de l'activité dans le bonheur ?",
+   "reponse": "L'activité est indispensable au bonheur : le désœuvrement engendre l'ennui, dont seule l'activité préserve.",
+   "notions": [
+    "le bonheur",
+    "le travail"
+   ],
+   "auteurs": [
+    "Schopenhauer"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « bonheur (notion du bac) », p. 61",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-bonh-droit",
+   "type": "notion",
+   "question": "Que signifie le « droit au bonheur » (Saint-Just) ?",
+   "reponse": "« Le bonheur est une idée neuve en Europe » : il renoue avec le paganisme antique en le posant comme un droit. Exigence de justice si l'État délivre du besoin (biens sociaux de base, Rawls) ; utopie dangereuse s'il définit un bonheur commun.",
+   "notions": [
+    "le bonheur",
+    "la justice",
+    "l'État"
+   ],
+   "auteurs": [
+    "Rawls"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « bonheur (notion du bac) », p. 62",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-bonh-spinoza",
+   "type": "notion",
+   "question": "Quelle conclusion le dictionnaire tire-t-il sur le bonheur ?",
+   "reponse": "Il n'est ni un dû ni un don ; il est passif s'il n'est que rêve, mais s'il consiste en l'exercice de la fonction propre et accroît notre puissance, alors, comme Spinoza, il n'est pas de plus grand bonheur que de comprendre et de penser.",
+   "notions": [
+    "le bonheur",
+    "la raison"
+   ],
+   "auteurs": [
+    "Spinoza"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « bonheur (notion du bac) », p. 62",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-cons-definition",
+   "type": "notion",
+   "question": "Quelle différence entre conscience immédiate et conscience réfléchie ?",
+   "reponse": "La première est la simple présence à soi quand on pense, sent, agit ; la seconde est la capacité de faire retour sur ses pensées ou actions, pour les analyser ou les juger. Dans tous les cas la conscience est conscience de soi : elle fait de l'homme un sujet.",
+   "notions": [
+    "la conscience"
+   ],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « conscience (notion du bac) », p. 95",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-cons-pascal",
+   "type": "notion",
+   "question": "Que dit Pascal du roseau pensant ?",
+   "reponse": "L'homme est le plus faible roseau de la nature mais un roseau pensant : la conscience fait à la fois sa misère et sa grandeur.",
+   "notions": [
+    "la conscience"
+   ],
+   "auteurs": [
+    "Pascal"
+   ],
+   "oeuvre": "Pensées",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « conscience (notion du bac) », p. 95",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-cons-descartes",
+   "type": "notion",
+   "question": "Pourquoi la conscience devient-elle un problème philosophique chez Descartes ?",
+   "reponse": "Face à la science moderne mécaniste, il soumet tout au doute ; la seule certitude est le cogito. La conscience devient fondement et modèle de toute connaissance : plus facile à connaître que le corps, elle affirme la transparence du sujet à lui-même.",
+   "notions": [
+    "la conscience",
+    "la vérité"
+   ],
+   "auteurs": [
+    "Descartes"
+   ],
+   "oeuvre": "Méditations métaphysiques",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « conscience (notion du bac) », p. 95",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-cons-illusions",
+   "type": "notion",
+   "question": "Quelles critiques adresse-t-on à la transparence de la conscience ?",
+   "reponse": "Spinoza : la conscience ignore les causes, source d'illusions comme le libre arbitre. Nietzsche : la conscience morale exprime des sentiments non moraux. Marx : les idées reflètent la société. Freud : l'inconscient ruine la transparence.",
+   "notions": [
+    "la conscience",
+    "l'inconscient"
+   ],
+   "auteurs": [
+    "Spinoza",
+    "Nietzsche",
+    "Marx",
+    "Freud"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « conscience (notion du bac) », p. 95",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-cons-behaviorisme",
+   "type": "notion",
+   "question": "Que soutient le béhaviorisme sur la conscience ?",
+   "reponse": "Il rend compte du comportement comme réponse à des stimuli, indépendants de toute conscience ; pensée comme une « chose », la conscience est pour la psychologie positive une hypothèse inutile.",
+   "notions": [
+    "la conscience",
+    "la science"
+   ],
+   "auteurs": [],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « conscience (notion du bac) », p. 96-97",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-cons-citations",
+   "type": "notion",
+   "question": "Que retenir des citations de Rousseau, Kant, Hegel et Bergson sur la conscience ?",
+   "reponse": "Rousseau : instinct divin, juge du bien et du mal. Kant : avoir la notion du Je fait la personne. Hegel : penser élève à l'absolu, d'où un conflit douloureux avec nos limites. Bergson : toute conscience est mémoire et anticipation.",
+   "notions": [
+    "la conscience",
+    "le temps"
+   ],
+   "auteurs": [
+    "Rousseau",
+    "Kant",
+    "Hegel",
+    "Bergson"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « conscience (notion du bac) », p. 96",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-cons-intentionnalite",
+   "type": "notion",
+   "question": "Pourquoi Husserl dit-il que la conscience est intentionnalité ?",
+   "reponse": "Même en suspendant tout jugement d'existence (épochê), la conscience se rapporte au monde comme à son objet : elle n'est ni intériorité ni chose mais « rapport à ». Il y a une distance irréductible entre le sujet et l'objet visé, même si c'est lui-même.",
+   "notions": [
+    "la conscience",
+    "le temps"
+   ],
+   "auteurs": [
+    "Husserl"
+   ],
+   "oeuvre": "Méditations cartésiennes",
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « conscience (notion du bac) », p. 97",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
+  },
+  {
+   "id": "n-cons-sens",
+   "type": "notion",
+   "question": "Que devient la conscience après Husserl selon le dictionnaire ?",
+   "reponse": "Avant d'être instrument de connaissance, elle est donatrice de sens : tout entière hors d'elle-même (ek-stase), orientée vers le passé retenu ou l'avenir visé. Le sens n'est pas donné mais à construire, tâche de Ricœur.",
+   "notions": [
+    "la conscience",
+    "le temps"
+   ],
+   "auteurs": [
+    "Husserl",
+    "Ricœur"
+   ],
+   "oeuvre": null,
+   "sources": [
+    {
+     "reference": "L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « conscience (notion du bac) », p. 97",
+     "edition": null,
+     "url": null,
+     "consulte_le": "2026-09-29",
+     "fiabilite": "secondaire"
+    }
+   ],
+   "statut": "a_verifier",
+   "note_verification": "Paraphrase de l'article du dictionnaire (ebook acheté par l'utilisateur, lu le 2026-09-29). Source secondaire, à recouper avec le texte de l'auteur avant toute citation.",
+   "image_mentale": "",
+   "cree_par": "seed",
+   "rev": 1
   }
  ]
 }

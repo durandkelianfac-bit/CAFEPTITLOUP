@@ -1,0 +1,36 @@
+import { D } from './dsl.mjs';
+const N = 'notion';
+const A = (id, q, r, o) => D(id, N, q, r, { ...o, art: o.art, p: o.p });
+export default [
+// ---------- Notion du bac : l'art (p. 33-35) ----------
+A('n-art-sens', "L'art : quels sont les deux sens du mot ?",
+  "Technique, savoir-faire (ars, technê) et création artistique, recherche du beau. Il peut aussi désigner l'artifice. L'artisan maîtrise un art au premier sens, l'artiste (talent, génie) crée la beauté.",
+  { n: ["l'art", 'la technique'], art: "art (notion du bac)", p: '33' }),
+A('n-art-technique', "Quel rapport entre art et technique ?",
+  "Tout art inclut une part de technique (règles, habileté), et pour Aristote l'intention fabricatrice rapproche technicien, artisan, artiste. Mais l'art vise une réussite (beauté, éveil de l'esprit) et ne se réduit jamais à une pratique sans idée.",
+  { a: ['Aristote'], n: ["l'art", 'la technique'], art: "art (notion du bac)", p: '33' }),
+A('n-art-genie', "Que signifie « génie » dans l'esthétique kantienne ?",
+  "Plus que le talent : ce qui donne des règles à l'art et crée des formes imitables sans se référer à un modèle. L'œuvre faite selon des règles laborieusement appliquées est dite académique et ne suscite que de l'agrément.",
+  { a: ['Kant'], n: ["l'art"], o: 'Critique de la faculté de juger', art: "art (notion du bac)", p: '33' }),
+A('n-art-sentiment-esthetique', "Quel est le critère du beau dans l'esthétique de Kant ?",
+  "Le sentiment esthétique : une satisfaction désintéressée, irréductible au simple agrément, pour laquelle le sujet requiert l'assentiment d'autrui sans pouvoir l'exiger par démonstration logique.",
+  { a: ['Kant'], n: ["l'art"], art: "art (notion du bac)", p: '33' }),
+A('n-art-platon-aristote', "Comment Platon et Aristote jugent-ils l'imitation en art ?",
+  "Platon : l'art d'imiter est éloigné du vrai, illusion. Aristote : on se plaît aux images parce qu'on apprend en les regardant ; art et plaisir esthétique viennent de notre goût pour l'imitation.",
+  { a: ['Platon', 'Aristote'], n: ["l'art", 'la vérité'], art: "art (notion du bac)", p: '34' }),
+A('n-art-gout-genie', "Quelle différence entre le goût et le génie chez Kant ?",
+  "Le goût, aptitude à reconnaître le beau, est accessible à tous ; le génie, talent de produire les beaux-arts, est exceptionnel.",
+  { a: ['Kant'], n: ["l'art"], art: "art (notion du bac)", p: '34' }),
+A('n-art-hegel-nietzsche-bergson', "Que retiennent Hegel, Nietzsche et Bergson de l'art ?",
+  "Hegel : adoucir la barbarie en spiritualisant l'existence. Nietzsche : l'art donne la distance qui rend la vie désirable, la liberté au-dessus des choses. Bergson : l'artiste voit mieux, il regarde la réalité nue et sans voile.",
+  { a: ['Hegel', 'Nietzsche', 'Bergson'], n: ["l'art", 'la liberté'], art: "art (notion du bac)", p: '34' }),
+A('n-art-hegel-mort', "Que signifie la « mort de l'art » chez Hegel ?",
+  "L'œuvre est une réalité sensible pourvue de signification ; l'art est un moment de la conscience où l'esprit se reconnaît dans des formes extérieures. Destiné à disparaître comme forme éminente, il est relayé par la religion puis la philosophie.",
+  { a: ['Hegel'], n: ["l'art", 'la religion', 'le temps'], o: 'Esthétique', art: "art (notion du bac)", p: '35' }),
+A('n-art-nietzsche', "Pourquoi Nietzsche refuse-t-il de chercher une rationalité dans l'art ?",
+  "L'art ne vise pas la vérité, souvent marque de l'appétit de domination ; la réalité étant dépourvue de sens, l'œuvre est une illusion joyeuse qui réaffirme la vie malgré l'absurdité et la douleur (éternel retour).",
+  { a: ['Nietzsche'], n: ["l'art", 'la vérité'], o: 'La Naissance de la tragédie', art: "art (notion du bac)", p: '35' }),
+A('n-art-aujourdhui', "Quels problèmes l'art moderne pose-t-il ?",
+  "Ruptures, nouveauté, provocation : une œuvre éphémère est-elle encore une œuvre ? Si la création relève de déterminismes sociaux ou pulsionnels, comment obtenir une reconnaissance universelle ? Benjamin : la reproduction technique a changé les conditions de création.",
+  { a: ['Benjamin'], n: ["l'art", 'la technique'], art: "art (notion du bac)", p: '35' }),
+];
