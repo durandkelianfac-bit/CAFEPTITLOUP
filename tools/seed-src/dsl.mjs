@@ -23,3 +23,13 @@ export const D = (id, type, question, reponse, o = {}) => ({
   ...C(id, type, question, reponse, { ...o, s: [{ reference: `${DICO}, article « ${o.art} », p. ${o.p}`, edition: null, url: null, consulte_le: '2026-09-29', fiabilite: 'secondaire' }] }),
   note_verification: o.note ? `${NOTE_DICO} ${o.note}` : NOTE_DICO,
 });
+
+// ---- Cartes tirées de « Philosophie, le manuel » (Ducat & Montenot, Ellipses, 4e éd., 2020) ----
+export const MANUEL = 'P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020';
+export const NOTE_MANUEL =
+  "Paraphrase d'après le manuel (ebook acheté par l'utilisateur, texte transmis le 2026-09-29, issu d'un OCR : pagination et noms à recouper avec le livre). Source secondaire (manuel scolaire), à recouper avec le texte de l'auteur avant toute citation.";
+/** M(id, type, question, réponse, { a, n, o, ref: « section du manuel », p: page(s), note }) */
+export const M = (id, type, question, reponse, o = {}) => ({
+  ...C(id, type, question, reponse, { ...o, s: [{ reference: `${MANUEL}, ${o.ref}, p. ${o.p}`, edition: null, url: null, consulte_le: '2026-09-29', fiabilite: 'secondaire' }] }),
+  note_verification: o.note ? `${NOTE_MANUEL} ${o.note}` : NOTE_MANUEL,
+});

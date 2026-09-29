@@ -1,0 +1,32 @@
+import { M } from './dsl.mjs';
+const N = 'notion';
+export default [
+// ---------- Références culturelles : l'histoire de la notion de sujet en questions (manuel, p. 767-775) ----------
+M('m-suj-je', N, "Qu'est-ce qu'être un sujet au sens moderne, et que disent Kant et Benveniste du « Je » ?",
+  "Être à l'origine et au fondement de ses représentations, jugements et actions, en pouvant dire « je » (ego), avec la conscience de soi. Kant (Anthropologie) : posséder le Je dans sa représentation élève l'homme au-dessus des autres vivants et fait de lui une personne. Benveniste : c'est dans et par le langage que l'homme se constitue comme sujet (« est ego qui dit ego »).",
+  { a: ['Kant', 'Benveniste'], n: ['la conscience', 'le langage'], ref: 'Références culturelles, « L\'histoire de la notion de sujet en questions » (textes 553-554)', p: '767-768' }),
+M('m-suj-ambiguite', N, "Quelle ambiguïté recèle le mot « sujet » ?",
+  "Tension entre être le support, le fond et le fondamental (grammaire : sujet de la phrase ; substance) et l'assujettissement (sujet d'un roi ou d'un État). Le sujet politique est assujetti à un pouvoir, mais pour le citoyen, l'obéissance au pouvoir légitime est la condition concrète de l'exercice de sa liberté.",
+  { n: ['la conscience', "l'État", 'la liberté'], ref: 'Références culturelles, « L\'histoire de la notion de sujet en questions »', p: '768' }),
+M('m-suj-subjectum', N, "D'où vient le mot « sujet », et quel lien a-t-il avec la substance ?",
+  "Du latin subjectum (« ce qui est jeté sous »), création de la langue philosophique latine pour traduire le grec hypokeimenon d'Aristote : ce dont on peut dire quelque chose. Proche de la substance (substantia, « ce qui se tient en dessous »), ce qui demeure sous la variété des changements et rend possible l'identité à soi de la chose.",
+  { a: ['Aristote', 'Descartes'], n: ['la conscience'], ref: 'Références culturelles, « L\'histoire de la notion de sujet en questions » (texte 555)', p: '768-769' }),
+M('m-suj-inversion', N, "Comment le sens de « sujet » et d'« objet » s'est-il inversé selon Heidegger ?",
+  "Au Moyen Âge, subjectum désigne tout ce qui se tient là (même un livre), objectum ce qui est simplement représenté (une montagne d'or à laquelle on pense). À la fin du Moyen Âge, tout est mis à l'envers : le sujet devient le « je », l'objet les choses qui ne se rapportent pas au je (Séminaires de Zurich). Descartes emploie pourtant encore les mots au sens médiéval.",
+  { a: ['Heidegger', 'Descartes'], n: ['la conscience', 'la connaissance'], ref: 'Références culturelles, « L\'histoire de la notion de sujet en questions » (texte 556)', p: '769-770' }),
+M('m-suj-descartes-substance-pensante', N, "Quelle place Descartes donne-t-il au sujet ?",
+  "Il pose un « je » absolument certain de son existence comme « substance pensante » (Discours, IVe partie), ordre de réalité distinct du monde corporel réduit à l'étendue. Le sujet, autofondé, peut affirmer sa liberté et se rendre « comme maître et possesseur de la nature » (VIe partie), d'où la confiance moderne dans la science et la technique.",
+  { a: ['Descartes', 'Boehm'], n: ['la conscience', 'la science', 'la technique'], o: 'Discours de la méthode', ref: 'Références culturelles, « L\'histoire de la notion de sujet en questions » (texte 557)', p: '770-771' }),
+M('m-suj-effacement', N, "Pourquoi Lévi-Strauss veut-il « faire abstraction du sujet » ?",
+  "L'anthropologie structurale réintègre l'homme dans la nature et fait abstraction du sujet, « insupportable enfant gâté » de la scène philosophique. Lévi-Strauss reproche aux philosophes de préférer « un sujet sans rationalité à une rationalité sans sujet », pour protéger l'identité personnelle.",
+  { a: ['Lévi-Strauss'], n: ['la conscience', 'la science'], o: "L'Homme nu", ref: 'Références culturelles, « L\'histoire de la notion de sujet en questions » (textes 558-559)', p: '772' }),
+M('m-suj-foucault', N, "Que soutient Foucault sur la fabrication du sujet ?",
+  "Il ne faut pas demander aux sujets au nom de quel droit ils acceptent de se laisser assujettir, mais montrer comment ce sont les relations d'assujettissement effectives qui fabriquent des sujets : « la fabrication des sujets plutôt que la genèse du souverain » (cours de 1976).",
+  { a: ['Foucault'], n: ['la conscience', "l'État"], o: 'Il faut défendre la société', ref: 'Références culturelles, « L\'histoire de la notion de sujet en questions » (texte 560)', p: '773' }),
+M('m-suj-legendre', N, "Quel danger Legendre voit-il dans le « sujet-Roi » ?",
+  "Un individu « mini-État » qui fantasme l'absence de toute limite et de tout interdit s'annule lui-même : « chacun est à soi-même une secte, et la société une super-secte gérant l'absurde ». L'autosuppression du sujet et l'anti-Tabou dans la culture se répondent (La 901e conclusion).",
+  { a: ['Legendre'], n: ['la conscience', 'le devoir'], o: 'La 901e conclusion', ref: 'Références culturelles, « L\'histoire de la notion de sujet en questions » (textes 561-562)', p: '773-774' }),
+M('m-suj-devenir', N, "Pourquoi dit-on qu'on ne naît pas sujet mais qu'on le devient ?",
+  "Le sujet n'est pas une donnée mais le résultat d'une construction dynamique, dialectique, parfois douloureuse : il suppose de reconnaître d'autres sujets (autrui), de réfléchir sur ses désirs et affects, de ne pas être « rivé au piquet de l'instant » (Nietzsche), de se savoir mortel. La question n'est pas ce qu'est le sujet mais « qui » il est.",
+  { a: ['Nietzsche'], n: ['la conscience', 'le temps'], ref: 'Références culturelles, « L\'histoire de la notion de sujet en questions »', p: '774-775' }),
+];

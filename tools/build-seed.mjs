@@ -2,14 +2,14 @@
 // Usage : node tools/build-seed.mjs [--check]  (--check : ne réécrit pas, échoue si les fichiers sont périmés)
 import { writeFileSync, readFileSync, existsSync } from 'node:fs';
 
-const VERSION = 3; // À incrémenter à chaque évolution du jeu de départ
+const VERSION = 4; // À incrémenter à chaque évolution du jeu de départ
 const TYPES = ['notion', 'repere', 'auteur_oeuvre', 'citation', 'hlp', 'didactique', 'methode'];
 const FIAB = ['officielle', 'edition_savante', 'domaine_public', 'secondaire'];
 // Cartes retirées du jeu de départ (ex. : cartes sur le déroulement du concours). Les comptes qui les ont déjà
 // reçues les voient passer à la corbeille, sauf si l'utilisateur les a modifiées.
 const RETIRED = ['did-epreuves', 'did-oral', 'did-bac', 'did-competences', 'did-rattacher', 'did-sequence', 'did-texte-inconnu',
   'did-textes-tombes', 'did-sujets-tombes', 'did-precision', 'meth-lecture-directe', 'meth-temps'];
-const files = ['a1', 'a2', 'a3', 'a4', 'a5', 'b1', 'b2', 'b3', 'b4', 'b5', 'b6', 'b7', 'b8', 'b9', 'b10', 'b11', 'b12', 'b13', 'b14', 'b15', 'b16', 'b17', 'b18', 'c1', 'c2', 'c3', 'c4', 'c5', 'c6', 'c7', 'c8', 'c9'];
+const files = ['a1', 'a2', 'a3', 'a4', 'a5', 'b1', 'b2', 'b3', 'b4', 'b5', 'b6', 'b7', 'b8', 'b9', 'b10', 'b11', 'b12', 'b13', 'b14', 'b15', 'b16', 'b17', 'b18', 'c1', 'c2', 'c3', 'c4', 'c5', 'c6', 'c7', 'c8', 'c9', 'e1', 'e2', 'e3', 'e4', 'e5', 'e6', 'e7', 'e8', 'e9', 'e10', 'e11', 'e12', 'e13', 'e14', 'e15', 'e16', 'e17', 'e18', 'e19', 'e20', 'e21'];
 const cartes = [];
 for (const f of files) cartes.push(...(await import(`./seed-src/${f}.mjs`)).default);
 
@@ -50,7 +50,7 @@ Généré par \`npm run seed:build\` (ne pas modifier à la main : éditer \`too
 ## Bilan honnête
 
 - **${cartes.length} cartes**, dont **${nv} « vérifiée(s)** et **${cartes.length - nv} « à vérifier »**.
-- **Deux origines de cartes.** (1) Les cartes dont l'identifiant commence par \`d-\` et \`n-\` (**${cartes.filter((c) => /^(d|n)-/.test(c.id)).length} cartes**) sont rédigées d'après le dictionnaire *La philosophie de A à Z* (Hatier, 2020), ebook acheté par l'utilisateur et lu pendant la session : source secondaire (dictionnaire scolaire), page indiquée, date de consultation 2026-09-29. Elles ont été comparées à l'article mais **restent « à vérifier »** : un dictionnaire n'est pas le texte de l'auteur, et aucune URL n'existe pour ce livre. (2) Les autres cartes (${cartes.filter((c) => !/^(d|n)-/.test(c.id)).length}) ont été écrites de mémoire par l'assistant : l'environnement bloquait fr.wikisource.org, eduscol.education.gouv.fr, devenirenseignant.gouv.fr, gallica.bnf.fr et Wikipédia (réponse 403 du proxy réseau). Elles n'ont ni URL ni date de consultation et **restent « à vérifier »**. Un exemplaire piraté (Anna's Archive) transmis par l'utilisateur n'a pas été ouvert ni utilisé (règle 6).
+- **Trois origines de cartes.** (1) Les cartes dont l'identifiant commence par \`m-\` (**${cartes.filter((c) => /^m-/.test(c.id)).length} cartes**) sont rédigées d'après *Philosophie, le manuel* (P. Ducat, J. Montenot, Ellipses, 4e éd., 2020), ebook acheté par l'utilisateur dont le texte (issu d'un OCR bruité) a été transmis le 2026-09-29 : source secondaire (manuel scolaire), section et page indiquées (les pages de certains repères sont approximatives), paraphrases sans citation longue, **toutes « à vérifier »**. (2) Les cartes dont l'identifiant commence par \`d-\` et \`n-\` (**${cartes.filter((c) => /^(d|n)-/.test(c.id)).length} cartes**) sont rédigées d'après le dictionnaire *La philosophie de A à Z* (Hatier, 2020), ebook acheté par l'utilisateur et lu pendant la session : source secondaire (dictionnaire scolaire), page indiquée, date de consultation 2026-09-29. Elles ont été comparées à l'article mais **restent « à vérifier »** : un dictionnaire n'est pas le texte de l'auteur, et aucune URL n'existe pour ce livre. (3) Les autres cartes (${cartes.filter((c) => !/^(d|n|m)-/.test(c.id)).length}) ont été écrites de mémoire par l'assistant : l'environnement bloquait fr.wikisource.org, eduscol.education.gouv.fr, devenirenseignant.gouv.fr, gallica.bnf.fr et Wikipédia (réponse 403 du proxy réseau). Elles n'ont ni URL ni date de consultation et **restent « à vérifier »**. Un exemplaire piraté (Anna's Archive) transmis par l'utilisateur n'a pas été ouvert ni utilisé (règle 6).
 - Aucune citation longue n'est reproduite ; les citations (≤ 20 mots) sont soit dans une langue originale du domaine public, soit des formules canoniques courtes ; le reste est paraphrasé.
 - Aucun contenu généré par IA n'est présenté comme source : les références (Stephanus, Bekker, Akademie, Adam-Tannery, paragraphes) sont des références **standard à confirmer dans l'édition**, pas des pages consultées.
 - Aucune adresse URL n'a été enregistrée, faute de pouvoir la vérifier (règle 3).

@@ -1,0 +1,32 @@
+import { M } from './dsl.mjs';
+const N = 'notion';
+export default [
+// ---------- Références culturelles : le fait religieux (manuel, p. 793-797) ----------
+M('m-fr-definition', N, "Peut-on définir la religion par le culte rendu à des dieux ?",
+  "Non : certaines religions ne se réfèrent à aucune divinité (bouddhisme, doctrine spirituelle et morale sans dieu ; religions « primitives » : animisme, fétichisme). Toute religion suppose en revanche une séparation entre le sacré et le profane (souvent aussi entre surnaturel caché et naturel visible), une dimension sociale et publique qui la distingue d'un groupe magique.",
+  { n: ['la religion'], ref: 'Références culturelles, « Le fait religieux »', p: '793' }),
+M('m-fr-fonction', N, "Quelle fonction anthropologique les religions remplissent-elles ?",
+  "Elles donnent sens à l'existence, organisent la vie sociale et aménagent, par un système symbolique, la relation de l'homme à une altérité qui le dépasse. Une civilisation qui se croit laïcisée et rationalisée fabrique sans le savoir des mythologies et des appareils symboliques qui font office d'ersatz du religieux, et favorise la multiplication des sectes.",
+  { n: ['la religion'], ref: 'Références culturelles, « Le fait religieux »', p: '793' }),
+M('m-fr-durkheim', N, "Comment Durkheim définit-il la religion ?",
+  "Un système solidaire de croyances et de pratiques relatives à des choses sacrées, c'est-à-dire séparées, interdites, qui unissent en une même communauté morale, appelée Église (ekklêsia, assemblée), tous ceux qui y adhèrent (Les Formes élémentaires de la vie religieuse, 1912).",
+  { a: ['Durkheim'], n: ['la religion'], o: 'Les Formes élémentaires de la vie religieuse', ref: 'Références culturelles, « Le fait religieux » (texte 597)', p: '793' }),
+M('m-fr-antiques', N, "Quels traits caractérisent les religions antiques (Égypte, Grèce, Rome) ?",
+  "Polythéisme : pluralité de dieux dans des panthéons. Les dieux sont immortels mais non éternels (théogonie), interviennent dans les affaires humaines et reçoivent des cultes spécifiques (sacrifices). Ni livres sacrés, ni dogme fixé, ni Églises. La croyance repose sur des rituels familiaux, sociaux, politiques ; la piété romaine est le respect du culte traditionnel.",
+  { n: ['la religion'], ref: 'Références culturelles, « Le fait religieux »', p: '793-794' }),
+M('m-fr-monotheismes', N, "Pourquoi parler de « trois monothéismes » est-il approximatif ?",
+  "D'autres monothéismes existent (bahaïsme, sikhs) et des monothéismes non religieux (Xénophane, déisme des Lumières). « Peuples du Livre » (Coran) et « religions abrahamiques » sont aussi imparfaits : les textes et leur lecture diffèrent, et l'Ibrahim du Coran n'est pas l'Abraham de l'Ancien Testament. Juifs et musulmans peinent à accepter la Trinité chrétienne.",
+  { a: ['Xénophane'], n: ['la religion'], ref: 'Références culturelles, « Le fait religieux »', p: '794-795' }),
+M('m-fr-noms', N, "D'où viennent les noms « judaïsme », « chrétien », « islam » ?",
+  "Judaïsme : de Yahadout, mot créé tardivement par des Juifs hellénophones ; « Juifs » (Yehoudi) désigne d'abord les descendants de la tribu de Juda. Chrétiens : de Jésus-Christ (christos, « l'Oint »). Islam : mot arabe signifiant « soumission intérieure » et « profession de foi extérieure » ; muslim : celui qui se soumet.",
+  { n: ['la religion'], ref: 'Références culturelles, « Le fait religieux »', p: '795-796' }),
+M('m-fr-textes-sacres', N, "Comment les trois monothéismes se rapportent-ils à leur livre sacré ?",
+  "Tous trois tiennent leurs textes pour révélés, mais : Torah = règle de vie (Halakha) et « patrie portative » (Heine) ; Nouveau Testament vaut pour ce qu'il raconte (mort et résurrection du Christ), textes d'époques et d'auteurs divers rassemblés en canon (fixé dès le IVe s. ; Concile de Trente, 1546) ; Coran = parole d'Allah lui-même dictée à Mahomet, établi vers 650, 114 sourates.",
+  { a: ['Heine'], n: ['la religion'], ref: 'Références culturelles, « Le fait religieux »', p: '796-797' }),
+M('m-fr-bible', N, "Comment se composent la Bible hébraïque et la Bible chrétienne ?",
+  "Bible hébraïque (39 livres) : la Loi (Torah, cinq premiers livres), les Prophètes (Nebiim), les Écrits (Ketubiim : Psaumes, Cantique des cantiques, Ecclésiaste…). Bible chrétienne : Ancien Testament (proche de la Bible hébraïque, avec plus de textes dans un autre ordre) et Nouveau Testament (quatre Évangiles, Épîtres dont celles de Paul, Actes des Apôtres, Apocalypse).",
+  { n: ['la religion'], ref: 'Références culturelles, « Le fait religieux » (les textes sacrés)', p: '796-797' }),
+M('m-fr-histoire-juive', N, "Quels sont les repères de l'histoire juive selon le manuel ?",
+  "Patriarches (Abraham, Isaac, Jacob) ; sortie d'Égypte (vers 1250/1230 av. J.-C.) et don de la Torah au Sinaï (Moïse, l'Alliance) ; conquête de Canaan et monarchie ; David, puis Salomon (Temple, vers 960) ; division en Israël et Juda (vers 931) ; destruction du premier Temple (586), exil à Babylone, second Temple (515) ; destruction du second Temple (70), diaspora ; Shoah.",
+  { a: ['Moïse', 'David', 'Salomon'], n: ['la religion', 'le temps'], ref: 'Références culturelles, « Le fait religieux »', p: '797-798' }),
+];

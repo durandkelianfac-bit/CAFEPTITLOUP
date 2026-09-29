@@ -1,11 +1,11 @@
-# RAPPORT_SOURCES — jeu de départ, version 3
+# RAPPORT_SOURCES — jeu de départ, version 4
 
 Généré par `npm run seed:build` (ne pas modifier à la main : éditer `tools/seed-src/`).
 
 ## Bilan honnête
 
-- **567 cartes**, dont **0 « vérifiée(s)** et **567 « à vérifier »**.
-- **Deux origines de cartes.** (1) Les cartes dont l'identifiant commence par `d-` et `n-` (**402 cartes**) sont rédigées d'après le dictionnaire *La philosophie de A à Z* (Hatier, 2020), ebook acheté par l'utilisateur et lu pendant la session : source secondaire (dictionnaire scolaire), page indiquée, date de consultation 2026-09-29. Elles ont été comparées à l'article mais **restent « à vérifier »** : un dictionnaire n'est pas le texte de l'auteur, et aucune URL n'existe pour ce livre. (2) Les autres cartes (165) ont été écrites de mémoire par l'assistant : l'environnement bloquait fr.wikisource.org, eduscol.education.gouv.fr, devenirenseignant.gouv.fr, gallica.bnf.fr et Wikipédia (réponse 403 du proxy réseau). Elles n'ont ni URL ni date de consultation et **restent « à vérifier »**. Un exemplaire piraté (Anna's Archive) transmis par l'utilisateur n'a pas été ouvert ni utilisé (règle 6).
+- **850 cartes**, dont **0 « vérifiée(s)** et **850 « à vérifier »**.
+- **Trois origines de cartes.** (1) Les cartes dont l'identifiant commence par `m-` (**283 cartes**) sont rédigées d'après *Philosophie, le manuel* (P. Ducat, J. Montenot, Ellipses, 4e éd., 2020), ebook acheté par l'utilisateur dont le texte (issu d'un OCR bruité) a été transmis le 2026-09-29 : source secondaire (manuel scolaire), section et page indiquées (les pages de certains repères sont approximatives), paraphrases sans citation longue, **toutes « à vérifier »**. (2) Les cartes dont l'identifiant commence par `d-` et `n-` (**402 cartes**) sont rédigées d'après le dictionnaire *La philosophie de A à Z* (Hatier, 2020), ebook acheté par l'utilisateur et lu pendant la session : source secondaire (dictionnaire scolaire), page indiquée, date de consultation 2026-09-29. Elles ont été comparées à l'article mais **restent « à vérifier »** : un dictionnaire n'est pas le texte de l'auteur, et aucune URL n'existe pour ce livre. (3) Les autres cartes (165) ont été écrites de mémoire par l'assistant : l'environnement bloquait fr.wikisource.org, eduscol.education.gouv.fr, devenirenseignant.gouv.fr, gallica.bnf.fr et Wikipédia (réponse 403 du proxy réseau). Elles n'ont ni URL ni date de consultation et **restent « à vérifier »**. Un exemplaire piraté (Anna's Archive) transmis par l'utilisateur n'a pas été ouvert ni utilisé (règle 6).
 - Aucune citation longue n'est reproduite ; les citations (≤ 20 mots) sont soit dans une langue originale du domaine public, soit des formules canoniques courtes ; le reste est paraphrasé.
 - Aucun contenu généré par IA n'est présenté comme source : les références (Stephanus, Bekker, Akademie, Adam-Tannery, paragraphes) sont des références **standard à confirmer dans l'édition**, pas des pages consultées.
 - Aucune adresse URL n'a été enregistrée, faute de pouvoir la vérifier (règle 3).
@@ -29,7 +29,7 @@ Ouvrir la source indiquée, comparer avec la réponse, corriger si besoin, compl
 
 ## Détail par carte
 
-### Notions (143)
+### Notions (374)
 
 **`not-art`** — L'art : quelles questions poser ?  
 Statut : *à vérifier* · Auteurs : Kant, Hegel, Aristote
@@ -636,7 +636,931 @@ Statut : *à vérifier* · Auteurs : Descartes, Pascal, James, Alain, Russell
 Statut : *à vérifier* · Auteurs : Nietzsche, Heidegger
 - L. Hansen-Løve, P. Kahn, É. Clément, La philosophie de A à Z, nouvelle éd., Hatier, 2020, article « vérité (notion du bac) », p. 517 — *secondaire* (consultée le 2026-09-29)
 
-### Repères (15)
+**`m-art-mot`** — Quels sens le mot « art » recouvre-t-il, et de quel mot grec hérite-t-il ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'art, « De l'usage du mot à la notion », p. 102 — *secondaire* (consultée le 2026-09-29)
+
+**`m-art-nature`** — Quelle formule d'Aristote est à l'origine de la doctrine de l'imitation de la nature ?  
+Statut : *à vérifier* · Auteurs : Aristote
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'art, « De l'usage du mot à la notion », p. 102 — *secondaire* (consultée le 2026-09-29)
+
+**`m-art-artiste-artisan`** — Depuis quand distingue-t-on l'artiste de l'artisan ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'art, « De l'usage du mot à la notion », p. 102-103 — *secondaire* (consultée le 2026-09-29)
+
+**`m-art-artiste-postures`** — Entre quelles deux postures l'artiste moderne oscille-t-il ?  
+Statut : *à vérifier* · Auteurs : Adorno
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'art, « De l'usage du mot à la notion », p. 103 — *secondaire* (consultée le 2026-09-29)
+
+**`m-art-aura`** — Qu'est-ce que l'aura d'une œuvre d'art (Benjamin) ?  
+Statut : *à vérifier* · Auteurs : Benjamin
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'art, « Termes essentiels » (aura), p. 104 — *secondaire* (consultée le 2026-09-29)
+
+**`m-art-arts-mecaniques`** — Que sont les « arts mécaniques » ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'art, « Termes essentiels » (arts mécaniques), p. 104 — *secondaire* (consultée le 2026-09-29)
+
+**`m-art-beau`** — Comment Kant et Hegel définissent-ils le beau ?  
+Statut : *à vérifier* · Auteurs : Kant, Hegel
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'art, « Termes essentiels » (beau), p. 104 — *secondaire* (consultée le 2026-09-29)
+
+**`m-art-beaux-arts`** — Que désignent les « beaux-arts » et quand le concept apparaît-il ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'art, « Termes essentiels » (beaux-arts), p. 104 — *secondaire* (consultée le 2026-09-29)
+
+**`m-art-esthetique`** — Que signifie « esthétique » ?  
+Statut : *à vérifier* · Auteurs : Kant
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'art, « Termes essentiels » (esthétique), p. 106 — *secondaire* (consultée le 2026-09-29)
+
+**`m-art-genie`** — Comment Kant redéfinit-il le génie ?  
+Statut : *à vérifier* · Auteurs : Kant
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'art, « Termes essentiels » (génie), p. 106 — *secondaire* (consultée le 2026-09-29)
+
+**`m-art-gout`** — Comment Diderot et Kant définissent-ils le goût ?  
+Statut : *à vérifier* · Auteurs : Diderot, Kant
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'art, « Termes essentiels » (goût), p. 106 — *secondaire* (consultée le 2026-09-29)
+
+**`m-art-jugement-reflechissant`** — Qu'est-ce que le jugement réfléchissant chez Kant ?  
+Statut : *à vérifier* · Auteurs : Kant
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'art, « Termes essentiels » (jugement réfléchissant), p. 106 — *secondaire* (consultée le 2026-09-29)
+
+**`m-art-medium-sublime`** — Que sont le médium (Greenberg) et le sublime (Kant) ?  
+Statut : *à vérifier* · Auteurs : Greenberg, Kant
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'art, « Termes essentiels » (médium, sublime), p. 106 — *secondaire* (consultée le 2026-09-29)
+
+**`m-bonh-fin-derniere`** — Pourquoi le bonheur est-il une fin dernière ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le bonheur, « De l'usage du mot à la notion », p. 143 — *secondaire* (consultée le 2026-09-29)
+
+**`m-bonh-kant-definition`** — Quelle définition du bonheur Kant donne-t-il, et pourquoi n'est-il qu'un « idéal de l'imagination » ?  
+Statut : *à vérifier* · Auteurs : Kant
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le bonheur, « De l'usage du mot à la notion », p. 143 — *secondaire* (consultée le 2026-09-29)
+
+**`m-bonh-etymologie`** — Que révèle l'étymologie de « bonheur » ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le bonheur, « De l'usage du mot à la notion », p. 143 — *secondaire* (consultée le 2026-09-29)
+
+**`m-bonh-ascese`** — Que désigne l'ascèse dans la philosophie ancienne ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le bonheur, « Termes essentiels » (ascèse), p. 144 — *secondaire* (consultée le 2026-09-29)
+
+**`m-bonh-autarcie-ataraxie`** — Autarcie et ataraxie : définitions ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le bonheur, « Termes essentiels » (autarcie, ataraxie), p. 144 — *secondaire* (consultée le 2026-09-29)
+
+**`m-bonh-beatitude-felicite`** — Béatitude, félicité, contentement, bienheureux : nuances ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le bonheur, « Termes essentiels », p. 144 — *secondaire* (consultée le 2026-09-29)
+
+**`m-bonh-eudemonisme-hedonisme`** — Eudémonisme, hédonisme, utilitarisme : définitions ?  
+Statut : *à vérifier* · Auteurs : Kant, Bentham, Mill
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le bonheur, « Termes essentiels », p. 144-146 — *secondaire* (consultée le 2026-09-29)
+
+**`m-bonh-fortune-souverain-bien`** — Que signifient fortune et souverain bien ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le bonheur, « Termes essentiels », p. 144-145 — *secondaire* (consultée le 2026-09-29)
+
+**`m-bonh-vertu-sagesse`** — Vertu, sagesse, rigorisme, modération : définitions ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le bonheur, « Termes essentiels », p. 145-146 — *secondaire* (consultée le 2026-09-29)
+
+**`m-cons-deux-sens`** — Quelles sont les deux grandes significations de la conscience ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La conscience, « De l'usage du mot à la notion », p. 171-172 — *secondaire* (consultée le 2026-09-29)
+
+**`m-cons-etymologie`** — Que suggère l'étymologie de « conscience » ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La conscience, « De l'usage du mot à la notion », p. 172 — *secondaire* (consultée le 2026-09-29)
+
+**`m-cons-behaviorisme`** — Que pense le behaviorisme de la notion de conscience ?  
+Statut : *à vérifier* · Auteurs : Watson
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La conscience, « Termes essentiels » (behaviorisme), p. 172-174 — *secondaire* (consultée le 2026-09-29)
+
+**`m-cons-ame`** — Que désigne « âme » et pourquoi le mot a-t-il été supplanté ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La conscience, « Termes essentiels » (âme), p. 174 — *secondaire* (consultée le 2026-09-29)
+
+**`m-cons-aperception`** — Qu'appelle-t-on aperception (Leibniz, Kant) ?  
+Statut : *à vérifier* · Auteurs : Leibniz, Kant
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La conscience, « Termes essentiels » (aperception), p. 174 — *secondaire* (consultée le 2026-09-29)
+
+**`m-cons-cogito`** — Que désigne le cogito et quelle formule de Descartes l'exprime ?  
+Statut : *à vérifier* · Auteurs : Descartes
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La conscience, « Termes essentiels » (cogito), p. 174 — *secondaire* (consultée le 2026-09-29)
+
+**`m-cons-conscience-de-soi`** — Qu'est-ce que la conscience de soi en philosophie, et quelle formule de Kant l'illustre ?  
+Statut : *à vérifier* · Auteurs : Kant
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La conscience, « Termes essentiels » (conscience de soi), p. 174 — *secondaire* (consultée le 2026-09-29)
+
+**`m-cons-doute`** — Quels sont les trois sens du doute ?  
+Statut : *à vérifier* · Auteurs : Pyrrhon, Montaigne, Descartes
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La conscience, « Termes essentiels » (doute), p. 174 — *secondaire* (consultée le 2026-09-29)
+
+**`m-cons-intersubjectivite`** — Qu'est-ce que l'intersubjectivité (Husserl) ?  
+Statut : *à vérifier* · Auteurs : Husserl
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La conscience, « Termes essentiels » (intersubjectivité), p. 174 — *secondaire* (consultée le 2026-09-29)
+
+**`m-cons-phenomenologie`** — Qu'est-ce que la phénoménologie selon Husserl ?  
+Statut : *à vérifier* · Auteurs : Husserl
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La conscience, « Termes essentiels » (phénoménologie), p. 174 — *secondaire* (consultée le 2026-09-29)
+
+**`m-cons-solipsisme-subjectivite`** — Solipsisme et subjectivité : que désignent-ils ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La conscience, « Termes essentiels », p. 174-175 — *secondaire* (consultée le 2026-09-29)
+
+**`m-cons-substance`** — Qu'est-ce que la substance ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La conscience, « Termes essentiels » (substance), p. 175-176 — *secondaire* (consultée le 2026-09-29)
+
+**`m-cons-transcendantal`** — Transcendantal et transcendant chez Kant : quelle différence ?  
+Statut : *à vérifier* · Auteurs : Kant
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La conscience, « Termes essentiels », p. 176 — *secondaire* (consultée le 2026-09-29)
+
+**`m-dev-definition`** — Qu'est-ce qu'un devoir, et est-il contraignant au sens fort ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le devoir, « De l'usage du mot à la notion », p. 209-210 — *secondaire* (consultée le 2026-09-29)
+
+**`m-dev-trois-types`** — Quels sont les trois types de devoirs, et qu'est-ce qu'une obligation parfaite ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le devoir, « De l'usage du mot à la notion », p. 210 — *secondaire* (consultée le 2026-09-29)
+
+**`m-dev-regle-or`** — Quelle maxime le manuel donne-t-il comme pierre de touche du devoir moral ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le devoir, « De l'usage du mot à la notion », p. 210-211 — *secondaire* (consultée le 2026-09-29)
+
+**`m-dev-autonomie`** — Autonomie et hétéronomie chez Kant : que signifient-elles ?  
+Statut : *à vérifier* · Auteurs : Kant
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le devoir, « Termes essentiels » (autonomie), p. 212 — *secondaire* (consultée le 2026-09-29)
+
+**`m-dev-imperatif`** — Impératif catégorique et impératif hypothétique : différence ?  
+Statut : *à vérifier* · Auteurs : Kant
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le devoir, « Termes essentiels » (impératif), p. 212 — *secondaire* (consultée le 2026-09-29)
+
+**`m-dev-ethique-morale`** — Éthique et morale : quelle différence le manuel propose-t-il ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le devoir, « Termes essentiels » (éthique, morale), p. 212 — *secondaire* (consultée le 2026-09-29)
+
+**`m-dev-maxime`** — En quoi la maxime diffère-t-elle du devoir (Kant) ?  
+Statut : *à vérifier* · Auteurs : Kant
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le devoir, « Termes essentiels » (maxime), p. 212 — *secondaire* (consultée le 2026-09-29)
+
+**`m-dev-respect`** — Qu'est-ce que le respect chez Kant ?  
+Statut : *à vérifier* · Auteurs : Kant
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le devoir, « Termes essentiels » (respect), p. 212-213 — *secondaire* (consultée le 2026-09-29)
+
+**`m-dev-deontologie-commandement`** — Déontologie, commandement, obligation, légalisme : définitions ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le devoir, « Termes essentiels », p. 212-213 — *secondaire* (consultée le 2026-09-29)
+
+**`m-dev-sanction-tabou-rigorisme`** — Sanction, tabou, rigorisme (moral) : définitions ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le devoir, « Termes essentiels », p. 213 — *secondaire* (consultée le 2026-09-29)
+
+**`m-etat-etymologie`** — Que révèle l'étymologie du mot « État » ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'État, « De l'usage du mot à la notion », p. 235-236 — *secondaire* (consultée le 2026-09-29)
+
+**`m-etat-phenomene-historique`** — L'État a-t-il existé de tout temps ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'État, « De l'usage du mot à la notion », p. 236-237 — *secondaire* (consultée le 2026-09-29)
+
+**`m-etat-ambivalence`** — Pourquoi le discours sur l'État est-il ambivalent ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'État, « De l'usage du mot à la notion », p. 237 — *secondaire* (consultée le 2026-09-29)
+
+**`m-etat-anarchie`** — Qu'est-ce que l'anarchie, et quelle définition Proudhon en donne-t-il ?  
+Statut : *à vérifier* · Auteurs : Proudhon
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'État, « Termes essentiels » (anarchie), p. 238 — *secondaire* (consultée le 2026-09-29)
+
+**`m-etat-artifice-communaute`** — Artifice et communauté (Tönnies) : que signifient-ils ?  
+Statut : *à vérifier* · Auteurs : Tönnies
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'État, « Termes essentiels », p. 238 — *secondaire* (consultée le 2026-09-29)
+
+**`m-etat-droit-isonomie`** — État de droit et isonomie : définitions ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'État, « Termes essentiels », p. 238 — *secondaire* (consultée le 2026-09-29)
+
+**`m-etat-gouvernement-institution`** — Gouvernement et institution : définitions ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'État, « Termes essentiels », p. 238 — *secondaire* (consultée le 2026-09-29)
+
+**`m-etat-liberalisme`** — Que distingue-t-on dans le libéralisme ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'État, « Termes essentiels » (libéralisme), p. 238 — *secondaire* (consultée le 2026-09-29)
+
+**`m-etat-nation-puissance`** — Nation, puissance, souveraineté : définitions ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'État, « Termes essentiels », p. 239 — *secondaire* (consultée le 2026-09-29)
+
+**`m-etat-representation-republique`** — Représentation et république : que désignent-elles ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'État, « Termes essentiels », p. 239 — *secondaire* (consultée le 2026-09-29)
+
+**`m-etat-sociabilite-socialisme`** — Sociabilité et socialisme : définitions ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'État, « Termes essentiels », p. 239 — *secondaire* (consultée le 2026-09-29)
+
+**`m-etat-totalitarisme`** — Qu'est-ce que le totalitarisme d'après le manuel ?  
+Statut : *à vérifier* · Auteurs : Arendt
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'État, « Termes essentiels » (totalitarisme), p. 240 — *secondaire* (consultée le 2026-09-29)
+
+**`m-etat-societes-animales`** — En quoi les sociétés humaines diffèrent-elles des sociétés animales ?  
+Statut : *à vérifier* · Auteurs : Platon, Mandeville
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'État, Problématiques : origines de la société et de l'État, p. 241-242 — *secondaire* (consultée le 2026-09-29)
+
+**`m-etat-animal-politique`** — En quel sens l'homme est-il « par nature » un animal politique (Aristote) ?  
+Statut : *à vérifier* · Auteurs : Aristote
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'État, Problématiques (texte 170), p. 242 — *secondaire* (consultée le 2026-09-29)
+
+**`m-inc-usages`** — Comment le langage courant emploie-t-il « inconscient », et pourquoi cela fait-il écran à la notion ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'inconscient, « De l'usage du mot à la notion », p. 273 — *secondaire* (consultée le 2026-09-29)
+
+**`m-inc-histoire-mot`** — Comment le terme « inconscient » s'est-il diffusé avant Freud ?  
+Statut : *à vérifier* · Auteurs : Hartmann
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'inconscient, « De l'usage du mot à la notion », p. 273 — *secondaire* (consultée le 2026-09-29)
+
+**`m-inc-freud-lacan`** — En quoi l'inconscient freudien diffère-t-il de l'inconscient philosophique ?  
+Statut : *à vérifier* · Auteurs : Freud, Lacan
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'inconscient, « De l'usage du mot à la notion », p. 273 — *secondaire* (consultée le 2026-09-29)
+
+**`m-inc-oedipe`** — Qu'est-ce que le complexe d'Œdipe ?  
+Statut : *à vérifier* · Auteurs : Freud, Sophocle
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'inconscient, « Termes essentiels », p. 274 — *secondaire* (consultée le 2026-09-29)
+
+**`m-inc-hypnose-hysterie`** — Hypnose et hystérie : quel rôle dans la découverte de Freud ?  
+Statut : *à vérifier* · Auteurs : Freud
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'inconscient, « Termes essentiels », p. 274 — *secondaire* (consultée le 2026-09-29)
+
+**`m-inc-libido-nevrose`** — Libido, névrose, psychose, phobie : définitions ?  
+Statut : *à vérifier* · Auteurs : Freud
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'inconscient, « Termes essentiels », p. 274 — *secondaire* (consultée le 2026-09-29)
+
+**`m-inc-psychanalyse`** — Qu'est-ce que la psychanalyse ?  
+Statut : *à vérifier* · Auteurs : Freud
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'inconscient, « Termes essentiels » (psychanalyse), p. 274 — *secondaire* (consultée le 2026-09-29)
+
+**`m-inc-refoulement`** — Qu'est-ce que le refoulement, et comment le refoulé revient-il ?  
+Statut : *à vérifier* · Auteurs : Freud
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'inconscient, « Termes essentiels » (refoulement), p. 274 — *secondaire* (consultée le 2026-09-29)
+
+**`m-inc-premiere-topique`** — Quelles instances distingue la première topique freudienne (1900) ?  
+Statut : *à vérifier* · Auteurs : Freud
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'inconscient, « Termes essentiels » (topiques), p. 274-275 — *secondaire* (consultée le 2026-09-29)
+
+**`m-inc-seconde-topique`** — Quelles instances distingue la seconde topique freudienne (à partir de 1920) ?  
+Statut : *à vérifier* · Auteurs : Freud
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, L'inconscient, « Termes essentiels » (topiques), p. 275 — *secondaire* (consultée le 2026-09-29)
+
+**`m-just-droit-morale`** — Pourquoi le droit et la justice peuvent-ils entrer en conflit ?  
+Statut : *à vérifier* · Auteurs : Sophocle, Hugo
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La justice, « De l'usage du mot à la notion », p. 303-304 — *secondaire* (consultée le 2026-09-29)
+
+**`m-just-ulpien`** — Quelle définition de la justice attribue-t-on au juriste romain Ulpien, et que lui oppose Jésus ?  
+Statut : *à vérifier* · Auteurs : Ulpien
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La justice, « De l'usage du mot à la notion », p. 304 — *secondaire* (consultée le 2026-09-29)
+
+**`m-just-droit-pouvoir`** — Le droit est-il l'application d'une justice idéale ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La justice, « De l'usage du mot à la notion », p. 304-305 — *secondaire* (consultée le 2026-09-29)
+
+**`m-just-democratie-republicain`** — Démocratique et républicain : quelle différence ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La justice, « Termes essentiels », p. 306 — *secondaire* (consultée le 2026-09-29)
+
+**`m-just-despotisme-tyran`** — Despotisme et tyrannie : quelle distinction Rousseau propose-t-il ?  
+Statut : *à vérifier* · Auteurs : Rousseau
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La justice, « Termes essentiels » (despotisme), p. 306 — *secondaire* (consultée le 2026-09-29)
+
+**`m-just-droit-naturel-positif`** — Droit naturel et droit positif : définitions ?  
+Statut : *à vérifier* · Auteurs : Rousseau
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La justice, « Termes essentiels », p. 306 — *secondaire* (consultée le 2026-09-29)
+
+**`m-just-penal-public-prive`** — Droit pénal, droit public, droit privé : définitions ?  
+Statut : *à vérifier* · Auteurs : Kelsen
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La justice, « Termes essentiels », p. 306-307 — *secondaire* (consultée le 2026-09-29)
+
+**`m-just-droit-subjectif`** — Qu'est-ce qu'un droit subjectif ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La justice, « Termes essentiels », p. 307 — *secondaire* (consultée le 2026-09-29)
+
+**`m-just-polis`** — Que désignent polis, politeia et politikê ?  
+Statut : *à vérifier* · Auteurs : Platon
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La justice, « Termes essentiels » (polis), p. 307 — *secondaire* (consultée le 2026-09-29)
+
+**`m-just-raison-etat`** — Qu'est-ce que la raison d'État ?  
+Statut : *à vérifier* · Auteurs : Machiavel, Botero
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La justice, « Termes essentiels » (raison d'État), p. 307 — *secondaire* (consultée le 2026-09-29)
+
+**`m-lang-langue-parole`** — Langage, langue, parole : comment les distinguer ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le langage, « De l'usage du mot à la notion », p. 337-338 — *secondaire* (consultée le 2026-09-29)
+
+**`m-lang-communication`** — Pourquoi la communication par le langage n'est-elle jamais immédiate ?  
+Statut : *à vérifier* · Auteurs : Rimbaud
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le langage, « De l'usage du mot à la notion », p. 338-339 — *secondaire* (consultée le 2026-09-29)
+
+**`m-lang-double-articulation`** — Double articulation : en quelles unités (monèmes, phonèmes) un énoncé se décompose-t-il ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le langage, « Termes essentiels » (double articulation), p. 339-340 — *secondaire* (consultée le 2026-09-29)
+
+**`m-lang-apophantique`** — Qu'appelle-t-on discours apophantique chez Aristote ?  
+Statut : *à vérifier* · Auteurs : Aristote
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le langage, « Termes essentiels » (apophantique), p. 340 — *secondaire* (consultée le 2026-09-29)
+
+**`m-lang-discours-logos`** — Discours, discursif, logos : définitions ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le langage, « Termes essentiels », p. 340 — *secondaire* (consultée le 2026-09-29)
+
+**`m-lang-equivoque-univoque`** — Équivoque (plurivoque), univoque, ineffable : définitions ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le langage, « Termes essentiels », p. 340-341 — *secondaire* (consultée le 2026-09-29)
+
+**`m-lang-langue-naturelle-universelle`** — Langue naturelle et langue universelle : différence ?  
+Statut : *à vérifier* · Auteurs : Leibniz
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le langage, « Termes essentiels », p. 340 — *secondaire* (consultée le 2026-09-29)
+
+**`m-lang-linguistique`** — Quelle est la différence entre linguistique synchronique et diachronique ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le langage, « Termes essentiels » (linguistique), p. 340 — *secondaire* (consultée le 2026-09-29)
+
+**`m-lang-performatif`** — Qu'est-ce qu'un énoncé performatif ?  
+Statut : *à vérifier* · Auteurs : Austin
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le langage, « Termes essentiels » (performatif), p. 340 — *secondaire* (consultée le 2026-09-29)
+
+**`m-lang-signe-saussure`** — Signe, signifiant, signifié, symbole : quelles définitions (Saussure) ?  
+Statut : *à vérifier* · Auteurs : Saussure
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le langage, « Termes essentiels », p. 341 — *secondaire* (consultée le 2026-09-29)
+
+**`m-lang-systeme-univocite`** — Qu'entend-on par « système » en linguistique ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le langage, « Termes essentiels » (système), p. 341 — *secondaire* (consultée le 2026-09-29)
+
+**`m-lang-propre-homme`** — Le langage est-il le propre de l'homme ? Quels arguments s'opposent ?  
+Statut : *à vérifier* · Auteurs : Aristote, Montaigne, Descartes, Benveniste
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le langage, Problématiques (textes 221, 222, 224), p. 342 — *secondaire* (consultée le 2026-09-29)
+
+**`m-lang-penser-mots`** — Pense-t-on dans les mots ? Quelles positions ?  
+Statut : *à vérifier* · Auteurs : Bergson, Platon, Leibniz, Hegel, Wittgenstein
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le langage, Problématiques (textes 223, 225, 231-233), p. 343-344 — *secondaire* (consultée le 2026-09-29)
+
+**`m-lang-domination`** — Comment Orwell montre-t-il que le langage peut être un instrument de domination ?  
+Statut : *à vérifier* · Auteurs : Orwell
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le langage, Problématiques (texte 235), p. 344 — *secondaire* (consultée le 2026-09-29)
+
+**`m-lib-usages`** — Que révèlent les usages courants du mot « liberté » ?  
+Statut : *à vérifier* · Auteurs : Valéry
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La liberté, « De l'usage du mot à la notion », p. 367-368 — *secondaire* (consultée le 2026-09-29)
+
+**`m-lib-toute-puissance`** — Pourquoi la liberté n'est-elle pas la toute-puissance de la volonté ?  
+Statut : *à vérifier* · Auteurs : Nerval, Platon
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La liberté, « De l'usage du mot à la notion », p. 368 — *secondaire* (consultée le 2026-09-29)
+
+**`m-lib-positive`** — Quelle conception positive de la liberté le manuel oppose-t-il à la toute-puissance ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La liberté, « De l'usage du mot à la notion », p. 368 — *secondaire* (consultée le 2026-09-29)
+
+**`m-lib-authenticite-autodetermination`** — Authenticité et autodétermination : définitions ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La liberté, « Termes essentiels », p. 370 — *secondaire* (consultée le 2026-09-29)
+
+**`m-lib-causalite-contingence`** — Causalité, contingence, nécessaire : définitions dans le cadre de la liberté ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La liberté, « Termes essentiels », p. 370 — *secondaire* (consultée le 2026-09-29)
+
+**`m-lib-destin-fatalisme`** — Destin, fatalité, fatalisme, providence : définitions ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La liberté, « Termes essentiels », p. 370-371 — *secondaire* (consultée le 2026-09-29)
+
+**`m-lib-determinisme`** — Qu'est-ce que le déterminisme ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La liberté, « Termes essentiels » (déterminisme), p. 370 — *secondaire* (consultée le 2026-09-29)
+
+**`m-lib-libre-arbitre`** — Qu'est-ce que le libre arbitre (Descartes) ?  
+Statut : *à vérifier* · Auteurs : Descartes
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La liberté, « Termes essentiels », p. 371 — *secondaire* (consultée le 2026-09-29)
+
+**`m-lib-hasard-prudence`** — Hasard et prudence : définitions ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La liberté, « Termes essentiels », p. 371 — *secondaire* (consultée le 2026-09-29)
+
+**`m-lib-responsabilite-volonte`** — Responsabilité et volonté : définitions, et différence entre volonté et désir ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La liberté, « Termes essentiels », p. 371 — *secondaire* (consultée le 2026-09-29)
+
+**`m-nat-ambiguite`** — Quelle ambiguïté fondamentale le mot « nature » présente-t-il ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La nature, « De l'usage du mot à la notion », p. 403-404 — *secondaire* (consultée le 2026-09-29)
+
+**`m-nat-questions`** — Quelles questions la notion de nature ouvre-t-elle ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La nature, « De l'usage du mot à la notion », p. 404-405 — *secondaire* (consultée le 2026-09-29)
+
+**`m-nat-a-priori`** — A priori et a posteriori : définitions ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La nature, « Termes essentiels » (a priori), p. 406 — *secondaire* (consultée le 2026-09-29)
+
+**`m-nat-artefact-abstraction`** — Artefact et abstraction : définitions ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La nature, « Termes essentiels », p. 406 — *secondaire* (consultée le 2026-09-29)
+
+**`m-nat-causalite`** — Que pose le principe de causalité ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La nature, « Termes essentiels » (causalité), p. 406 — *secondaire* (consultée le 2026-09-29)
+
+**`m-nat-empirique-empirisme`** — Empirique et empirisme : définitions ?  
+Statut : *à vérifier* · Auteurs : Locke
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La nature, « Termes essentiels », p. 406 — *secondaire* (consultée le 2026-09-29)
+
+**`m-nat-entendement`** — Comment Kant distingue-t-il entendement et raison ?  
+Statut : *à vérifier* · Auteurs : Kant
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La nature, « Termes essentiels » (entendement), p. 406 — *secondaire* (consultée le 2026-09-29)
+
+**`m-nat-falsification`** — Qu'est-ce que la falsification chez Popper ?  
+Statut : *à vérifier* · Auteurs : Popper
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La nature, « Termes essentiels » (falsification), p. 406 — *secondaire* (consultée le 2026-09-29)
+
+**`m-nat-induction-loi`** — Induction et loi scientifique : définitions ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La nature, « Termes essentiels », p. 406 — *secondaire* (consultée le 2026-09-29)
+
+**`m-nat-modele-phenomene`** — Modèle (paradigme), phénomène, phénoménal / nouménal : définitions ?  
+Statut : *à vérifier* · Auteurs : Kant
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La nature, « Termes essentiels », p. 406-407 — *secondaire* (consultée le 2026-09-29)
+
+**`m-nat-experimentation`** — Quelle différence entre expérience et expérimentation ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La nature, « Termes essentiels » (protocole d'expérimentation), p. 407 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rais-ratio-logos`** — Quelles sont l'origine latine et l'équivalent grec de « raison » ?  
+Statut : *à vérifier* · Auteurs : Cicéron
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La raison, « De l'usage du mot à la notion », p. 435 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rais-bon-sens`** — Comment Descartes définit-il la raison au début du Discours de la méthode ?  
+Statut : *à vérifier* · Auteurs : Descartes
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La raison, « De l'usage du mot à la notion », p. 435-436 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rais-theorique-pratique`** — Dans quelles deux directions la raison se déploie-t-elle ?  
+Statut : *à vérifier* · Auteurs : Aristote, Kant
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La raison, « De l'usage du mot à la notion », p. 436-437 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rais-apodictique-axiome`** — Apodictique et axiome : définitions ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La raison, « Termes essentiels », p. 438 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rais-deduction-inference`** — Déduction et inférence : différence ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La raison, « Termes essentiels », p. 438 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rais-definition`** — Quels types de définitions distingue-t-on, et quelle est la forme classique ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La raison, « Termes essentiels » (définition), p. 438 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rais-dialectique`** — Quels sont les quatre grands emplois du terme « dialectique » ?  
+Statut : *à vérifier* · Auteurs : Platon, Aristote, Hegel
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La raison, « Termes essentiels » (dialectique), p. 438 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rais-jugement-predicat`** — Jugement, prédicat, proposition, terme : définitions ?  
+Statut : *à vérifier* · Auteurs : Aristote
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La raison, « Termes essentiels », p. 438-439 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rais-postulat`** — Qu'est-ce qu'un postulat, et en quoi diffère-t-il d'un axiome ?  
+Statut : *à vérifier* · Auteurs : Euclide
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La raison, « Termes essentiels » (postulat), p. 438 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rais-principes`** — Quels sont les principes de contradiction et de raison suffisante ?  
+Statut : *à vérifier* · Auteurs : Aristote, Leibniz
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La raison, « Termes essentiels », p. 438-439 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rais-ruse`** — Qu'est-ce que la « ruse de la raison » chez Hegel ?  
+Statut : *à vérifier* · Auteurs : Hegel, Leibniz, Smith, Kant
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La raison, « Termes essentiels » (ruse de la raison), p. 439 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rais-sophisme-syllogisme`** — Sophisme et syllogisme : définitions ?  
+Statut : *à vérifier* · Auteurs : Aristote
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La raison, « Termes essentiels », p. 439 — *secondaire* (consultée le 2026-09-29)
+
+**`m-reli-usages`** — Qu'indiquent les expressions figurées « écouter religieusement », « se faire sa religion » ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La religion, « De l'usage du mot à la notion », p. 461 — *secondaire* (consultée le 2026-09-29)
+
+**`m-reli-diversite`** — Quels phénomènes différents le mot « religion » amalgame-t-il ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La religion, « De l'usage du mot à la notion », p. 461-462 — *secondaire* (consultée le 2026-09-29)
+
+**`m-reli-relegere-religare`** — Quelles sont les deux étymologies concurrentes de religio ?  
+Statut : *à vérifier* · Auteurs : Cicéron, Lactance, Benveniste
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La religion, « De l'usage du mot à la notion », p. 462 — *secondaire* (consultée le 2026-09-29)
+
+**`m-reli-anthropomorphisme`** — Qu'est-ce que l'anthropomorphisme ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La religion, « Termes essentiels » (anthropomorphisme), p. 464 — *secondaire* (consultée le 2026-09-29)
+
+**`m-reli-athee-agnostique`** — Athée, irréligieux, agnostique : quelle différence ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La religion, « Termes essentiels » (athée, athéisme), p. 464 — *secondaire* (consultée le 2026-09-29)
+
+**`m-reli-coran-culte`** — Qu'est-ce que le Coran, et qu'est-ce que le culte ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La religion, « Termes essentiels », p. 464 — *secondaire* (consultée le 2026-09-29)
+
+**`m-reli-mono-poly`** — Monothéisme et polythéisme : définitions ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La religion, « Termes essentiels », p. 464 — *secondaire* (consultée le 2026-09-29)
+
+**`m-reli-mythe`** — Qu'est-ce qu'un mythe, et à quoi l'oppose-t-on ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La religion, « Termes essentiels » (mythe), p. 464 — *secondaire* (consultée le 2026-09-29)
+
+**`m-reli-sacre-profane`** — Sacré, profane, sacrilège : définitions ?  
+Statut : *à vérifier* · Auteurs : Durkheim
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La religion, « Termes essentiels », p. 464 — *secondaire* (consultée le 2026-09-29)
+
+**`m-reli-revelation-rite`** — Révélation et rite : définitions ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La religion, « Termes essentiels », p. 464 — *secondaire* (consultée le 2026-09-29)
+
+**`m-reli-secte-superstition`** — Secte, superstition, théologie : définitions ?  
+Statut : *à vérifier* · Auteurs : Cicéron
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La religion, « Termes essentiels », p. 464-465 — *secondaire* (consultée le 2026-09-29)
+
+**`m-scie-revolution`** — Comment la science moderne est-elle liée à la technique et à la maîtrise de la nature ?  
+Statut : *à vérifier* · Auteurs : Descartes, Bacon, Galilée
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La science, « De l'usage du mot à la notion », p. 489-491 — *secondaire* (consultée le 2026-09-29)
+
+**`m-scie-etymologie`** — Que révèle l'étymologie de « science » ?  
+Statut : *à vérifier* · Auteurs : Aristote, Platon, Foucault
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La science, « De l'usage du mot à la notion », p. 491 — *secondaire* (consultée le 2026-09-29)
+
+**`m-scie-sens-large`** — Pourquoi ne faut-il pas réduire « science » aux sciences modernes ?  
+Statut : *à vérifier* · Auteurs : Aristote
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La science, « De l'usage du mot à la notion », p. 491 — *secondaire* (consultée le 2026-09-29)
+
+**`m-scie-inquietudes`** — Quelles inquiétudes la science suscite-t-elle (scientisme, transhumanisme) ?  
+Statut : *à vérifier* · Auteurs : Goethe, Shelley
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La science, « De l'usage du mot à la notion », p. 491-492 — *secondaire* (consultée le 2026-09-29)
+
+**`m-scie-bioethique`** — Qu'est-ce que la bioéthique ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La science, « Termes essentiels » (bioéthique), p. 492 — *secondaire* (consultée le 2026-09-29)
+
+**`m-scie-comprendre-expliquer`** — Quelle distinction Dilthey propose-t-il entre expliquer et comprendre ?  
+Statut : *à vérifier* · Auteurs : Dilthey
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La science, « Termes essentiels » (compréhension/explication), p. 492 — *secondaire* (consultée le 2026-09-29)
+
+**`m-scie-epistemologie`** — Qu'est-ce que l'épistémologie ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La science, « Termes essentiels » (épistémologie), p. 493 — *secondaire* (consultée le 2026-09-29)
+
+**`m-scie-physicalisme`** — Qu'est-ce que le physicalisme ?  
+Statut : *à vérifier* · Auteurs : Neurath
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La science, « Termes essentiels » (physicalisme), p. 494 — *secondaire* (consultée le 2026-09-29)
+
+**`m-scie-positivisme`** — Qu'est-ce que le positivisme d'Auguste Comte ?  
+Statut : *à vérifier* · Auteurs : Comte
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La science, « Termes essentiels » (positivisme), p. 494 — *secondaire* (consultée le 2026-09-29)
+
+**`m-scie-reductionnisme`** — Qu'est-ce que le réductionnisme ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La science, « Termes essentiels » (réductionnisme), p. 494 — *secondaire* (consultée le 2026-09-29)
+
+**`m-scie-rupture-epistemologique`** — Qu'est-ce que la rupture épistémologique (Bachelard) ?  
+Statut : *à vérifier* · Auteurs : Bachelard
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La science, « Termes essentiels », p. 494 — *secondaire* (consultée le 2026-09-29)
+
+**`m-scie-cognitives-scientisme`** — Sciences cognitives et scientisme : définitions ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La science, « Termes essentiels », p. 495 — *secondaire* (consultée le 2026-09-29)
+
+**`m-scie-teleologie`** — Téléologie et téléonomie : quelle différence ?  
+Statut : *à vérifier* · Auteurs : Monod
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La science, « Termes essentiels », p. 495 — *secondaire* (consultée le 2026-09-29)
+
+**`m-tech-definition`** — Comment le manuel définit-il la technique, et sur quoi repose-t-elle ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La technique, « De l'usage du mot à la notion », p. 537 — *secondaire* (consultée le 2026-09-29)
+
+**`m-tech-techne-technologie`** — Quel rapport y a-t-il entre technê, technique et technologie ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La technique, « De l'usage du mot à la notion », p. 537-538 — *secondaire* (consultée le 2026-09-29)
+
+**`m-tech-alienation`** — Que signifie l'aliénation, et en quel sens la technique est-elle dite aliénante ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La technique, « Termes essentiels » (aliénation), p. 538 — *secondaire* (consultée le 2026-09-29)
+
+**`m-tech-artisan-design`** — Artisan et design : définitions ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La technique, « Termes essentiels », p. 538 — *secondaire* (consultée le 2026-09-29)
+
+**`m-tech-gestell`** — Que désigne Gestell (arraisonnement) chez Heidegger ?  
+Statut : *à vérifier* · Auteurs : Heidegger
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La technique, « Termes essentiels » (das Gestell), p. 538 — *secondaire* (consultée le 2026-09-29)
+
+**`m-tech-instrument-outil`** — Instrument, outil, machine : quelles distinctions ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La technique, « Termes essentiels », p. 538-540 — *secondaire* (consultée le 2026-09-29)
+
+**`m-tech-machinisme-mecanisme`** — Machinisme, mécanisme, mass media : définitions ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La technique, « Termes essentiels », p. 540 — *secondaire* (consultée le 2026-09-29)
+
+**`m-tech-industrielle-technocratie`** — Technique industrielle et technocratie : définitions ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La technique, « Termes essentiels », p. 540 — *secondaire* (consultée le 2026-09-29)
+
+**`m-temp-avoir`** — Que révèlent les expressions « avoir le temps », « prendre son temps » ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le temps, « De l'usage du mot à la notion », p. 565-566 — *secondaire* (consultée le 2026-09-29)
+
+**`m-temp-tempus`** — Que révèle l'étymologie de « temps » (tempus) ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le temps, « De l'usage du mot à la notion », p. 566 — *secondaire* (consultée le 2026-09-29)
+
+**`m-temp-chronos-kairos`** — Chronos, kairos, aiôn : que désignent ces trois mots grecs ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le temps, « De l'usage du mot à la notion », p. 567 — *secondaire* (consultée le 2026-09-29)
+
+**`m-temp-conscience-historique`** — Conscience historique et époque : définitions ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le temps, « Termes essentiels », p. 568 — *secondaire* (consultée le 2026-09-29)
+
+**`m-temp-dasein`** — Qu'est-ce que le Dasein chez Heidegger ?  
+Statut : *à vérifier* · Auteurs : Heidegger
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le temps, « Termes essentiels » (Dasein), p. 568 — *secondaire* (consultée le 2026-09-29)
+
+**`m-temp-distension`** — Que signifie la distension de l'âme chez saint Augustin ?  
+Statut : *à vérifier* · Auteurs : Augustin
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le temps, « Termes essentiels » (distension), p. 568 — *secondaire* (consultée le 2026-09-29)
+
+**`m-temp-duree`** — Comment définit-on la durée, objectivement et chez Bergson ?  
+Statut : *à vérifier* · Auteurs : Bergson
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le temps, « Termes essentiels » (durée), p. 568 — *secondaire* (consultée le 2026-09-29)
+
+**`m-temp-eternite`** — Quelles sont les deux conceptions de l'éternité ?  
+Statut : *à vérifier* · Auteurs : Parménide, Plotin, Boèce, Augustin
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le temps, « Termes essentiels » (éternité), p. 568 — *secondaire* (consultée le 2026-09-29)
+
+**`m-temp-finitude-historialite`** — Finitude, historialité, historicité : définitions ?  
+Statut : *à vérifier* · Auteurs : Heidegger
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le temps, « Termes essentiels », p. 569 — *secondaire* (consultée le 2026-09-29)
+
+**`m-temp-present-passe-futur`** — Présent, passé, futur, avenir : comment distinguer futur et avenir ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le temps, « Termes essentiels », p. 569 — *secondaire* (consultée le 2026-09-29)
+
+**`m-temp-sempiternite-temporalite`** — Sempiternité, perpétuité, temporalité : définitions ?  
+Statut : *à vérifier* · Auteurs : Sartre, Heidegger
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le temps, « Termes essentiels », p. 569 — *secondaire* (consultée le 2026-09-29)
+
+**`m-trav-sens`** — Quels sont les différents sens du mot « travail » ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le travail, « De l'usage du mot à la notion », p. 605 — *secondaire* (consultée le 2026-09-29)
+
+**`m-trav-tripalium`** — Que révèle l'étymologie de « travailler » ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le travail, « De l'usage du mot à la notion », p. 605-606 — *secondaire* (consultée le 2026-09-29)
+
+**`m-trav-reflechi`** — En quoi le travail humain est-il une activité réfléchie et productive ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le travail, « De l'usage du mot à la notion », p. 606 — *secondaire* (consultée le 2026-09-29)
+
+**`m-trav-conscience-sociale`** — Qu'est-ce que la conscience sociale ?  
+Statut : *à vérifier* · Auteurs : Durkheim
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le travail, « Termes essentiels » (conscience sociale), p. 608 — *secondaire* (consultée le 2026-09-29)
+
+**`m-trav-esclavage-servage`** — Comment distinguer esclavage antique, servage et esclavage moderne ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le travail, « Termes essentiels » (esclavage, servage), p. 608 — *secondaire* (consultée le 2026-09-29)
+
+**`m-trav-division`** — Quelles sont les deux formes de la division du travail ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le travail, « Termes essentiels » (division du travail), p. 608 — *secondaire* (consultée le 2026-09-29)
+
+**`m-trav-interet-labeur`** — Intérêt et labeur : définitions ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le travail, « Termes essentiels », p. 608 — *secondaire* (consultée le 2026-09-29)
+
+**`m-trav-loisir`** — Que révèle l'étymologie de « loisir » ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le travail, « Termes essentiels » (loisir), p. 608 — *secondaire* (consultée le 2026-09-29)
+
+**`m-trav-marchandise-marche`** — Marchandise et marché : définitions ?  
+Statut : *à vérifier* · Auteurs : Marx
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le travail, « Termes essentiels », p. 608-609 — *secondaire* (consultée le 2026-09-29)
+
+**`m-trav-production-productivite`** — Production et productivité : définitions ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le travail, « Termes essentiels », p. 609 — *secondaire* (consultée le 2026-09-29)
+
+**`m-trav-reification`** — Qu'est-ce que la réification ?  
+Statut : *à vérifier* · Auteurs : Marx
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Le travail, « Termes essentiels » (réification), p. 609 — *secondaire* (consultée le 2026-09-29)
+
+**`m-veri-usages`** — Quelle est la définition classique de la vérité, et quels sont ses contraires ?  
+Statut : *à vérifier* · Auteurs : Thomas d’Aquin
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La vérité, « De l'usage du mot à la notion », p. 635 — *secondaire* (consultée le 2026-09-29)
+
+**`m-veri-veritas-aletheia`** — Que signifie veritas, et en quoi diffère-t-il du grec alêtheia ?  
+Statut : *à vérifier* · Auteurs : Heidegger
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La vérité, « De l'usage du mot à la notion », p. 635-636 — *secondaire* (consultée le 2026-09-29)
+
+**`m-veri-adequation-certitude`** — Adéquation et certitude : définitions ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La vérité, « Termes essentiels », p. 637 — *secondaire* (consultée le 2026-09-29)
+
+**`m-veri-clarte-distinction`** — Clarté et distinction (Descartes) : définitions ?  
+Statut : *à vérifier* · Auteurs : Descartes
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La vérité, « Termes essentiels », p. 637 — *secondaire* (consultée le 2026-09-29)
+
+**`m-veri-evidence-paradoxe`** — Quel est le paradoxe de l'évidence ?  
+Statut : *à vérifier* · Auteurs : Spinoza
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La vérité, « Termes essentiels » (évidence), p. 637 — *secondaire* (consultée le 2026-09-29)
+
+**`m-veri-deduction-exactitude`** — Déduction et exactitude : définitions ?  
+Statut : *à vérifier* · Auteurs : Descartes
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La vérité, « Termes essentiels », p. 637 — *secondaire* (consultée le 2026-09-29)
+
+**`m-veri-illumination`** — Qu'est-ce que l'illumination dans la pensée médiévale ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La vérité, « Termes essentiels » (illumination), p. 637-638 — *secondaire* (consultée le 2026-09-29)
+
+**`m-veri-intuition`** — Qu'est-ce que l'intuition, et comment Frege s'en est-il éloigné en arithmétique ?  
+Statut : *à vérifier* · Auteurs : Frege
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La vérité, « Termes essentiels » (intuition), p. 638 — *secondaire* (consultée le 2026-09-29)
+
+**`m-veri-perspectivisme`** — Qu'est-ce que le perspectivisme (Nietzsche) ?  
+Statut : *à vérifier* · Auteurs : Nietzsche
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, La vérité, « Termes essentiels » (perspectivisme), p. 638 — *secondaire* (consultée le 2026-09-29)
+
+**`m-suj-je`** — Qu'est-ce qu'être un sujet au sens moderne, et que disent Kant et Benveniste du « Je » ?  
+Statut : *à vérifier* · Auteurs : Kant, Benveniste
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « L'histoire de la notion de sujet en questions » (textes 553-554), p. 767-768 — *secondaire* (consultée le 2026-09-29)
+
+**`m-suj-ambiguite`** — Quelle ambiguïté recèle le mot « sujet » ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « L'histoire de la notion de sujet en questions », p. 768 — *secondaire* (consultée le 2026-09-29)
+
+**`m-suj-subjectum`** — D'où vient le mot « sujet », et quel lien a-t-il avec la substance ?  
+Statut : *à vérifier* · Auteurs : Aristote, Descartes
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « L'histoire de la notion de sujet en questions » (texte 555), p. 768-769 — *secondaire* (consultée le 2026-09-29)
+
+**`m-suj-inversion`** — Comment le sens de « sujet » et d'« objet » s'est-il inversé selon Heidegger ?  
+Statut : *à vérifier* · Auteurs : Heidegger, Descartes
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « L'histoire de la notion de sujet en questions » (texte 556), p. 769-770 — *secondaire* (consultée le 2026-09-29)
+
+**`m-suj-descartes-substance-pensante`** — Quelle place Descartes donne-t-il au sujet ?  
+Statut : *à vérifier* · Auteurs : Descartes, Boehm
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « L'histoire de la notion de sujet en questions » (texte 557), p. 770-771 — *secondaire* (consultée le 2026-09-29)
+
+**`m-suj-effacement`** — Pourquoi Lévi-Strauss veut-il « faire abstraction du sujet » ?  
+Statut : *à vérifier* · Auteurs : Lévi-Strauss
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « L'histoire de la notion de sujet en questions » (textes 558-559), p. 772 — *secondaire* (consultée le 2026-09-29)
+
+**`m-suj-foucault`** — Que soutient Foucault sur la fabrication du sujet ?  
+Statut : *à vérifier* · Auteurs : Foucault
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « L'histoire de la notion de sujet en questions » (texte 560), p. 773 — *secondaire* (consultée le 2026-09-29)
+
+**`m-suj-legendre`** — Quel danger Legendre voit-il dans le « sujet-Roi » ?  
+Statut : *à vérifier* · Auteurs : Legendre
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « L'histoire de la notion de sujet en questions » (textes 561-562), p. 773-774 — *secondaire* (consultée le 2026-09-29)
+
+**`m-suj-devenir`** — Pourquoi dit-on qu'on ne naît pas sujet mais qu'on le devient ?  
+Statut : *à vérifier* · Auteurs : Nietzsche
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « L'histoire de la notion de sujet en questions », p. 774-775 — *secondaire* (consultée le 2026-09-29)
+
+**`m-myth-definition`** — Qu'est-ce qu'un mythe, et quel rapport a-t-il avec la vérité ?  
+Statut : *à vérifier* · Auteurs : Platon
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « Mythe et tragédie », p. 776 — *secondaire* (consultée le 2026-09-29)
+
+**`m-myth-muthos-logos`** — Comment le sens de muthos a-t-il évolué par rapport à logos ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « Mythe et tragédie », p. 776 — *secondaire* (consultée le 2026-09-29)
+
+**`m-myth-otto-veyne`** — Que soutiennent W. F. Otto et Paul Veyne sur le mythe ?  
+Statut : *à vérifier* · Auteurs : Otto, Veyne
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « Mythe et tragédie » (textes 563-564), p. 776-777 — *secondaire* (consultée le 2026-09-29)
+
+**`m-myth-cosmogonies`** — Quels mythes cosmogoniques le manuel cite-t-il ?  
+Statut : *à vérifier* · Auteurs : Hésiode, Platon
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « Mythe et tragédie », p. 777-778 — *secondaire* (consultée le 2026-09-29)
+
+**`m-myth-oedipe-legende`** — Que raconte la légende d'Œdipe (version de Sophocle) ?  
+Statut : *à vérifier* · Auteurs : Sophocle
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « Mythe et tragédie », p. 778 — *secondaire* (consultée le 2026-09-29)
+
+**`m-myth-oedipe-levi-strauss`** — Comment Lévi-Strauss analyse-t-il le mythe d'Œdipe ?  
+Statut : *à vérifier* · Auteurs : Lévi-Strauss
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « Mythe et tragédie » (texte 566), p. 778-779 — *secondaire* (consultée le 2026-09-29)
+
+**`m-myth-oedipe-freud`** — Comment Freud interprète-t-il le mythe d'Œdipe ?  
+Statut : *à vérifier* · Auteurs : Freud
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « Mythe et tragédie » (texte 567), p. 779 — *secondaire* (consultée le 2026-09-29)
+
+**`m-trag-definition`** — Qu'est-ce que la tragédie athénienne, et quelle est sa source ?  
+Statut : *à vérifier* · Auteurs : Aristote, Eschyle, Sophocle, Euripide
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « Mythe et tragédie », p. 779-780 — *secondaire* (consultée le 2026-09-29)
+
+**`m-trag-faute-hybris`** — Quelle est la « faute » du héros tragique ?  
+Statut : *à vérifier* · Auteurs : Sophocle, Eschyle
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « Mythe et tragédie », p. 780 — *secondaire* (consultée le 2026-09-29)
+
+**`m-trag-role-politique`** — Quel est le rôle politique de la tragédie (Œdipe à Colone, Les Euménides) ?  
+Statut : *à vérifier* · Auteurs : Sophocle, Eschyle
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « Mythe et tragédie », p. 780-781 — *secondaire* (consultée le 2026-09-29)
+
+**`m-hsci-antique-1`** — Quelles sont les principales caractéristiques de la conception antique de la science ?  
+Statut : *à vérifier* · Auteurs : Aristote, Euclide
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « Histoire des différentes conceptions de la science », p. 783 — *secondaire* (consultée le 2026-09-29)
+
+**`m-hsci-antique-2`** — Comment la science antique se rapporte-t-elle à la technique et au réel ?  
+Statut : *à vérifier* · Auteurs : Archimède, Ptolémée
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « Histoire des différentes conceptions de la science », p. 783-784 — *secondaire* (consultée le 2026-09-29)
+
+**`m-hsci-medievale-salut`** — Comment la science médiévale se subordonne-t-elle à la foi ?  
+Statut : *à vérifier* · Auteurs : Paul de Tarse, Augustin, Bonaventure
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « Histoire des différentes conceptions de la science » (textes 570-574), p. 784-785 — *secondaire* (consultée le 2026-09-29)
+
+**`m-hsci-medievale-doctrinale`** — Quelle approche du savoir domine au Moyen Âge (vérité révélée, arts libéraux) ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « Histoire des différentes conceptions de la science », p. 785-786 — *secondaire* (consultée le 2026-09-29)
+
+**`m-hsci-arabe-occultisme`** — Quel rôle jouent la civilisation arabo-musulmane et l'occultisme dans l'histoire des sciences ?  
+Statut : *à vérifier* · Auteurs : Al-Khwârizmî
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « Histoire des différentes conceptions de la science », p. 784-786 — *secondaire* (consultée le 2026-09-29)
+
+**`m-hsci-classique-maitre`** — Comment la science de l'âge classique se rapporte-t-elle à l'utilité et à la technique ?  
+Statut : *à vérifier* · Auteurs : Descartes, Bacon, Séris
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « Histoire des différentes conceptions de la science » (texte 575), p. 786-787 — *secondaire* (consultée le 2026-09-29)
+
+**`m-hsci-classique-experimentation`** — Comment l'expérimentation change-t-elle à l'âge classique ?  
+Statut : *à vérifier* · Auteurs : Pascal, Koyré
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « Histoire des différentes conceptions de la science » (texte 576), p. 787 — *secondaire* (consultée le 2026-09-29)
+
+**`m-hsci-classique-mathematisation`** — Que signifie la mathématisation de la nature à l'âge classique ?  
+Statut : *à vérifier* · Auteurs : Galilée, Kant, Newton
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « Histoire des différentes conceptions de la science » (textes 577-580), p. 787-788 — *secondaire* (consultée le 2026-09-29)
+
+**`m-hsci-classique-systeme`** — Quel idéal de système et d'achèvement la science classique poursuit-elle ?  
+Statut : *à vérifier* · Auteurs : Comte
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « Histoire des différentes conceptions de la science », p. 788 — *secondaire* (consultée le 2026-09-29)
+
+**`m-hsci-contemporaine-construit`** — Pourquoi la science contemporaine construit-elle ses faits (Marx, Bachelard, Popper) ?  
+Statut : *à vérifier* · Auteurs : Marx, Bachelard, Popper
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « Histoire des différentes conceptions de la science » (textes 581-583), p. 789-790 — *secondaire* (consultée le 2026-09-29)
+
+**`m-hsci-contemporaine-lois`** — Que pense-t-on de l'explication par les lois (Comte, Meyerson) ?  
+Statut : *à vérifier* · Auteurs : Comte, Meyerson
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « Histoire des différentes conceptions de la science » (textes 584-585), p. 790 — *secondaire* (consultée le 2026-09-29)
+
+**`m-hsci-contemporaine-methode`** — Quelle place la méthode et la spécialisation occupent-elles dans la science contemporaine ?  
+Statut : *à vérifier* · Auteurs : Nietzsche, Heidegger, Bachelard, Hersch, Thom
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « Histoire des différentes conceptions de la science » (textes 586-591), p. 790-792 — *secondaire* (consultée le 2026-09-29)
+
+**`m-hsci-contemporaine-technoscience`** — Qu'est-ce que la technoscience, et que dit Putnam du scientisme ?  
+Statut : *à vérifier* · Auteurs : Ellul, Putnam, Heidegger
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « Histoire des différentes conceptions de la science » (textes 593-596), p. 792-793 — *secondaire* (consultée le 2026-09-29)
+
+**`m-hsci-physique-xx`** — Quelle remise en cause la physique du XXe siècle apporte-t-elle ?  
+Statut : *à vérifier* · Auteurs : Poincaré
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « Histoire des différentes conceptions de la science » (texte 592), p. 792 — *secondaire* (consultée le 2026-09-29)
+
+**`m-fr-definition`** — Peut-on définir la religion par le culte rendu à des dieux ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « Le fait religieux », p. 793 — *secondaire* (consultée le 2026-09-29)
+
+**`m-fr-fonction`** — Quelle fonction anthropologique les religions remplissent-elles ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « Le fait religieux », p. 793 — *secondaire* (consultée le 2026-09-29)
+
+**`m-fr-durkheim`** — Comment Durkheim définit-il la religion ?  
+Statut : *à vérifier* · Auteurs : Durkheim
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « Le fait religieux » (texte 597), p. 793 — *secondaire* (consultée le 2026-09-29)
+
+**`m-fr-antiques`** — Quels traits caractérisent les religions antiques (Égypte, Grèce, Rome) ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « Le fait religieux », p. 793-794 — *secondaire* (consultée le 2026-09-29)
+
+**`m-fr-monotheismes`** — Pourquoi parler de « trois monothéismes » est-il approximatif ?  
+Statut : *à vérifier* · Auteurs : Xénophane
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « Le fait religieux », p. 794-795 — *secondaire* (consultée le 2026-09-29)
+
+**`m-fr-noms`** — D'où viennent les noms « judaïsme », « chrétien », « islam » ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « Le fait religieux », p. 795-796 — *secondaire* (consultée le 2026-09-29)
+
+**`m-fr-textes-sacres`** — Comment les trois monothéismes se rapportent-ils à leur livre sacré ?  
+Statut : *à vérifier* · Auteurs : Heine
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « Le fait religieux », p. 796-797 — *secondaire* (consultée le 2026-09-29)
+
+**`m-fr-bible`** — Comment se composent la Bible hébraïque et la Bible chrétienne ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « Le fait religieux » (les textes sacrés), p. 796-797 — *secondaire* (consultée le 2026-09-29)
+
+**`m-fr-histoire-juive`** — Quels sont les repères de l'histoire juive selon le manuel ?  
+Statut : *à vérifier* · Auteurs : Moïse, David, Salomon
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Références culturelles, « Le fait religieux », p. 797-798 — *secondaire* (consultée le 2026-09-29)
+
+### Repères (57)
 
 **`rep-fait-droit`** — Repère : en fait / en droit  
 Statut : *à vérifier*
@@ -712,6 +1636,174 @@ Statut : *à vérifier*
 Statut : *à vérifier*
 - Programme de philosophie des classes terminales générales et technologiques, BO spécial n° 8 du 25 juillet 2019 — *officielle* (non consultée)
 - Doute : L'énoncé exact des repères est à contrôler dans le BO (accès au texte officiel impossible pendant la rédaction).
+
+**`m-rep-absolu-relatif`** — Repère « absolu / relatif » : que désigne l'absolu, et que désigne le relatif ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Absolu/relatif », p. 663-665 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-absolu-textes`** — Quels textes le manuel associe-t-il au repère absolu / relatif ?  
+Statut : *à vérifier* · Auteurs : Descartes, Leibniz, Kant, Hegel, Bergson
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Absolu/relatif », textes 407-411, p. 664-665 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-abstrait-concret`** — Repère « abstrait / concret » : qu'est-ce qu'abstraire ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Abstrait/concret », p. 666-667 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-abstrait-textes`** — Que disent Kant, Hegel et Marx du repère abstrait / concret ?  
+Statut : *à vérifier* · Auteurs : Kant, Hegel, Marx
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Abstrait/concret », textes 412-414, p. 667-668 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-acte-puissance`** — Repère « en acte / en puissance » : comment le définit-on, avec quel exemple ?  
+Statut : *à vérifier* · Auteurs : Aristote
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « En acte/en puissance », p. 669-670 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-acte-puissance-limites`** — Pourquoi le couple puissance / acte n'implique-t-il pas toujours un accomplissement ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « En acte/en puissance », p. 670 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-analyse-synthese`** — Repère « analyse / synthèse » : que signifient les deux termes ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Analyse/synthèse », p. 671-672 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-analyse-textes`** — Quels préceptes de Descartes correspondent à l'analyse et à la synthèse ?  
+Statut : *à vérifier* · Auteurs : Descartes, Bergson
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Analyse/synthèse », textes 417-420, p. 672 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-concept-image-metaphore`** — Repère « concept / image / métaphore » : qu'est-ce qu'un concept, et en quoi diffère-t-il de l'image ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Concept/image/métaphore », p. 673-674 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-metaphore`** — En quoi la métaphore n'est-elle pas une simple comparaison abrégée ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Concept/image/métaphore », p. 674-676 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-bachelard-metaphore`** — Pourquoi Bachelard voit-il dans la métaphore un « obstacle épistémologique » ?  
+Statut : *à vérifier* · Auteurs : Bachelard
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Concept/image/métaphore », texte 427, p. 675-678 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-cause-fin`** — Repère « cause / fin » : quelle question pose chacune ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Cause/fin », p. 679-680 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-cause-fin-science`** — Pourquoi la physique classique a-t-elle écarté la finalité ?  
+Statut : *à vérifier* · Auteurs : Aristote
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Cause/fin », p. 680-681 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-cause-fin-textes`** — Que retenir des textes d'Aristote, Kant et Nietzsche sur cause et fin ?  
+Statut : *à vérifier* · Auteurs : Aristote, Kant, Nietzsche
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Cause/fin », textes 433-437, p. 681-682 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-contingent-necessaire`** — Repère « contingent / nécessaire / possible » : définitions.  
+Statut : *à vérifier* · Auteurs : Leibniz, Aristote
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Contingent/nécessaire/possible », p. 682-683 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-contingent-textes`** — Quelles distinctions apportent Aristote, Boèce, Leibniz et Boutroux sur le nécessaire ?  
+Statut : *à vérifier* · Auteurs : Aristote, Boèce, Leibniz, Boutroux
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Contingent/nécessaire/possible », textes 438-442, p. 683-684 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-croire-savoir`** — Repère « croire / savoir » : en quoi diffèrent-ils ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Croire/savoir », p. 684-685 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-croire-textes`** — Que retenir de Platon, Hume et Sartre sur croire / savoir ?  
+Statut : *à vérifier* · Auteurs : Platon, Hume, Sartre
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Croire/savoir », textes 443-445, p. 685-686 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-essentiel-accidentel`** — Repère « essentiel / accidentel » : que désigne chaque terme ?  
+Statut : *à vérifier* · Auteurs : Aristote
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Essentiel/accidentel », p. 687-688 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-essentiel-socrate`** — Quel lien y a-t-il entre la question socratique « qu'est-ce que X ? » et l'essentiel ?  
+Statut : *à vérifier* · Auteurs : Platon, Socrate
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Essentiel/accidentel », p. 687-688 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-expliquer-comprendre`** — Repère « expliquer / comprendre » : distinction.  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Expliquer/comprendre », p. 690-691 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-fait-droit`** — Repère « en fait / en droit » : que oppose-t-il ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « En fait/en droit », p. 692-693 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-exemple-preuve`** — Repère « exemple / preuve » : un exemple prouve-t-il quelque chose ?  
+Statut : *à vérifier* · Auteurs : Kant, Bergson
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Exemple/preuve », p. 694-695 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-forme-matiere`** — Repère « forme / matière » : sens courant et sens philosophique.  
+Statut : *à vérifier* · Auteurs : Aristote, Platon
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Forme/matière », p. 698-699 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-genre-espece-individu`** — Repère « genre / espèce / individu » : comment s'emboîtent-ils ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Genre/espèce/individu », p. 700-701 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-ideal-reel`** — Repère « idéal / réel » : quel paradoxe le manuel relève-t-il ?  
+Statut : *à vérifier* · Auteurs : Platon
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Idéal/réel », p. 702-703 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-identite-egalite`** — Repère « identité / égalité / différence » : que signifient identité et égalité ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Identité/égalité/différence », p. 704-705 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-intuitif-discursif`** — Repère « intuitif / discursif » : que désignent-ils ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Intuitif/discursif », p. 706-708 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-legal-legitime`** — Repère « légal / légitime » : la légalité suffit-elle à la légitimité ?  
+Statut : *à vérifier* · Auteurs : Kant
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Légal/légitime », p. 709-710 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-mediat-immediat`** — Repère « médiat / immédiat » : définitions.  
+Statut : *à vérifier* · Auteurs : Bergson, Descartes
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Médiat/immédiat », p. 711-713 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-objectif-subjectif`** — Repère « objectif / subjectif / intersubjectif » : sens des termes.  
+Statut : *à vérifier* · Auteurs : Husserl
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Objectif/subjectif/intersubjectif », p. 714-717 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-obligation-contrainte`** — Repère « obligation / contrainte » : quelle différence ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Obligation/contrainte », p. 718-719 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-origine-fondement`** — Repère « origine / fondement » : pourquoi les distinguer ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Origine/fondement », p. 720-721 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-persuader-convaincre`** — Repère « persuader / convaincre » : quelle différence ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Persuader/convaincre », p. 722-723 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-principe-consequence`** — Repère « principe / conséquence » : que signifie principe ?  
+Statut : *à vérifier* · Auteurs : Descartes
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Principe/conséquence », p. 724-725 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-public-prive`** — Repère « public / privé » : que désigne « public » au sens strict ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Public/privé », p. 726-727 — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-ressemblance-analogie`** — Repère « ressemblance / analogie » : qu'est-ce qu'une analogie ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Ressemblance/analogie », p. 728-732 (à préciser) — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-theorie-pratique`** — Repère « en théorie / en pratique » : d'où vient leur opposition ?  
+Statut : *à vérifier* · Auteurs : Platon, Aristote
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « En théorie/en pratique », p. 733-734 (à préciser) — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-transcendant-immanent`** — Repère « transcendant / immanent » : définitions.  
+Statut : *à vérifier* · Auteurs : Kant
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Transcendant/immanent », p. 735 (à préciser) — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-universel-general`** — Repère « universel / général / particulier / singulier » : distinction.  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Universel/général/particulier/singulier », p. 735-741 (à préciser) — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-vrai-probable-certain`** — Repère « vrai / probable / certain » : le vrai et le certain sont-ils synonymes ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Vrai/probable/certain », p. 735-741 (à préciser) — *secondaire* (consultée le 2026-09-29)
+
+**`m-rep-leibniz-verites`** — Quelle distinction de Leibniz éclaire le repère vrai / certain ?  
+Statut : *à vérifier* · Auteurs : Leibniz, Descartes
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Repères, « Vrai/probable/certain », p. 735-741 (à préciser) — *secondaire* (consultée le 2026-09-29)
 
 ### Auteurs et œuvres (386)
 
@@ -2329,7 +3421,7 @@ Statut : *à vérifier*
 - Programme HLP, terminale, BO spécial n° 8 du 25 juillet 2019 — *officielle* (non consultée)
 - Doute : Intitulés des axes à contrôler dans le BO.
 
-### Méthode (9)
+### Méthode (19)
 
 **`niet-fragments`** — Pourquoi faut-il être prudent avec les Fragments posthumes de Nietzsche ?  
 Statut : *à vérifier* · Auteurs : Nietzsche
@@ -2375,3 +3467,43 @@ Statut : *à vérifier*
 Statut : *à vérifier*
 - Méthode classique de la dissertation — *secondaire* (non consultée)
 - Doute : Conseil méthodologique général, non sourcé précisément.
+
+**`m-meth-diss-face`** — Que signifie « faire face à la question » dans une dissertation ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Conseils pour la dissertation et l'explication de texte, « La dissertation », p. 807-808 — *secondaire* (consultée le 2026-09-29)
+
+**`m-meth-diss-problematique`** — Qu'est-ce que la problématique d'une dissertation, et d'où part-elle ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Conseils pour la dissertation et l'explication de texte, « La dissertation », p. 808 — *secondaire* (consultée le 2026-09-29)
+
+**`m-meth-diss-petits-mots`** — Pourquoi analyser les « petits mots » du sujet (« peut-on », « doit-on ») ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Conseils pour la dissertation et l'explication de texte, « La dissertation », p. 808 — *secondaire* (consultée le 2026-09-29)
+
+**`m-meth-diss-plan`** — Quels plans faut-il éviter, et que doit être un bon plan ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Conseils pour la dissertation et l'explication de texte, « La dissertation », p. 808 — *secondaire* (consultée le 2026-09-29)
+
+**`m-meth-diss-introduction`** — Quelles sont les trois étapes de l'introduction d'une dissertation ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Conseils pour la dissertation et l'explication de texte, « La rédaction », p. 809 — *secondaire* (consultée le 2026-09-29)
+
+**`m-meth-diss-developpement`** — Quels conseils donne-t-on pour le développement et la conclusion d'une dissertation ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Conseils pour la dissertation et l'explication de texte, « La rédaction », p. 809-810 — *secondaire* (consultée le 2026-09-29)
+
+**`m-meth-texte-attentes`** — Que doit rendre compte l'explication de texte ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Conseils pour la dissertation et l'explication de texte, « L'explication de texte », p. 811 — *secondaire* (consultée le 2026-09-29)
+
+**`m-meth-texte-questions`** — Quelles six questions se poser avant de rédiger une explication de texte ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Conseils pour la dissertation et l'explication de texte, « L'explication de texte », p. 812 — *secondaire* (consultée le 2026-09-29)
+
+**`m-meth-texte-redaction`** — Comment rédiger une explication de texte (introduction, développement, conclusion) ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Conseils pour la dissertation et l'explication de texte, « L'explication de texte », p. 812 — *secondaire* (consultée le 2026-09-29)
+
+**`m-meth-texte-lecture`** — Comment lire le texte avant l'explication ?  
+Statut : *à vérifier*
+- P. Ducat, J. Montenot (dir.), Philosophie, le manuel, 4e éd. enrichie et augmentée, Ellipses, 2020, Conseils pour la dissertation et l'explication de texte, « L'explication de texte », p. 811-812 — *secondaire* (consultée le 2026-09-29)

@@ -1,0 +1,32 @@
+import { M } from './dsl.mjs';
+const N = 'notion';
+export default [
+// ---------- La vérité (manuel, p. 635-638) ----------
+M('m-veri-usages', N, "Quelle est la définition classique de la vérité, et quels sont ses contraires ?",
+  "La conformité (adéquation) entre un jugement, ou une pensée affirmant quelque chose, et l'état de choses auquel il renvoie : adaequatio intellectus et rei (latin scolastique). Ses contraires varient selon les emplois : erreur, illusion, mensonge, inauthenticité, hypocrisie, fausseté.",
+  { a: ['Thomas d’Aquin'], n: ['la vérité'], ref: 'La vérité, « De l\'usage du mot à la notion »', p: '635' }),
+M('m-veri-veritas-aletheia', N, "Que signifie veritas, et en quoi diffère-t-il du grec alêtheia ?",
+  "Veritas : à la fois exactitude du jugement et droiture morale (dire la vérité, c'est parler droit, sans dissimulation). Le grec alêtheia, selon les interprétations inspirées de Heidegger, connote la manifestation, la sortie hors de l'oubli, le dévoilement ; le latin veritas ne porte pas cette idée.",
+  { a: ['Heidegger'], n: ['la vérité'], ref: 'La vérité, « De l\'usage du mot à la notion »', p: '635-636' }),
+M('m-veri-adequation-certitude', N, "Adéquation et certitude : définitions ?",
+  "Adéquation : accord, convenance parfaite entre la pensée ou le jugement et la réalité visée. Certitude : sentiment du sujet qui adhère fermement à ce qu'il tient pour vrai (croyance comme vérité) ; parfois restreinte à l'assurance de posséder la vérité (certus, cerno : discernement).",
+  { n: ['la vérité'], ref: 'La vérité, « Termes essentiels »', p: '637' }),
+M('m-veri-clarte-distinction', N, "Clarté et distinction (Descartes) : définitions ?",
+  "Une idée est claire quand elle se présente immédiatement à l'esprit et se saisit par un acte unique de pensée. Elle est distincte quand on peut la concevoir sans la confondre avec une autre, en la séparant de toutes les autres. Pour Descartes, ce sont les deux critères du vrai.",
+  { a: ['Descartes'], n: ['la vérité'], ref: 'La vérité, « Termes essentiels »', p: '637' }),
+M('m-veri-evidence-paradoxe', N, "Quel est le paradoxe de l'évidence ?",
+  "L'évidence est ce qui est immédiatement « vu » comme vrai, marque d'elle-même (Spinoza : index sui), saisie en un seul acte. Mais l'expérience des fausses évidences oblige à exiger des critères garantissant sa vérité : comment concilier une saisie immédiate et la nécessité de se faire reconnaître comme évidence ?",
+  { a: ['Spinoza'], n: ['la vérité', 'la raison'], ref: 'La vérité, « Termes essentiels » (évidence)', p: '637' }),
+M('m-veri-deduction-exactitude', N, "Déduction et exactitude : définitions ?",
+  "Déduction : opération concluant avec certitude de choses connues avec certitude ; pour Descartes, l'une des opérations fondamentales de la connaissance vraie. Exactitude : précision et rigueur dans la saisie du vrai, excluant l'approximation (sciences dites « exactes »).",
+  { a: ['Descartes'], n: ['la vérité', 'la science'], ref: 'La vérité, « Termes essentiels »', p: '637' }),
+M('m-veri-illumination', N, "Qu'est-ce que l'illumination dans la pensée médiévale ?",
+  "Doctrine selon laquelle la connaissance de la vérité suppose un « don de lumière incréée ». Elle distingue un ordre éternel dans la pensée divine et un ordre changeant, contingent ; l'illumination assure en dernière instance la certitude de la connaissance vraie.",
+  { n: ['la vérité', 'la religion'], ref: 'La vérité, « Termes essentiels » (illumination)', p: '637-638' }),
+M('m-veri-intuition', N, "Qu'est-ce que l'intuition, et comment Frege s'en est-il éloigné en arithmétique ?",
+  "Intuition (intueor, « voir ») : acte par lequel l'esprit voit immédiatement et d'un seul coup ; l'intuition sensible peut errer, l'intuition intellectuelle saisit directement le vrai sans démonstration ni confirmation. Frege (Fondements de l'arithmétique) construit le concept de nombre par la théorie des ensembles, sans recourir à l'intuition.",
+  { a: ['Frege'], n: ['la vérité', 'la raison'], o: "Les Fondements de l'arithmétique", ref: 'La vérité, « Termes essentiels » (intuition)', p: '638' }),
+M('m-veri-perspectivisme', N, "Qu'est-ce que le perspectivisme (Nietzsche) ?",
+  "Doctrine selon laquelle la représentation de la réalité dépend du point de vue de celui qui l'observe. Pour Nietzsche, toute connaissance est relative aux besoins vitaux de celui qui la formule.",
+  { a: ['Nietzsche'], n: ['la vérité'], ref: 'La vérité, « Termes essentiels » (perspectivisme)', p: '638' }),
+];
